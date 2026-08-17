@@ -1,0 +1,15 @@
+{"timestamp": "2026-07-29T12:42:35", "paper": "KGGen", "phase": "B1_enrich_nodes", "duration_s": 133.5, "est_cost_usd": 0.066756}
+{"timestamp": "2026-07-29T12:45:31", "paper": "KGGen", "phase": "B2_enrich_triples", "duration_s": 176.7, "est_cost_usd": 0.088344}
+{"timestamp": "2026-07-29T12:45:44", "paper": "KGGen", "phase": "B3_infer_implicit", "duration_s": 13.1, "est_cost_usd": 0.006538}
+{"timestamp": "2026-07-29T12:47:09", "paper": "AriGraph", "phase": "B1_enrich_nodes", "duration_s": 82.0, "est_cost_usd": 0.041014}
+{"timestamp": "2026-07-29T12:50:44", "paper": "AriGraph", "phase": "B2_enrich_triples", "duration_s": 215.7, "est_cost_usd": 0.107849}
+{"timestamp": "2026-07-29T12:50:55", "paper": "AriGraph", "phase": "B3_infer_implicit", "duration_s": 10.8, "est_cost_usd": 0.005397}
+{"timestamp": "2026-07-29T12:52:07", "paper": "LLM_KGC_Survey", "phase": "B1_enrich_nodes", "duration_s": 70.1, "est_cost_usd": 0.035039}
+{"timestamp": "2026-07-29T12:55:55", "paper": "LLM_KGC_Survey", "phase": "B2_enrich_triples", "duration_s": 227.2, "est_cost_usd": 0.113614}
+{"timestamp": "2026-07-29T12:56:05", "paper": "LLM_KGC_Survey", "phase": "B3_infer_implicit", "duration_s": 10.2, "est_cost_usd": 0.00508}
+{"timestamp": "2026-07-29T12:58:19", "paper": "LLM_KG_Roadmap", "phase": "B1_enrich_nodes", "duration_s": 131.7, "est_cost_usd": 0.065871}
+{"timestamp": "2026-07-29T13:00:03", "paper": "LLM_KG_Roadmap", "phase": "B2_enrich_triples", "duration_s": 104.5, "est_cost_usd": 0.052246}
+{"timestamp": "2026-07-29T13:00:36", "paper": "LLM_KG_Roadmap", "phase": "B3_infer_implicit", "duration_s": 32.4, "est_cost_usd": 0.016187}
+{"timestamp": "2026-07-29T13:03:25", "paper": "GraphRAG_Survey", "phase": "B1_enrich_nodes", "duration_s": 167.2, "est_cost_usd": 0.083622}
+{"timestamp": "2026-07-29T13:06:57", "paper": "GraphRAG_Survey", "phase": "B2_enrich_triples", "duration_s": 211.2, "est_cost_usd": 0.105575}
+{"timestamp": "2026-07-29T13:07:33", "paper": "GraphRAG_Survey", "phase": "B3_infer_implicit", "duration_s": 36.4, "est_cost_usd": 0.018177}

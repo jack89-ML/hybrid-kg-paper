@@ -1,0 +1,4011 @@
+{
+  "nodes": [
+    {
+      "id": "Haonan Bian",
+      "label": "Haonan Bian",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xidian University",
+      "label": "Xidian University",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xi\u2019an China",
+      "label": "Xi'an, China",
+      "category": "Location",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLM",
+      "label": "Large Language Model",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "three",
+      "label": "three",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "first",
+      "label": "first",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "two",
+      "label": "two",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhong et al",
+      "label": "Zhong et al.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2023",
+      "label": "2023",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhao\net al",
+      "label": "Zhao et al.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2024",
+      "label": "2024",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KG",
+      "label": "Knowledge Graph",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhu et al",
+      "label": "Zhu et al.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2024b",
+      "label": "2024b",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhang & Soh",
+      "label": "Zhang & Soh",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2025",
+      "label": "2025",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pan et al.",
+      "label": "Pan et al.",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 3",
+      "label": "Section 3",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 5",
+      "label": "Section 5",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Knowledge Graphs",
+      "label": "Knowledge Graphs",
+      "category": "Concept",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.1",
+      "label": "2.1",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "METHONTOLOGY",
+      "label": "METHONTOLOGY",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zouaq & Nkambou",
+      "label": "Zouaq & Nkambou",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2010",
+      "label": "2010",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Asim et al",
+      "label": "Asim et al.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2018",
+      "label": "2018",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kotis et al",
+      "label": "Kotis et al.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2020",
+      "label": "2020",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.2",
+      "label": "2.2",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Knowledge Extraction",
+      "label": "Knowledge Extraction",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Transformer",
+      "label": "Transformer",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yang et al",
+      "label": "Yang et al.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2022b",
+      "label": "2022b",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Detroja et al",
+      "label": "Detroja et al.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KE",
+      "label": "Knowledge Engineering",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.3",
+      "label": "2.3",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zeng et al",
+      "label": "Zeng et al.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2021",
+      "label": "2021",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2024a",
+      "label": "2024a",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2022a",
+      "label": "2022a",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Liu et al",
+      "label": "Liu et al.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2022",
+      "label": "2022",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGC",
+      "label": "Knowledge Graph Construction",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ontology Engineering",
+      "label": "Ontology Engineering",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Knowledge Graph",
+      "label": "Knowledge Graph",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3.1",
+      "label": "3.1",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Knowledge Engineering",
+      "label": "Knowledge Engineering",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CQ",
+      "label": "CQ",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lippolis et al.",
+      "label": "Lippolis et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2025a",
+      "label": "2025a",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ontology Design Patterns",
+      "label": "Ontology Design Patterns",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Saeedizade & Blomqvist",
+      "label": "Saeedizade & Blomqvist",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lippolis et al",
+      "label": "Lippolis et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2025b",
+      "label": "2025b",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2025b)\u2014systematically",
+      "label": "2025b",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "GPT-4",
+      "label": "GPT-4",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Giglou",
+      "label": "Giglou",
+      "category": "Person",
+      "confidence": 0.75,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mateiu & Groza",
+      "label": "Mateiu & Groza",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "NeOn-GPT",
+      "label": "NeOn-GPT",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Fathallah et al.",
+      "label": "Fathallah et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Fathallah",
+      "label": "Fathallah",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "life sciences",
+      "label": "life sciences",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LKD-KGC",
+      "label": "LKD-KGC",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3.2",
+      "label": "3.2",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGS",
+      "label": "KGS",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the era",
+      "label": "the era",
+      "category": "Other",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Retrieval-Augmented",
+      "label": "Retrieval-Augmented",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Tiwari et al.",
+      "label": "Tiwari et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "EDC",
+      "label": "EDC",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ye et al",
+      "label": "Ye et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Bai et al.",
+      "label": "Bai et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Large Language Model",
+      "label": "Large Language Model",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4.1",
+      "label": "4.1",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kommineni et al",
+      "label": "Kommineni et al.",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "TBox",
+      "label": "TBox",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lu & Wang",
+      "label": "Lu & Wang",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Feng et al",
+      "label": "Feng et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "RDF",
+      "label": "RDF",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Khorshidi",
+      "label": "Khorshidi",
+      "category": "Person",
+      "confidence": 0.75,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4.1.2",
+      "label": "4.1.2",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "AdaKGC",
+      "label": "AdaKGC",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4.2",
+      "label": "4.2",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Large Language Models",
+      "label": "Large Language Models",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Nie et al",
+      "label": "Nie et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xue et al.",
+      "label": "Xue et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "RHF",
+      "label": "RHF",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Papaluca et al",
+      "label": "Papaluca et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wei et al.",
+      "label": "Wei et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGGEN",
+      "label": "KGGEN",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mo et al.",
+      "label": "Mo et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "OIE",
+      "label": "Open Information Extraction",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Open Information Extraction",
+      "label": "Open Information Extraction",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5.2",
+      "label": "5.2",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chen et al.",
+      "label": "Chen et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "EntGPT",
+      "label": "EntGPT",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ding et al.",
+      "label": "Ding et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLM-Align",
+      "label": "LLM-Align",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pons et al",
+      "label": "Pons et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "zero",
+      "label": "zero",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "COMEM",
+      "label": "COMEM",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wang et al.",
+      "label": "Wang et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "China ABSTRACT Knowledge Graphs",
+      "label": "China ABSTRACT Knowledge Graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "fundamental infrastructure",
+      "label": "fundamental infrastructure",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "construction",
+      "label": "construction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "new paradigm",
+      "label": "new paradigm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advent",
+      "label": "advent",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "survey",
+      "label": "survey",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comprehensive overview",
+      "label": "comprehensive overview",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "We",
+      "label": "We",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "traditional KG methodologies",
+      "label": "traditional KG methodologies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "we",
+      "label": "we",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "representative frameworks",
+      "label": "representative frameworks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each stage",
+      "label": "each stage",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "key trends",
+      "label": "key trends",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "clar- ify",
+      "label": "clar- ify",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "systematic review",
+      "label": "systematic review",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "INTRODUCTION Knowledge Graphs",
+      "label": "INTRODUCTION Knowledge Graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "cornerstone",
+      "label": "cornerstone",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "They",
+      "label": "They",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unified semantic foundation",
+      "label": "unified semantic foundation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Conventional KG construction pipelines",
+      "label": "Conventional KG construction pipelines",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three major components",
+      "label": "three major components",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "traditional paradigms",
+      "label": "traditional paradigms",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "face",
+      "label": "face",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "limitations",
+      "label": "limitations",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "development",
+      "label": "development",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "transformative paradigm",
+      "label": "transformative paradigm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LLMs",
+      "label": "LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three key mechanisms",
+      "label": "three key mechanisms",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scale pretraining",
+      "label": "scale pretraining",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "traditional processing tools",
+      "label": "traditional processing tools",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "cognitive engines",
+      "label": "cognitive engines",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "evolution",
+      "label": "evolution",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "paradigm shift",
+      "label": "paradigm shift",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "paper",
+      "label": "paper",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comprehensive survey",
+      "label": "comprehensive survey",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "light",
+      "label": "light",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent research spanning ontology engineering",
+      "label": "recent research spanning ontology engineering",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "\u2022",
+      "label": "\u2022",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "powered knowledge fusion",
+      "label": "powered knowledge fusion",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Section 6",
+      "label": "Section 6",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "future research directions",
+      "label": "future research directions",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "layered prising",
+      "label": "layered prising",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "stages",
+      "label": "stages",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based statistical symbolic approaches",
+      "label": "based statistical symbolic approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "2.1 ENGINEERING Ontology Engineering",
+      "label": "2.1 ENGINEERING Ontology Engineering",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "formal specification",
+      "label": "formal specification",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "by",
+      "label": "by",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pre - LLM era",
+      "label": "pre - LLM era",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "systematic processes",
+      "label": "systematic processes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "conceptual rigor",
+      "label": "conceptual rigor",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "semi - automatic proaches",
+      "label": "semi - automatic proaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "derive",
+      "label": "derive",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "2.2 EXTRACTION Knowledge Extraction",
+      "label": "2.2 EXTRACTION Knowledge Extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "identify",
+      "label": "identify",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Early approaches",
+      "label": "Early approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "handcrafted linguistic rules",
+      "label": "handcrafted linguistic rules",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Pai et al",
+      "label": "Pai et al",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "vised extraction paradigms",
+      "label": "vised extraction paradigms",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "traditional KE methods",
+      "label": "traditional KE methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "technical foundation",
+      "label": "technical foundation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "summary",
+      "label": "summary",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Classical approaches",
+      "label": "Classical approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "lexical similarity measures",
+      "label": "lexical similarity measures",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "introduction",
+      "label": "introduction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "specific applications",
+      "label": "specific applications",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "multi fusion strategies",
+      "label": "multi fusion strategies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Other level models",
+      "label": "Other level models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "semantic cues",
+      "label": "semantic cues",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "traditional fusion pipelines",
+      "label": "traditional fusion pipelines",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "struggle",
+      "label": "struggle",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advancements",
+      "label": "advancements",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Figure 1",
+      "label": "Figure 1",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "fundamental paradigm shift",
+      "label": "fundamental paradigm shift",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extension",
+      "label": "extension",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Current research",
+      "label": "Current research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "3.1 ONTOLOGY CONSTRUCTION",
+      "label": "3.1 ONTOLOGY CONSTRUCTION",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "frame- work",
+      "label": "frame- work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advanced co",
+      "label": "advanced co",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "paradigm",
+      "label": "paradigm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "conceptual abstraction",
+      "label": "conceptual abstraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "CQ)-BASED based methods",
+      "label": "CQ)-BASED based methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "driven pathway",
+      "label": "driven pathway",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "setting",
+      "label": "setting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pioneering framework",
+      "label": "pioneering framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "use",
+      "label": "use",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Ontogenia",
+      "label": "Ontogenia",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "consistency",
+      "label": "consistency",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "incorporating",
+      "label": "incorporating",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two complementary prompting strate- gies",
+      "label": "two complementary prompting strate- gies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "studies",
+      "label": "studies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "semi - automated ontology construction pipelines",
+      "label": "semi - automated ontology construction pipelines",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "passive analytical tools",
+      "label": "passive analytical tools",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "active modeling collaborators",
+      "label": "active modeling collaborators",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "natural based ontology construction",
+      "label": "natural based ontology construction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "induce",
+      "label": "induce",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Foundational work",
+      "label": "Foundational work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "GPT-4 performance",
+      "label": "GPT-4 performance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Like- wise",
+      "label": "Like- wise",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Recent systems",
+      "label": "Recent systems",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "direction",
+      "label": "direction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "introducing",
+      "label": "introducing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "lightweight frameworks",
+      "label": "lightweight frameworks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "rapid schema induction",
+      "label": "rapid schema induction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "top research",
+      "label": "top research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "semantic sistency",
+      "label": "semantic sistency",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "bottom methodology",
+      "label": "bottom methodology",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "increasing attention",
+      "label": "increasing attention",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "response",
+      "label": "response",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge graph",
+      "label": "knowledge graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "static repository",
+      "label": "static repository",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "it",
+      "label": "it",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "dynamic infrastructure",
+      "label": "dynamic infrastructure",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "2025 search focus",
+      "label": "2025 search focus",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "designing",
+      "label": "designing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "inducing",
+      "label": "inducing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three interrelated stages",
+      "label": "three interrelated stages",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": ".",
+      "label": ".",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "foundation",
+      "label": "foundation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "approaches",
+      "label": "approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "level graphs",
+      "label": "level graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "process",
+      "label": "process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "empirical knowledge",
+      "label": "empirical knowledge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "reusable conceptual structures",
+      "label": "reusable conceptual structures",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pipeline",
+      "label": "pipeline",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "stage process",
+      "label": "stage process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "It",
+      "label": "It",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "alignment",
+      "label": "alignment",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "challenge",
+      "label": "challenge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advances",
+      "label": "advances",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "focus",
+      "label": "focus",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent efforts",
+      "label": "recent efforts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "algorithmic prototypes",
+      "label": "algorithmic prototypes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based free paradigms",
+      "label": "based free paradigms",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "example",
+      "label": "example",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unified architecture",
+      "label": "unified architecture",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KGs",
+      "label": "KGs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "stage",
+      "label": "stage",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "form",
+      "label": "form",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "transformation",
+      "label": "transformation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pragmatic reorientation",
+      "label": "pragmatic reorientation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "schema construction",
+      "label": "schema construction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "interplay",
+      "label": "interplay",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "\u201c",
+      "label": "\u201c",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "progression",
+      "label": "progression",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "updating scalable knowledge ecosystems",
+      "label": "updating scalable knowledge ecosystems",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "paradigms",
+      "label": "paradigms",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "tual landscape",
+      "label": "tual landscape",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "central principle",
+      "label": "central principle",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "its reliance",
+      "label": "its reliance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "research trajectory",
+      "label": "research trajectory",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "clear evolution",
+      "label": "clear evolution",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "4.1.1 STATIC Early studies",
+      "label": "4.1.1 STATIC Early studies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "predefined static schemas",
+      "label": "predefined static schemas",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KARMA framework",
+      "label": "KARMA framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "multi - agent architecture",
+      "label": "multi - agent architecture",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "subsequent studies",
+      "label": "subsequent studies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "enhance",
+      "label": "enhance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "approach",
+      "label": "approach",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structural align- ment",
+      "label": "structural align- ment",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent developments",
+      "label": "recent developments",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ODKE+",
+      "label": "ODKE+",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "generate",
+      "label": "generate",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "static driven extraction",
+      "label": "static driven extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "foundational paradigm",
+      "label": "foundational paradigm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "its dependence",
+      "label": "its dependence",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scalability",
+      "label": "scalability",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "4.1.2 EXTRACTION Recent approaches",
+      "label": "4.1.2 EXTRACTION Recent approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "schema",
+      "label": "schema",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "dynamic evolving component",
+      "label": "dynamic evolving component",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "trend",
+      "label": "trend",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "multi - stage prompts",
+      "label": "multi - stage prompts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "schema drift",
+      "label": "schema drift",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two mechanisms",
+      "label": "two mechanisms",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "methods",
+      "label": "methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "schema learning",
+      "label": "schema learning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "4.2 SCHEMA FREE METHODS",
+      "label": "4.2 SCHEMA FREE METHODS",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two major trajectories",
+      "label": "two major trajectories",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "4.2.1 STRUCTURED GENERATIVE EXTRACTION",
+      "label": "4.2.1 STRUCTURED GENERATIVE EXTRACTION",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "prompting",
+      "label": "prompting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "struc- reasoning patterns",
+      "label": "struc- reasoning patterns",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "consistent knowledge generation",
+      "label": "consistent knowledge generation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extraction process",
+      "label": "extraction process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "AutoRE",
+      "label": "AutoRE",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "instruction fine tuning",
+      "label": "instruction fine tuning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Subsequent works",
+      "label": "Subsequent works",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "free extraction",
+      "label": "free extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Augmented prompting framework",
+      "label": "Augmented prompting framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extraction",
+      "label": "extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "parallel",
+      "label": "parallel",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two sequential LLM invocations",
+      "label": "two sequential LLM invocations",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "4.2.2 OPEN INFORMATION EXTRACTION",
+      "label": "4.2.2 OPEN INFORMATION EXTRACTION",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structured generative methods",
+      "label": "structured generative methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "EDC framework",
+      "label": "EDC framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "coverage",
+      "label": "coverage",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structural regularity",
+      "label": "structural regularity",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unstructured text",
+      "label": "unstructured text",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "existing approaches",
+      "label": "existing approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three major classes",
+      "label": "three major classes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "aligning",
+      "label": "aligning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Research",
+      "label": "Research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three major phases",
+      "label": "three major phases",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Early work",
+      "label": "Early work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "explicit ontologies",
+      "label": "explicit ontologies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LKD KGC",
+      "label": "LKD KGC",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "adaptive based schema integration",
+      "label": "adaptive based schema integration",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Recent approaches",
+      "label": "Recent approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "fusion",
+      "label": "fusion",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "method",
+      "label": "method",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "both - schema mapping",
+      "label": "both - schema mapping",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "level fusion",
+      "label": "level fusion",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "driven",
+      "label": "driven",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge instances",
+      "label": "knowledge instances",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "addressing",
+      "label": "addressing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Recent work",
+      "label": "Recent work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Early studies",
+      "label": "Early studies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "iterative guided clustering",
+      "label": "iterative guided clustering",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "framework",
+      "label": "framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "gressive triple extraction",
+      "label": "gressive triple extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "contextual reasoning task",
+      "label": "contextual reasoning task",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LLM Align",
+      "label": "LLM Align",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "constrained choice problem",
+      "label": "constrained choice problem",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structural retrieval cues",
+      "label": "structural retrieval cues",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "integration",
+      "label": "integration",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "robust reasoning",
+      "label": "robust reasoning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Efficiency",
+      "label": "Efficiency",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "hierarchical designs",
+      "label": "hierarchical designs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "substantial efficiency gains",
+      "label": "substantial efficiency gains",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "cascading",
+      "label": "cascading",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "simple matchers",
+      "label": "simple matchers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "adaptive reasoning agents",
+      "label": "adaptive reasoning agents",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    }
+  ],
+  "edges": [
+    {
+      "source": "dependency_parse",
+      "target": "fundamental infrastructure",
+      "relation": "serve_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "Published as a conference paper at ICAIS 2025\nLLM-EMPOWERED KNOWLEDGE GRAPH CONSTRUC-\nTION: A SURVEY\nHaonan Bian\nXidian University\nXi\u2019an China\n23151214251@stu.xidian.edu.cn\nABSTRACT\nKnowledge Graphs ("
+    },
+    {
+      "source": "dependency_parse",
+      "target": "new paradigm",
+      "relation": "enter",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.8,
+      "sentence": "With the advent of\nLarge Language Models (LLMs), the construction of KGs has entered a new\nparadigm\u2014shifting from rule-based and statistical pipelines to language-driven\nand generative frameworks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "advent",
+      "relation": "enter_With",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "With the advent of\nLarge Language Models (LLMs), the construction of KGs has entered a new\nparadigm\u2014shifting from rule-based and statistical pipelines to language-driven\nand generative frameworks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comprehensive overview",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "This survey provides a comprehensive overview of\nrecent progress in LLM-empowered knowledge graph construction, systemati-\ncally analyzing how LLMs reshape the classical three-layered pipeline of onto"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "traditional KG methodologies",
+      "relation": "revisit",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We first revisit traditional KG methodologies to establish conceptual foundations,\nand then review emerging LLM-driven approaches from two complementary per-\nspectives: schema-based paradigms, which e"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "representative frameworks",
+      "relation": "synthesize",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Across each stage, we synthesize representative\nframeworks, analyze their technical mechanisms, and identify their limitations.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each stage",
+      "relation": "synthesize_Across",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.6,
+      "sentence": "Across each stage, we synthesize representative\nframeworks, analyze their technical mechanisms, and identify their limitations.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "key trends",
+      "relation": "outline",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Finally, the survey outlines key trends and future research directions, including\nKG-based reasoning for LLMs, dynamic knowledge memory for agentic systems,\nand multimodal KG construction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "clar- ify",
+      "relation": "aim",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "Through this systematic review, we aim to clar-\nify the evolving interplay between LLMs and knowledge graphs, bridging sym-\nbolic knowledge engineering and neural semantic understanding toward the de-"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "systematic review",
+      "relation": "aim_Through",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "Through this systematic review, we aim to clar-\nify the evolving interplay between LLMs and knowledge graphs, bridging sym-\nbolic knowledge engineering and neural semantic understanding toward the de-"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "cornerstone",
+      "relation": "serve_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "1\nINTRODUCTION\nKnowledge Graphs (KGs) have long served as a cornerstone for representing, integrating, and rea-\nsoning over structured knowledge."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "unified semantic foundation",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "They provide a unified semantic foundation that underpins a wide\nrange of intelligent applications, such as semantic search, question answering, and scientific discov-\nery."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three major components",
+      "relation": "compose_of",
+      "relation_type": "prepositional",
+      "relation_subtype": "compositional",
+      "confidence": 0.9,
+      "sentence": "Conventional KG construction pipelines are typically composed of three major components:\nontology engineering, knowledge extraction, and knowledge fusion."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "face",
+      "relation": "continue",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.75,
+      "sentence": "Despite their success in en-\nabling large-scale knowledge organization, traditional paradigms (e.g., Zhong et al. (2023); Zhao\net al. (2024)) continue to face three enduring challenges: (1) Scalabilit"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "development",
+      "relation": "hinder",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "These limitations hinder the development of self-evolving, large-scale,\nand dynamic KGs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "transformative paradigm",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.8,
+      "sentence": "The advent of Large Language Models (LLMs) introduces a transformative paradigm for over-\ncoming these bottlenecks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three key mechanisms",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Through large-scale pretraining and emergent generalization capabilities,\nLLMs enable three key mechanisms: (1) Generative knowledge modeling, synthesizing structured\nrepresentations directly from uns"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scale pretraining",
+      "relation": "enable_Through",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "Through large-scale pretraining and emergent generalization capabilities,\nLLMs enable three key mechanisms: (1) Generative knowledge modeling, synthesizing structured\nrepresentations directly from uns"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "traditional processing tools",
+      "relation": "evolve_beyond",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.85,
+      "sentence": "Consequently,\nLLMs are evolving beyond traditional text-processing tools into cognitive engines that seamlessly\nbridge natural language and structured knowledge (e.g., Zhu et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "cognitive engines",
+      "relation": "evolve_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.85,
+      "sentence": "Consequently,\nLLMs are evolving beyond traditional text-processing tools into cognitive engines that seamlessly\nbridge natural language and structured knowledge (e.g., Zhu et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paradigm shift",
+      "relation": "mark",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "[cs.AI]  23 Oct 2025\nPublished as a conference paper at ICAIS 2025\nThis evolution marks a paradigm shift from rule-driven, pipeline-based systems toward LLM-driven,\nunified, and adaptive frameworks, w"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comprehensive survey",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "In light of these rapid advances, this paper presents a comprehensive survey of LLM-driven knowl-\nedge graph construction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "light",
+      "relation": "present_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "In light of these rapid advances, this paper presents a comprehensive survey of LLM-driven knowl-\nedge graph construction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "recent research spanning ontology engineering",
+      "relation": "review",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We systematically review recent research spanning ontology engineering,\nknowledge extraction, and fusion, analyze emerging methodological paradigms, and highlight open\nchallenges and future directions"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "powered knowledge fusion",
+      "relation": "discuss",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "\u2022 Section 5 discusses LLM-powered knowledge fusion, focusing on schema-level, instance-\nlevel, and hybrid frameworks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "future research directions",
+      "relation": "explore",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "\u2022 Section 6 explores future research directions, including KG-based reasoning, dynamic\nknowledge memory, and multimodal KG construction.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "layered prising",
+      "relation": "follow",
+      "relation_type": "direct_action",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "2\nPRELIMINARIES\nThe construction of Knowledge Graphs (KGs) traditionally follows a three-layered pipeline com-\nprising ontology engineering, knowledge extraction, and knowledge fusion."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "based statistical symbolic approaches",
+      "relation": "implement_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "Prior to the advent of\nLarge Language Models (LLMs), these stages were implemented through rule-based, statistical, and\nsymbolic approaches."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "formal specification",
+      "relation": "involve",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "This section briefly reviews these conventional methodologies to establish\ncontext for the subsequent discussion on LLM-empowered KG construction.\n2.1\nONTOLOGY ENGINEERING\nOntology Engineering (OE) in"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pre - LLM era",
+      "relation": "construct_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.6,
+      "sentence": "In the pre-LLM era, ontologies were primarily manually constructed by domain ex-\nperts, often supported by semantic web tools such as Prot\u00b4eg\u00b4e and guided by established methodolo-\ngies including METH"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "conceptual rigor",
+      "relation": "emphasize",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "These systematic processes emphasized\nconceptual rigor and logical consistency but required extensive expert intervention.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "derive",
+      "relation": "seek",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.75,
+      "sentence": "Subsequent semi-automatic ap-\nproaches\u2014collectively known as ontology learning\u2014sought to derive ontological structures from\ntextual corpora, as reviewed in Asim et al. (2018)."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "identify",
+      "relation": "aim",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "(2020), traditional OE frameworks offered precision and formal soundness but lacked\nflexibility and efficiency for large-scale or continuously evolving knowledge domains.\n2.2\nKNOWLEDGE EXTRACTION\nKnow"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "handcrafted linguistic rules",
+      "relation": "rely_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "Early approaches relied on handcrafted linguistic rules and pattern matching,\nwhich provided interpretability but were brittle and domain-specific."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Pai et al",
+      "relation": "summarize_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "The evolution from symbolic\nand rule-based systems to statistical and neural methods has been systematically summarized in Pai\net al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paradigm shift",
+      "relation": "mark",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "The advent of deep learning architectures, such as BiLSTM-CRF and Transformer-based models,\nmarked a paradigm shift toward data-driven feature learning, as discussed by Yang et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "vised extraction paradigms",
+      "relation": "categorize",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.8,
+      "sentence": "(2023) further categorize supervised, weakly super-\nvised, and unsupervised relation extraction paradigms, emphasizing their dependence on annotated\ndata and limited cross-domain generalization.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "technical foundation",
+      "relation": "establish",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "2\nPublished as a conference paper at ICAIS 2025\nIn summary, traditional KE methods established the technical foundation for modern extraction\npipelines but remained constrained by data scarcity, weak "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "summary",
+      "relation": "establish_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "2\nPublished as a conference paper at ICAIS 2025\nIn summary, traditional KE methods established the technical foundation for modern extraction\npipelines but remained constrained by data scarcity, weak "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "lexical similarity measures",
+      "relation": "rely_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "Classical approaches relied on lexical and structural similarity measures, as reviewed in Zeng et al.\n(2021)."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "2024a",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.8,
+      "sentence": "The introduction of representation learning enabled embedding-based techniques that align\nentities within shared vector spaces, improving scalability and automation, as surveyed by Zhu et al.\n(2024a)."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "multi fusion strategies",
+      "relation": "demonstrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "Domain-specific applications, such as Yang et al. (2022a), demonstrate multi-feature fusion\nstrategies combining structural, attribute, and relational similarities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "semantic cues",
+      "relation": "integrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "Other graph-level models, such\nas Liu et al. (2022), further integrate semantic cues to enhance alignment robustness.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "struggle",
+      "relation": "continue",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Despite these advancements, traditional fusion pipelines continue to struggle with semantic hetero-\ngeneity, large-scale integration, and dynamic knowledge updating\u2014challenges that contempo-\nrary LLM-"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "advancements",
+      "relation": "continue_Despite",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "Despite these advancements, traditional fusion pipelines continue to struggle with semantic hetero-\ngeneity, large-scale integration, and dynamic knowledge updating\u2014challenges that contempo-\nrary LLM-"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "fundamental paradigm shift",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Figure 1: Taxonomy of LLM for KGC\n3\nLLM-ENHANCED ONTOLOGY CONSTRUCTION\nThe integration of Large Language Models (LLMs) has introduced a fundamental paradigm shift\nin Ontology Engineering (OE) and, by "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extension",
+      "relation": "introduce_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.6,
+      "sentence": "Figure 1: Taxonomy of LLM for KGC\n3\nLLM-ENHANCED ONTOLOGY CONSTRUCTION\nThe integration of Large Language Models (LLMs) has introduced a fundamental paradigm shift\nin Ontology Engineering (OE) and, by "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "3.1 ONTOLOGY CONSTRUCTION",
+      "relation": "follow",
+      "relation_type": "direct_action",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "Current\nresearch generally follows two complementary directions: a top-down approach, which leverages\nLLMs as intelligent assistants for formal ontology modeling, and a bottom-up approach, which\nemplo"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "frame- work",
+      "relation": "serve_Within",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "Within this frame-\nwork, LLMs serve as advanced co-modelers that assist human experts in translating natural language\nspecifications\u2014such as competency questions (CQs), user stories, or domain descrip"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "advanced co",
+      "relation": "serve_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "Within this frame-\nwork, LLMs serve as advanced co-modelers that assist human experts in translating natural language\nspecifications\u2014such as competency questions (CQs), user stories, or domain descrip"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "conceptual abstraction",
+      "relation": "prioritize",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "This paradigm prioritizes\nconceptual abstraction, the precise definition of relations, and structured semantic representation to\n3\nPublished as a conference paper at ICAIS 2025\nensure that subsequent "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "driven pathway",
+      "relation": "represent",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "3.1.1\nCOMPETENCY QUESTION (CQ)-BASED ONTOLOGY CONSTRUCTION\nCQ-based methods represent a requirements-driven pathway toward automated ontology modeling.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "identify",
+      "relation": "parse",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "In this setting, LLMs parse CQs or user stories to identify, categorize, and formalize domain-specific\nconcepts, attributes, and relationships.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "setting",
+      "relation": "parse_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In this setting, LLMs parse CQs or user stories to identify, categorize, and formalize domain-specific\nconcepts, attributes, and relationships.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "use",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "A pioneering framework, Ontogenia (Lippolis et al., 2025a), introduced the use of Metacogni-\ntive Prompting for ontology generation, enabling the model to perform self-reflection and struc-\ntural corr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "consistency",
+      "relation": "improve",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "By incorporating Ontology Design Patterns (ODPs), Ontogenia\nimproves both the consistency and complexity of generated ontologies."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "incorporating",
+      "relation": "improve_By",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "By incorporating Ontology Design Patterns (ODPs), Ontogenia\nimproves both the consistency and complexity of generated ontologies."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two complementary prompting strate- gies",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "(2025b) proposed two complementary prompting strate-\ngies: a \u201cmemoryless\u201d approach for modular construction and a reflective iterative method inspired\nby Ontogenia."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "semi - automated ontology construction pipelines",
+      "relation": "lead_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Collectively, these studies have led to semi-automated\nontology construction pipelines encompassing the entire lifecycle\u2014from CQ formulation and val-\nidation to ontology instantiation\u2014with human exper"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "evolution",
+      "relation": "transition_Through",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "Through this evolution, LLMs have transitioned from passive analytical tools to active modeling\ncollaborators in ontology design.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "passive analytical tools",
+      "relation": "transition_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "Through this evolution, LLMs have transitioned from passive analytical tools to active modeling\ncollaborators in ontology design.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "active modeling collaborators",
+      "relation": "transition_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "Through this evolution, LLMs have transitioned from passive analytical tools to active modeling\ncollaborators in ontology design.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "induce",
+      "relation": "seek",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "3.1.2\nNATURAL LANGUAGE-BASED ONTOLOGY CONSTRUCTION\nBeyond CQ-driven paradigms, natural language-based ontology construction seeks to induce seman-\ntic schemas directly from unstructured or semi-struct"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "GPT-4 performance",
+      "relation": "evaluate",
+      "relation_type": "direct_action",
+      "relation_subtype": "comparative",
+      "confidence": 0.9,
+      "sentence": "Foundational work in this domain\u2014including Saeedizade & Blomqvist (2024) and Lippolis et al.\n(2025b)\u2014systematically evaluated GPT-4\u2019s performance and confirmed that its outputs approach the\nquality of"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "use",
+      "relation": "demonstrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "Like-\nwise, Mateiu & Groza (2023) demonstrated the use of fine-tuned models to directly translate natural\nlanguage into OWL axioms within established ontology editors such as Prot\u00b4eg\u00b4e.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "direction",
+      "relation": "advance",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Recent systems such as NeOn-GPT (Fathallah et al., 2025) and LLMs4Life (Fathallah et al.,\n2024) have advanced this direction by introducing end-to-end, prompt-driven workflows that in-\ntegrate ontolog"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "introducing",
+      "relation": "advance_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Recent systems such as NeOn-GPT (Fathallah et al., 2025) and LLMs4Life (Fathallah et al.,\n2024) have advanced this direction by introducing end-to-end, prompt-driven workflows that in-\ntegrate ontolog"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "rapid schema induction",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Meanwhile, lightweight frameworks such as\nLKD-KGC (Sun et al., 2025) enable rapid schema induction for open-domain knowledge graphs by\nclustering entity types extracted from document summaries.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "semantic sistency",
+      "relation": "emphasize",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In summary, top-down research on LLM-assisted ontology construction emphasizes semantic con-\nsistency, structural completeness, and human\u2013AI collaboration, marking a significant evolution of\ntradition"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "summary",
+      "relation": "emphasize_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In summary, top-down research on LLM-assisted ontology construction emphasizes semantic con-\nsistency, structural completeness, and human\u2013AI collaboration, marking a significant evolution of\ntradition"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "increasing attention",
+      "relation": "gain",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "The bottom-up methodology has gained increasing attention as a response to paradigm shifts intro-\nduced by the era of Large Language Models (LLMs), particularly within Retrieval-Augmented Gen-\neration"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "response",
+      "relation": "gain_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "The bottom-up methodology has gained increasing attention as a response to paradigm shifts intro-\nduced by the era of Large Language Models (LLMs), particularly within Retrieval-Augmented Gen-\neration"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paradigm",
+      "relation": "view_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In this paradigm, the knowledge graph is no longer viewed merely as a\nstatic repository of structured knowledge for human interpretation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "static repository",
+      "relation": "view_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "In this paradigm, the knowledge graph is no longer viewed merely as a\nstatic repository of structured knowledge for human interpretation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "dynamic infrastructure",
+      "relation": "serve_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "Instead, it serves as a dynamic\ninfrastructure that provides factual grounding and structured memory for LLMs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "designing",
+      "relation": "shift_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "Consequently, re-\n4\nPublished as a conference paper at ICAIS 2025\nsearch focus has shifted from manually designing ontological hierarchies to automatically inducing\nschemas from unstructured or semi-s"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "inducing",
+      "relation": "shift_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "Consequently, re-\n4\nPublished as a conference paper at ICAIS 2025\nsearch focus has shifted from manually designing ontological hierarchies to automatically inducing\nschemas from unstructured or semi-s"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three interrelated stages",
+      "relation": "delineate_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "This evolution can be delineated through three\ninterrelated stages of progress.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "foundation",
+      "relation": "establish",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Early studies such as GraphRAG (Edge et al., 2024) and OntoRAG (Tiwari et al., 2025) established\nthe foundation for data-driven ontology construction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "level graphs",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "These approaches first generate instance-level\ngraphs from raw text via open information extraction, and then abstract ontological concepts and\nrelations through clustering and generalization."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "empirical knowledge",
+      "relation": "transform",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "This \u201cdata-to-schema\u201d process transforms empirical\nknowledge into reusable conceptual structures, illustrating how instance-rich corpora can give rise\nto ontological blueprints.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "reusable conceptual structures",
+      "relation": "transform_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "This \u201cdata-to-schema\u201d process transforms empirical\nknowledge into reusable conceptual structures, illustrating how instance-rich corpora can give rise\nto ontological blueprints.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pipeline",
+      "relation": "advance",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Building upon this foundation, the EDC (Extract\u2013Define\u2013Canonicalize) framework (Zhang & Soh,\n2024) advanced the pipeline into a three-stage process consisting of open extraction, semantic defi-\nnition"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "stage process",
+      "relation": "advance_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Building upon this foundation, the EDC (Extract\u2013Define\u2013Canonicalize) framework (Zhang & Soh,\n2024) advanced the pipeline into a three-stage process consisting of open extraction, semantic defi-\nnition"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "alignment",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "It enables the alignment of automatically induced schemas with\nexisting ontologies, or the creation of new ones when predefined structures are absent."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "challenge",
+      "relation": "address",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Extending\nthis adaptability, AdaKGC (Ye et al., 2023) addressed the challenge of dynamic schema evolution,\nallowing models to incorporate novel relations and entity types without retraining."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "focus",
+      "relation": "shift",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Collectively,\nthese advances shift the focus from static schema construction toward continuous schema adapta-\ntion within evolving knowledge environments.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "algorithmic prototypes",
+      "relation": "transition_beyond",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "More recent efforts have transitioned beyond algorithmic prototypes toward deployable knowledge\nsystems."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "based free paradigms",
+      "relation": "integrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "For example, AutoSchemaKG (Bai et al., 2025) integrates schema-based and schema-\nfree paradigms within a unified architecture, supporting the real-time generation and evolution of\nenterprise-scale kno"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "integrate_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "For example, AutoSchemaKG (Bai et al., 2025) integrates schema-based and schema-\nfree paradigms within a unified architecture, supporting the real-time generation and evolution of\nenterprise-scale kno"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "unified architecture",
+      "relation": "integrate_within",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "For example, AutoSchemaKG (Bai et al., 2025) integrates schema-based and schema-\nfree paradigms within a unified architecture, supporting the real-time generation and evolution of\nenterprise-scale kno"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "stage",
+      "relation": "operate_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In this stage, KGs operate as a form of external knowledge\nmemory for LLMs\u2014prioritizing factual coverage, scalability, and maintainability over purely se-\nmantic completeness."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "form",
+      "relation": "operate_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "In this stage, KGs operate as a form of external knowledge\nmemory for LLMs\u2014prioritizing factual coverage, scalability, and maintainability over purely se-\nmantic completeness."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pragmatic reorientation",
+      "relation": "mark",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "This transformation marks a pragmatic reorientation of ontology construction,\nemphasizing its service to LLM reasoning and interpretability in knowledge-intensive applications.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "interplay",
+      "relation": "redefine",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "In summary, bottom-up ontology schema construction redefines the interplay between LLMs and\nknowledge engineering."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "summary",
+      "relation": "redefine_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In summary, bottom-up ontology schema construction redefines the interplay between LLMs and\nknowledge engineering."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "\u201c",
+      "relation": "evolve_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "The focus evolves from \u201cLLMs for Ontology Engineering\u201d to \u201cOntolo-\ngies and KGs for LLMs\u201d."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "updating scalable knowledge ecosystems",
+      "relation": "advance_toward",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "This progression advances toward self-updating, interpretable, and scalable knowledge\necosystems that strengthen the grounding and reasoning capabilities of LLMs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "tual landscape",
+      "relation": "delineate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Together, these paradigms delineate the concep-\ntual landscape of contemporary research in LLM-based knowledge extraction.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "its reliance",
+      "relation": "lie_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "4.1\nSCHEMA-BASED METHODS\nThe central principle of schema-based extraction lies in its reliance on an explicit knowledge schema\nthat provides both structural guidance and semantic constraints for the e"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "clear evolution",
+      "relation": "demonstrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "Within\nthis paradigm, the research trajectory demonstrates a clear evolution\u2014from the use of static onto-\nlogical blueprints toward adaptive and dynamically evolving schema frameworks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "use",
+      "relation": "demonstrate_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.8,
+      "sentence": "Within\nthis paradigm, the research trajectory demonstrates a clear evolution\u2014from the use of static onto-\nlogical blueprints toward adaptive and dynamically evolving schema frameworks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "predefined static schemas",
+      "relation": "employ",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "4.1.1\nSTATIC SCHEMA-DRIVEN EXTRACTION\nEarly studies in LLM-driven knowledge extraction predominantly employed predefined, static\nschemas that rigidly constrained the extraction process."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "multi - agent architecture",
+      "relation": "adopt",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "Similarly, the KARMA framework (Lu & Wang, 2025) adopts a\nmulti-agent architecture, in which each agent executes schema-guided extraction tasks to guarantee\naccurate entity normalization and relation "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "enhance",
+      "relation": "seek",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Building on these rigid frameworks, subsequent studies sought to enhance modularity and reusability\nthrough staged prompting."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "approach",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "(2024) proposed a two-step \u201contology-grounded\nextraction\u201d approach: first generating a domain-specific ontology directly from text, and then lever-\naging it as a directive prompt for RDF triple extrac"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structural align- ment",
+      "relation": "strengthen",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "This approach strengthens structural align-\nment while maintaining partial adaptability.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "ODKE+",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "More recent developments introduce localized flexibility within otherwise static frameworks.\nODKE+ (Khorshidi et al., 2025) proposes ontology snippets\u2014dynamically selected ontology sub-\nsets\u2014to constr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "generate",
+      "relation": "utilize",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "(2024) utilize the medical ontology UMLS to dy-\nnamically generate task-specific prompts for clinical information extraction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "foundational paradigm",
+      "relation": "form",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "In summary, static schema-driven extraction forms the foundational paradigm of LLM-assisted\nknowledge extraction, emphasizing precision, logical consistency, and interpretability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "summary",
+      "relation": "form_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "In summary, static schema-driven extraction forms the foundational paradigm of LLM-assisted\nknowledge extraction, emphasizing precision, logical consistency, and interpretability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scalability",
+      "relation": "restrict",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "However,\nits dependence on rigid ontological templates restricts scalability and cross-domain generalization.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "schema",
+      "relation": "reconceptualize",
+      "relation_type": "direct_action",
+      "relation_subtype": "compositional",
+      "confidence": 0.9,
+      "sentence": "4.1.2\nDYNAMIC AND ADAPTIVE SCHEMA-BASED EXTRACTION\nRecent approaches reconceptualize the schema as a dynamic, evolving component of the extraction\nprocess rather than a fixed template\u2014a shift from sch"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "dynamic evolving component",
+      "relation": "reconceptualize_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "4.1.2\nDYNAMIC AND ADAPTIVE SCHEMA-BASED EXTRACTION\nRecent approaches reconceptualize the schema as a dynamic, evolving component of the extraction\nprocess rather than a fixed template\u2014a shift from sch"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "trend",
+      "relation": "exemplify",
+      "relation_type": "direct_action",
+      "relation_subtype": "comparative",
+      "confidence": 0.85,
+      "sentence": "AutoSchemaKG (Bai et al., 2025) exemplifies this trend by inducing schemas from large-scale cor-\npora via unsupervised clustering and relation discovery."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "inducing",
+      "relation": "exemplify_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "AutoSchemaKG (Bai et al., 2025) exemplifies this trend by inducing schemas from large-scale cor-\npora via unsupervised clustering and relation discovery."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "multi - stage prompts",
+      "relation": "employ",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "It employs multi-stage prompts tailored\nto different relation types, enabling the schema to evolve iteratively with extracted content and im-\nproving open-domain scalability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "schema drift",
+      "relation": "tackle",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "Building on this idea, AdaKGC (Ye et al., 2023) tackles schema\ndrift through two mechanisms: the Schema-Enriched Prefix Instruction (SPI) for context-aware\nprompting and the Schema-Constrained Dynamic"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two mechanisms",
+      "relation": "tackle_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "compositional",
+      "confidence": 0.8,
+      "sentence": "Building on this idea, AdaKGC (Ye et al., 2023) tackles schema\ndrift through two mechanisms: the Schema-Enriched Prefix Instruction (SPI) for context-aware\nprompting and the Schema-Constrained Dynamic"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "schema learning",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "Together, these methods enable adaptive schema learning, bridging symbolic structure and data-\ndriven flexibility."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "4.2 SCHEMA FREE METHODS",
+      "relation": "lie",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "They lay the groundwork for continual, self-updating knowledge graph construc-\ntion where extraction and schema evolution progress synergistically.\n4.2\nSCHEMA-FREE METHODS\nIn contrast to paradigms tha"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two major trajectories",
+      "relation": "unfold_along",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "The evolution of this paradigm unfolds\nalong two major trajectories: structured generative extraction and open information extraction.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "prompting",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "4.2.1\nSTRUCTURED GENERATIVE EXTRACTION\nThe first trajectory, structured generative extraction, focuses on prompting LLMs to construct an\nimplicit or on-the-fly schema during generation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "model",
+      "relation": "guide",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "Although no external ontology is provided, struc-\ntured reasoning patterns and generative templates guide the model toward consistent and coherent\nknowledge generation.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "consistent knowledge generation",
+      "relation": "guide_toward",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "Although no external ontology is provided, struc-\ntured reasoning patterns and generative templates guide the model toward consistent and coherent\nknowledge generation.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extraction process",
+      "relation": "integrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "(2024), integrated the extraction process with Chain-of-Thought\n(CoT) prompting, encouraging stepwise reasoning for entity and relation identification."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pipeline",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "Building on this insight, AutoRE (Xue et al., 2024) introduced an RHF (Relation\u2013Head\u2013Facts)\npipeline via instruction fine-tuning, enabling the model to internalize relational regularities and im-\nprov"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "instruction fine tuning",
+      "relation": "introduce_via",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "Building on this insight, AutoRE (Xue et al., 2024) introduced an RHF (Relation\u2013Head\u2013Facts)\npipeline via instruction fine-tuning, enabling the model to internalize relational regularities and im-\nprov"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "free extraction",
+      "relation": "enhance",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "Subsequent works further enhanced schema-free extraction by incorporating retrieval and interac-\ntivity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "incorporating",
+      "relation": "enhance_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "compositional",
+      "confidence": 0.8,
+      "sentence": "Subsequent works further enhanced schema-free extraction by incorporating retrieval and interac-\ntivity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Augmented prompting framework",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "For instance, Papaluca et al. (2024) proposed a Retrieval-Augmented prompting framework\nthat dynamically enriches the context window with semantically related exemplars, thereby improv-\ning factual pr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extraction",
+      "relation": "reformulate",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "In parallel, ChatIE (Wei et al., 2024) reformulated extraction as a multi-\nturn dialogue process, wherein the model iteratively refines entity and relation candidates through\nchained question answerin"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "parallel",
+      "relation": "reformulate_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "In parallel, ChatIE (Wei et al., 2024) reformulated extraction as a multi-\nturn dialogue process, wherein the model iteratively refines entity and relation candidates through\nchained question answerin"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extraction",
+      "relation": "decompose",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "Similarly, KGGEN (Mo et al., 2025) decomposed extraction into two\nsequential LLM invocations\u2014first detecting entities, then generating relations\u2014to reduce cognitive\nload and mitigate error propagation"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two sequential LLM invocations",
+      "relation": "decompose_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "compositional",
+      "confidence": 0.8,
+      "sentence": "Similarly, KGGEN (Mo et al., 2025) decomposed extraction into two\nsequential LLM invocations\u2014first detecting entities, then generating relations\u2014to reduce cognitive\nload and mitigate error propagation"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structured generative methods",
+      "relation": "extend",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "4.2.2\nOPEN INFORMATION EXTRACTION (OIE)\nOpen Information Extraction (OIE) extends structured generative methods toward schema-free\nextraction, aiming to discover all possible entity\u2013relation\u2013object tr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paradigm",
+      "relation": "exemplify",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "The EDC framework (Zhang & Soh, 2024) exemplifies this paradigm: its Extract\nstage uses few-shot prompting to generate comprehensive natural-language triples, producing a raw\nopen knowledge graph that"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "coverage",
+      "relation": "prioritize",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "OIE prioritizes coverage\nand discovery over structural regularity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structural regularity",
+      "relation": "prioritize_over",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.85,
+      "sentence": "OIE prioritizes coverage\nand discovery over structural regularity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "unstructured text",
+      "relation": "bridge",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "When combined with schema induction or canonicalization,\nit bridges unstructured text and emergent ontological organization\u2014completing the continuum from\nschema-free to schema-generative knowledge con"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three major classes",
+      "relation": "categorize_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "According\nto this distinction, existing approaches can be categorized into three major classes: schema-level\nfusion, instance-level fusion, and hybrid frameworks that integrate both.\n5.1\nSCHEMA-LEVEL "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "aligning",
+      "relation": "ensure_By",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "By aligning heteroge-\nneous elements, it ensures that all knowledge adheres to a unified conceptual specification."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three major phases",
+      "relation": "evolve_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.9,
+      "sentence": "Research\nin this area has evolved through three major phases.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "explicit ontologies",
+      "relation": "rely_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "Early work relied on explicit ontologies as global constraints.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "alignment",
+      "relation": "enforce",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "(2024) enforced alignment between extracted triples and predefined\nontological definitions, achieving high semantic consistency but limited flexibility across domains.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "adaptive based schema integration",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "To overcome this rigidity, LKD-KGC (Sun et al., 2025) introduced\nadaptive, embedding-based schema integration."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "fusion",
+      "relation": "extend",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "Recent approaches such as EDC (Zhang & Soh, 2024) extend\nfusion toward semantic canonicalization."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "both - schema mapping",
+      "relation": "support",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "By prompting LLMs to generate natural language defini-\ntions of schema components and comparing them via vector similarity, this method supports both\nself-alignment and cross-schema mapping with great"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "prompting",
+      "relation": "support_By",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "By prompting LLMs to generate natural language defini-\ntions of schema components and comparing them via vector similarity, this method supports both\nself-alignment and cross-schema mapping with great"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "summary",
+      "relation": "progress_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "7\nPublished as a conference paper at ICAIS 2025\nIn summary, schema-level fusion has progressed from ontology-driven to data-driven to LLM-\nenabled paradigms\u2014marking a shift from rigid rule-based align"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "driven",
+      "relation": "progress_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "7\nPublished as a conference paper at ICAIS 2025\nIn summary, schema-level fusion has progressed from ontology-driven to data-driven to LLM-\nenabled paradigms\u2014marking a shift from rigid rule-based align"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "knowledge instances",
+      "relation": "integrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "5.2\nINSTANCE-LEVEL FUSION\nInstance-level fusion integrates concrete knowledge instances by addressing entity alignment, dis-\nambiguation, deduplication, and conflict resolution."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "addressing",
+      "relation": "integrate_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "5.2\nINSTANCE-LEVEL FUSION\nInstance-level fusion integrates concrete knowledge instances by addressing entity alignment, dis-\nambiguation, deduplication, and conflict resolution."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "clear evolution",
+      "relation": "reflect",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "Recent work\nreflects a clear evolution\u2014from heuristic clustering to structured, reasoning-based frameworks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "iterative guided clustering",
+      "relation": "employ",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "Early studies such as KGGEN (Mo et al., 2025) employed iterative LLM-guided clustering to\nmerge equivalent entities and relations beyond surface matching."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "gressive triple extraction",
+      "relation": "perform",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "The framework performs pro-\ngressive triple extraction followed by semantic grouping, revealing the potential of LLMs to ag-\ngregate semantically related entities through implicit reasoning rather tha"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "alignment",
+      "relation": "reframe",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "Later,\nLLM-Align (Chen et al., 2024) and EntGPT (Ding et al., 2025) reframed alignment as a contextual\nreasoning task, using multi-step prompting to enhance semantic discrimination."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contextual reasoning task",
+      "relation": "reframe_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.75,
+      "sentence": "Later,\nLLM-Align (Chen et al., 2024) and EntGPT (Ding et al., 2025) reframed alignment as a contextual\nreasoning task, using multi-step prompting to enhance semantic discrimination."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "alignment",
+      "relation": "treat",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "LLM-Align treats\nalignment as a constrained multiple-choice problem, while EntGPT introduces a two-phase refine-\nment pipeline that first generates candidate entities and then applies targeted reasoni"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "constrained choice problem",
+      "relation": "treat_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.8,
+      "sentence": "LLM-Align treats\nalignment as a constrained multiple-choice problem, while EntGPT introduces a two-phase refine-\nment pipeline that first generates candidate entities and then applies targeted reasoni"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structural retrieval cues",
+      "relation": "incorporate",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "More recent efforts incorporate structural\nand retrieval cues\u2014e.g., Pons et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "robust reasoning",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "This integration of graph topology\nenables more robust reasoning about unseen or ambiguous entities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "hierarchical designs",
+      "relation": "improve_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "Efficiency has also improved\nthrough hierarchical designs such as COMEM (Wang et al., 2024), which combines lightweight fil-\ntering with fine-grained reasoning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "substantial efficiency gains",
+      "relation": "achieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "By cascading smaller and larger LLMs in a multi-stage pipeline,\nit achieves substantial efficiency gains while maintaining high semantic accuracy in large-scale fu-\nsion tasks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "cascading",
+      "relation": "achieve_By",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "By cascading smaller and larger LLMs in a multi-stage pipeline,\nit achieves substantial efficiency gains while maintaining high semantic accuracy in large-scale fu-\nsion tasks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "simple matchers",
+      "relation": "evolve_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "Overall, LLMs have evolved from simple matchers to adaptive reasoning agents that integrate\ncontextual, structural, and retrieved signals for scalable, self-correcti"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "adaptive reasoning agents",
+      "relation": "evolve_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "Overall, LLMs have evolved from simple matchers to adaptive reasoning agents that integrate\ncontextual, structural, and retrieved signals for scalable, self-correcti"
+    },
+    {
+      "source": "llm_inferred",
+      "target": "fundamental infrastructure",
+      "relation": "contributes_to",
+      "relation_type": "definitional",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "new paradigm",
+      "relation": "leads_to",
+      "relation_type": "causal",
+      "relation_subtype": "inferred",
+      "confidence": 0.8,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "comprehensive overview",
+      "relation": "follows",
+      "relation_type": "direct_action",
+      "relation_subtype": "inferred",
+      "confidence": 0.95,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "key trends",
+      "relation": "leads_to",
+      "relation_type": "direct_action",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "development",
+      "relation": "hinder",
+      "relation_type": "causal",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "three key mechanisms",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "cognitive engines",
+      "relation": "evolve_into",
+      "relation_type": "comparative",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "paradigm shift",
+      "relation": "marks",
+      "relation_type": "causal",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "comprehensive survey",
+      "relation": "presents",
+      "relation_type": "direct_action",
+      "relation_subtype": "inferred",
+      "confidence": 0.95,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "technical foundation",
+      "relation": "establish",
+      "relation_type": "direct_action",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "active modeling collaborators",
+      "relation": "transition_to",
+      "relation_type": "temporal",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "interplay",
+      "relation": "redefine",
+      "relation_type": "attributional",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "updating scalable knowledge ecosystems",
+      "relation": "advance_toward",
+      "relation_type": "temporal",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    }
+  ],
+  "metadata": {
+    "node_count": 340,
+    "edge_count": 180,
+    "source": "hybrid_kg"
+  }
+}

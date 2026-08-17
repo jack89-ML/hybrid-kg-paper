@@ -1,0 +1,22 @@
+{
+  "paper": "LLM_KGC_Survey",
+  "n_runs": 3,
+  "methods": {
+    "B1_spacy": {
+      "mean_ged": 0.0,
+      "std_ged": 0.0,
+      "min_ged": 0.0,
+      "max_ged": 0.0,
+      "node_counts": [
+        746,
+        746,
+        746
+      ],
+      "edge_counts": [
+        191,
+        191,
+        191
+      ]
+    }
+  }
+}

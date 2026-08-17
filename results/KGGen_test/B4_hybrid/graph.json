@@ -1,0 +1,816 @@
+{
+  "nodes": [
+    {
+      "id": "KGGen",
+      "label": "KGGen",
+      "category": "Software",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Language Models",
+      "label": "Language Models",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Belinda",
+      "label": "Belinda",
+      "category": "Person",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kyssen Yu∗2",
+      "label": "Kyssen Yu",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Joshua Kazdan∗1",
+      "label": "Joshua Kazdan",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Joan",
+      "label": "Joan",
+      "category": "Person",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Proud Mpala1",
+      "label": "Proud Mpala",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lisa Yu2",
+      "label": "Lisa Yu",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chris",
+      "label": "Chris",
+      "category": "Person",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Charilaos Kanatsoulis1",
+      "label": "Charilaos Kanatsoulis",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sanmi",
+      "label": "Sanmi",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1Stanford University",
+      "label": "Stanford University",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Toronto",
+      "label": "Toronto",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3Independent",
+      "label": "Independent",
+      "category": "Concept",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "category": "Metric",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "NLP",
+      "label": "Natural Language Processing",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Measure of Information",
+      "label": "Measure of Information",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "first",
+      "label": "first",
+      "category": "Ordinal",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KG",
+      "label": "Knowledge Graph",
+      "category": "Concept",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Microsoft",
+      "label": "Microsoft",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "GraphRAG",
+      "label": "GraphRAG",
+      "category": "Software",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "category": "Metric",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Retrieval-Augmented Generation",
+      "label": "Retrieval-Augmented Generation",
+      "category": "Method",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Schneider",
+      "label": "Schneider",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1973",
+      "label": "1973",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wikidata",
+      "label": "Wikidata",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2024",
+      "label": "2024",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "DBpedia",
+      "label": "DBpedia",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lehmann et al.",
+      "label": "Lehmann et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2015",
+      "label": "2015",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "YAGO",
+      "label": "YAGO",
+      "category": "Concept",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Suchanek et al.",
+      "label": "Suchanek et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2007",
+      "label": "2007",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2021",
+      "label": "2021",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Angeli et al.",
+      "label": "Angeli et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Larson",
+      "label": "Larson",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Truitt",
+      "label": "Truitt",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "First",
+      "label": "First",
+      "category": "Ordinal",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "39th",
+      "label": "39th",
+      "category": "Ordinal",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2025",
+      "label": "2025",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CL",
+      "label": "CL",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6 Nov 2025",
+      "label": "6 Nov 2025",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wang et al.",
+      "label": "Wang et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2012",
+      "label": "2012",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "two",
+      "label": "two",
+      "category": "Cardinal",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "second",
+      "label": "second",
+      "category": "Ordinal",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "multi-million",
+      "label": "multi-million",
+      "category": "Money",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Python",
+      "label": "Python",
+      "category": "Software",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "category": "Metric",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "category": "Metric",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Maedche",
+      "label": "Maedche",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Staab",
+      "label": "Staab",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2001",
+      "label": "2001",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "We",
+      "label": "We",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "novel generator",
+      "label": "novel generator",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "we",
+      "label": "we",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "first benchmark",
+      "label": "first benchmark",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "with",
+      "label": "with",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comparable retrieval accuracy",
+      "label": "comparable retrieval accuracy",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "our graphs",
+      "label": "our graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "concise entities",
+      "label": "concise entities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "lack",
+      "label": "lack",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "serious challenge",
+      "label": "serious challenge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Several synthetic extractors",
+      "label": "Several synthetic extractors",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "address",
+      "label": "address",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "This",
+      "label": "This",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "graphs",
+      "label": "graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "it",
+      "label": "it",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "novel iterative clustering algorithm",
+      "label": "novel iterative clustering algorithm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extracting",
+      "label": "extracting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "nodes",
+      "label": "nodes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "nascent field",
+      "label": "nascent field",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "benchmarks",
+      "label": "benchmarks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge retrieval capabilities",
+      "label": "knowledge retrieval capabilities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scaling properties",
+      "label": "scaling properties",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "respect",
+      "label": "respect",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "source package",
+      "label": "source package",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KG extraction",
+      "label": "KG extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "significant advances",
+      "label": "significant advances",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    }
+  ],
+  "edges": [
+    {
+      "source": "dependency_parse",
+      "target": "novel generator",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "We present\nKGGen, a novel text-to-knowledge-graph generator that uses language models to\nextract high-quality graphs from plain text with a novel entity resolution approach\nthat clusters related entit"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "first benchmark",
+      "relation": "release",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "Along with KGGen, we release\nMeasure of Information in Nodes and Edges (MINE), the first benchmark to test an\nextractor’s ability to produce a useful KG from plain text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "with",
+      "relation": "release_Along",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "Along with KGGen, we release\nMeasure of Information in Nodes and Edges (MINE), the first benchmark to test an\nextractor’s ability to produce a useful KG from plain text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comparable retrieval accuracy",
+      "relation": "achieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "We benchmark our new\ntool against leading existing generators such as Microsoft’s GraphRAG; we achieve\ncomparable retrieval accuracy on the generated graphs and better information re-\ntention."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "concise entities",
+      "relation": "exhibit",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "Moreover, our graphs exhibit more concise and generalizable entities and\nrelations."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "serious challenge",
+      "relation": "pose",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.7,
+      "sentence": "The lack of domain-specific and\nverified graph data poses a serious challenge for downstream tasks such as KG embeddings, graph\nRAG, and synthetic graph training data.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "address",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.8,
+      "sentence": "Several synthetic plain-text-to-KG extractors have been proposed to address KG scarcity, most\nprominently including OpenIE [Angeli et al., 2015] and Microsoft’s GraphRAG"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "graphs",
+      "relation": "lead_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.75,
+      "sentence": "This leads to graphs with nearly\nas many unique relation types as edges, resulting in sparse, disconnected knowledge representations\nthat limit their utility for downstream tasks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KGGen",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "To solve this problem, we propose KGGen, a text-\nto-knowledge-graph generator that leverages language models (LMs) and an algorithm for entity\nand edge resolution to extract high-quality, dense KGs fr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "novel iterative clustering algorithm",
+      "relation": "apply",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "First, KGGen uses an LM-based\nextractor to read unstructured text and predict subject-predicate-object triples to capture entities and\nrelations; after extracting the triples, it applies a novel, iter"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extracting",
+      "relation": "apply_after",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.6,
+      "sentence": "First, KGGen uses an LM-based\nextractor to read unstructured text and predict subject-predicate-object triples to capture entities and\nrelations; after extracting the triples, it applies a novel, iter"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "nodes",
+      "relation": "identify",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Inspired by crowd-sourcing strategies for entity resolution [Wang et al., 2012], KGGen\nidentifies nodes that refer to the same underlying entities, and consolidates edges that have equivalent\nmeanings"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "benchmarks",
+      "relation": "lack",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.8,
+      "sentence": "The nascent field of plain-text-to-knowledge graph extraction currently lacks benchmarks to measure\nthe fidelity of KG generation from text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "knowledge retrieval capabilities",
+      "relation": "measure",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "To close this gap, we provide two new benchmarks: the first\ncaptures information retention from short texts; the second, based on WikiQA, measures knowledge\nretrieval capabilities for graphs generated"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "GraphRAG",
+      "relation": "perform",
+      "relation_type": "direct_action",
+      "relation_subtype": "comparative",
+      "confidence": 0.9,
+      "sentence": "On these benchmarks, KGGen performs comparably to GraphRAG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "benchmarks",
+      "relation": "perform_On",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.9,
+      "sentence": "On these benchmarks, KGGen performs comparably to GraphRAG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scaling properties",
+      "relation": "exhibit",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "However, KGGen exhibits far\nbetter scaling properties with respect to information compression and graph sparsity as the plain-text\ndatabase length increases.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "respect",
+      "relation": "exhibit_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "However, KGGen exhibits far\nbetter scaling properties with respect to information compression and graph sparsity as the plain-text\ndatabase length increases.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "source package",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "We introduce KGGen, an open-source package that uses LMs to extract high-quality KGs\nfrom plain text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "benchmarks",
+      "relation": "develop",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "We develop benchmarks to drive improvements in plain-text-to-knowledge-graph extraction,\nand measure KGGen’s performance on these benchmarks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "significant advances",
+      "relation": "see",
+      "relation_type": "direct_action",
+      "relation_subtype": "temporal",
+      "confidence": 0.75,
+      "sentence": "KG\nextraction from unstructured text has seen significant advances throu"
+    },
+    {
+      "source": "llm_inferred",
+      "target": "KGGen",
+      "relation": "lead_to",
+      "relation_type": "leads_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "concise entities",
+      "relation": "exhibit",
+      "relation_type": "exemplifies",
+      "relation_subtype": "inferred",
+      "confidence": 0.8,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "comparable retrieval accuracy",
+      "relation": "perform",
+      "relation_type": "leads_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "first benchmark",
+      "relation": "perform",
+      "relation_type": "leads_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "nodes",
+      "relation": "identify",
+      "relation_type": "specializes",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "scaling properties",
+      "relation": "exhibit",
+      "relation_type": "exemplifies",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "KGGen",
+      "relation": "see",
+      "relation_type": "follows",
+      "relation_subtype": "inferred",
+      "confidence": 0.75,
+      "sentence": ""
+    }
+  ],
+  "metadata": {
+    "node_count": 79,
+    "edge_count": 28,
+    "source": "hybrid_kg"
+  }
+}

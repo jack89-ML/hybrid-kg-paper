@@ -1,0 +1,19 @@
+{
+  "paper": "LLM_KG_Roadmap",
+  "method": "B4_hybrid",
+  "n_runs": 3,
+  "mean_ged": 0.0,
+  "std_ged": 0.0,
+  "min_ged": 0.0,
+  "max_ged": 0.0,
+  "node_counts": [
+    653,
+    653,
+    653
+  ],
+  "edge_counts": [
+    267,
+    267,
+    267
+  ]
+}

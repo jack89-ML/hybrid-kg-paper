@@ -1,0 +1,5131 @@
+{
+  "nodes": [
+    {
+      "id": "GraphRAG",
+      "label": "GraphRAG",
+      "category": "Software",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Haoyu Han1\u2217",
+      "label": "Haoyu Han",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yu Wang2\u2217",
+      "label": "Yu Wang",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Harry Shomer1",
+      "label": "Harry Shomer",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kai Guo1",
+      "label": "Kai Guo",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jiayuan",
+      "label": "Jiayuan",
+      "category": "Location",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yongjia Lei2",
+      "label": "Yongjia Lei",
+      "category": "Location",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mahantesh Halappanavar3",
+      "label": "Mahantesh Halappanavar",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ryan A. Rossi4",
+      "label": "Ryan A. Rossi",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Subhabrata",
+      "label": "Subhabrata",
+      "category": "Person",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xianfeng Tang6",
+      "label": "Xianfeng Tang",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qi He6",
+      "label": "Qi He",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhigang",
+      "label": "Zhigang",
+      "category": "Location",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Bo Long7",
+      "label": "Bo Long",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Tong Zhao8",
+      "label": "Tong Zhao",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Neil",
+      "label": "Neil",
+      "category": "Person",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Amin Javari9",
+      "label": "Amin Javari",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yinglong Xia7",
+      "label": "Yinglong Xia",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jiliang",
+      "label": "Jiliang",
+      "category": "Location",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1Michigan State University",
+      "label": "Michigan State University",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Oregon",
+      "label": "Oregon",
+      "category": "Location",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3Pacific",
+      "label": "Pacific",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Northwest National Laboratory",
+      "label": "Northwest National Laboratory",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5Hippocratic AI",
+      "label": "Hippocratic AI",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6Amazon",
+      "label": "Amazon",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "7Meta",
+      "label": "Meta",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "8Snap Inc.",
+      "label": "Snap Inc.",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "9The",
+      "label": "The",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Home Depot",
+      "label": "Home Depot",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "hanhaoy1",
+      "label": "hanhaoy1",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "shomerha",
+      "label": "shomerha",
+      "category": "Location",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "guokai1",
+      "label": "guokai1",
+      "category": "Person",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "{jiayuan, subho}@hippocraticai.com",
+      "label": "jiayuan@hippocraticai.com",
+      "category": "Person",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "{tong, nshah}@snap.com",
+      "label": "tong@snap.com",
+      "category": "Person",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Graph",
+      "label": "Graph",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "first",
+      "label": "first",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "87",
+      "label": "87",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "120",
+      "label": "120",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "514",
+      "label": "514",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "551",
+      "label": "551",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "fed",
+      "label": "fed",
+      "category": "Organization",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "191",
+      "label": "191",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "196",
+      "label": "196",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "468",
+      "label": "468",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "562",
+      "label": "562",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "IR",
+      "label": "IR",
+      "category": "Organization",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "8 Jan 2025",
+      "label": "8 Jan 2025",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "467",
+      "label": "467",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "472",
+      "label": "472",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "515",
+      "label": "515",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "397",
+      "label": "397",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "203",
+      "label": "203",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "419",
+      "label": "419",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "512",
+      "label": "512",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "513",
+      "label": "513",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "105",
+      "label": "105",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "362",
+      "label": "362",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "545",
+      "label": "545",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "291",
+      "label": "291",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "454",
+      "label": "454",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "103",
+      "label": "103",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "508",
+      "label": "508",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "RAG",
+      "label": "RAG",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "104",
+      "label": "104",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Graph Neural Networks",
+      "label": "Graph Neural Networks",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "98",
+      "label": "98",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "428",
+      "label": "428",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Epithelioid",
+      "label": "Epithelioid",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "186",
+      "label": "186",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "271",
+      "label": "271",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "52",
+      "label": "52",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "445",
+      "label": "445",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Amazon",
+      "label": "Amazon",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "529",
+      "label": "529",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Adobe",
+      "label": "Adobe",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "277",
+      "label": "277",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "527",
+      "label": "527",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2D",
+      "label": "2D",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "434",
+      "label": "434",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "38",
+      "label": "38",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "one",
+      "label": "one",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "492",
+      "label": "492",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Breadth-First Search",
+      "label": "Breadth-First Search",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Monte Carlo Tree Search",
+      "label": "Monte Carlo Tree Search",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "395",
+      "label": "395",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "355",
+      "label": "355",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "356",
+      "label": "356",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Methane",
+      "label": "Methane",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4-square",
+      "label": "4-square",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "139",
+      "label": "139",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "209",
+      "label": "209",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "134",
+      "label": "134",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "244",
+      "label": "244",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "443",
+      "label": "443",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "456",
+      "label": "456",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "43",
+      "label": "43",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "172",
+      "label": "172",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "256",
+      "label": "256",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "377",
+      "label": "377",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "431",
+      "label": "431",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "361",
+      "label": "361",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "549",
+      "label": "549",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "254",
+      "label": "254",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "286",
+      "label": "286",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "563",
+      "label": "563",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "68",
+      "label": "68",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "429",
+      "label": "429",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "five",
+      "label": "five",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1D",
+      "label": "1D",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "227",
+      "label": "227",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "561",
+      "label": "561",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Gao",
+      "label": "Gao",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "three",
+      "label": "three",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Modular",
+      "label": "Modular",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhao et al",
+      "label": "Zhao et al",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "only one",
+      "label": "only one",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "319",
+      "label": "319",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 2",
+      "label": "Section 2",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 3 to",
+      "label": "Section 3 to",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 10",
+      "label": "Section 10",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 11",
+      "label": "Section 11",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Holistic Framework",
+      "label": "Holistic Framework",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.1",
+      "label": "2.1",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "\u2126Processor",
+      "label": "\u2126Processor",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "\u02c6Q.",
+      "label": "\u02c6Q.",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "\u02c6Q. Next",
+      "label": "\u02c6Q. Next",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "\u2126Organizer",
+      "label": "\u2126Organizer",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "\u02c6C.",
+      "label": "\u02c6C.",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "\u2126Generator",
+      "label": "\u2126Generator",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "\u2126Retriever",
+      "label": "\u2126Retriever",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Arrange",
+      "label": "Arrange",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Natural Language Processing",
+      "label": "the Natural Language Processing",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "NLP",
+      "label": "NLP",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "BFS/DFS",
+      "label": "BFS/DFS",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.2",
+      "label": "2.2",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Task Applications",
+      "label": "Task Applications",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "China",
+      "label": "China",
+      "category": "Location",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "272",
+      "label": "272",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "132",
+      "label": "132",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "147",
+      "label": "147",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "16th",
+      "label": "16th",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the United States",
+      "label": "United States",
+      "category": "Location",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "530",
+      "label": "530",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "493",
+      "label": "493",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "381",
+      "label": "381",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "110",
+      "label": "110",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "185",
+      "label": "185",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "78",
+      "label": "78",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "158",
+      "label": "158",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "522",
+      "label": "522",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "347",
+      "label": "347",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "380",
+      "label": "380",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "312",
+      "label": "312",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "308",
+      "label": "308",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "181",
+      "label": "181",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "205",
+      "label": "205",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "118",
+      "label": "118",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "164",
+      "label": "164",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "72",
+      "label": "72",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "270",
+      "label": "270",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "406",
+      "label": "406",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "289",
+      "label": "289",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "251",
+      "label": "251",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "106",
+      "label": "106",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "452",
+      "label": "452",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "200",
+      "label": "200",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "225",
+      "label": "225",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "483",
+      "label": "483",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "232",
+      "label": "232",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "425",
+      "label": "425",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "182",
+      "label": "182",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "568",
+      "label": "568",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Louvre",
+      "label": "Louvre",
+      "category": "Location",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "62",
+      "label": "62",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "389",
+      "label": "389",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "439",
+      "label": "439",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2006",
+      "label": "2006",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "246",
+      "label": "246",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "119",
+      "label": "119",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "566",
+      "label": "566",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "567",
+      "label": "567",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Apple",
+      "label": "Apple Inc.",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Cyber Analysis",
+      "label": "Cyber Analysis",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "330",
+      "label": "330",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "491",
+      "label": "491",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "408",
+      "label": "408",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "237",
+      "label": "237",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "519",
+      "label": "519",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "548",
+      "label": "548",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "462",
+      "label": "462",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "547",
+      "label": "547",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "482",
+      "label": "482",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "231",
+      "label": "231",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "45",
+      "label": "45",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "525",
+      "label": "525",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "49",
+      "label": "49",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "212",
+      "label": "212",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Houston",
+      "label": "Houston",
+      "category": "Location",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "90",
+      "label": "90",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "501",
+      "label": "501",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "544",
+      "label": "544",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "249",
+      "label": "249",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "137",
+      "label": "137",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "538",
+      "label": "538",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "259",
+      "label": "259",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "518",
+      "label": "518",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "461",
+      "label": "461",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "307",
+      "label": "307",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "410",
+      "label": "410",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "108",
+      "label": "108",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Relational Extraction",
+      "label": "Relational Extraction",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Surfers Riverwalk",
+      "label": "Surfers Riverwalk",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Queensland",
+      "label": "Queensland",
+      "category": "Location",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "409",
+      "label": "409",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "302",
+      "label": "302",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "344",
+      "label": "344",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "63",
+      "label": "63",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "558",
+      "label": "558",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "543",
+      "label": "543",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "167",
+      "label": "167",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lumo",
+      "label": "Lumo",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "265",
+      "label": "265",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "484",
+      "label": "484",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "175",
+      "label": "175",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "449",
+      "label": "449",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "318",
+      "label": "318",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "366",
+      "label": "366",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "183",
+      "label": "183",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "427",
+      "label": "427",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Social Post Generation",
+      "label": "Social Post Generation",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "202",
+      "label": "202",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "463",
+      "label": "463",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "353",
+      "label": "353",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "92",
+      "label": "92",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "315",
+      "label": "315",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sequential/Conversational Recommendation",
+      "label": "Sequential/Conversational Recommendation",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "95",
+      "label": "95",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "438",
+      "label": "438",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "159",
+      "label": "159",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "510",
+      "label": "510",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "416",
+      "label": "416",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "327",
+      "label": "327",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "152",
+      "label": "152",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "116",
+      "label": "116",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Social QA",
+      "label": "Social QA",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Los Gatoks",
+      "label": "Los Gatoks",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "511",
+      "label": "511",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "198",
+      "label": "198",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "COVID-19",
+      "label": "COVID-19",
+      "category": "Product",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "331",
+      "label": "331",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "226",
+      "label": "226",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "372",
+      "label": "372",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "555",
+      "label": "555",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Asynchronous Planning",
+      "label": "Asynchronous Planning",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "248",
+      "label": "248",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "342",
+      "label": "342",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "282",
+      "label": "282",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "570",
+      "label": "570",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "142",
+      "label": "142",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "368",
+      "label": "368",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "477",
+      "label": "477",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Cell B17",
+      "label": "Cell B17",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "188",
+      "label": "188",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "335",
+      "label": "335",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "364",
+      "label": "364",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "124",
+      "label": "124",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "57",
+      "label": "57",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "560",
+      "label": "560",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "242",
+      "label": "242",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "94",
+      "label": "94",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "135",
+      "label": "135",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "B17",
+      "label": "B17",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "557",
+      "label": "557",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "497",
+      "label": "497",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "451",
+      "label": "451",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "34",
+      "label": "34",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "432",
+      "label": "432",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "178",
+      "label": "178",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "532",
+      "label": "532",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "531",
+      "label": "531",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Table Retrieval\nRetrieve",
+      "label": "Table Retrieval",
+      "category": "Product",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Asian",
+      "label": "Asian",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "411",
+      "label": "411",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "61",
+      "label": "61",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "168",
+      "label": "168",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "500",
+      "label": "500",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KRAS",
+      "label": "KRAS",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "334",
+      "label": "334",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "161",
+      "label": "161",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "414",
+      "label": "414",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "469",
+      "label": "469",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "440",
+      "label": "440",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "64",
+      "label": "64",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "502",
+      "label": "502",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "117",
+      "label": "117",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "60",
+      "label": "60",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "441",
+      "label": "441",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "84",
+      "label": "84",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "371",
+      "label": "371",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "154",
+      "label": "154",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "91",
+      "label": "91",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "P357",
+      "label": "P357",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "109",
+      "label": "109",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "36",
+      "label": "36",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "73",
+      "label": "73",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "413",
+      "label": "413",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "130",
+      "label": "130",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "275",
+      "label": "275",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Table 2",
+      "label": "Table 2",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Structuration",
+      "label": "Structuration",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "SQL",
+      "label": "SQL",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "SPARQL",
+      "label": "SPARQL",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "GQL",
+      "label": "GQL",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.3",
+      "label": "2.3",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Query Processor",
+      "label": "Query Processor",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Justin Bieber\u2019s",
+      "label": "Justin Bieber",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Justin Bieber",
+      "label": "Justin Bieber",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "160",
+      "label": "160",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "199",
+      "label": "199",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "228",
+      "label": "228",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "293",
+      "label": "293",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "four",
+      "label": "four",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "NER",
+      "label": "NER",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Li et al",
+      "label": "Li et al",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "EntityLinker",
+      "label": "EntityLinker",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLM",
+      "label": "LLM",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jin et al",
+      "label": "Jin et al",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Language Models",
+      "label": "Language Models",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Relational Extraction\nSimilar",
+      "label": "Relational Extraction Similar",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "47",
+      "label": "47",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "230",
+      "label": "230",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "303",
+      "label": "303",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pawar\net al",
+      "label": "Pawar et al",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "317",
+      "label": "317",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Nasar et al",
+      "label": "Nasar et al",
+      "category": "Person",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Han",
+      "label": "Han",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "141",
+      "label": "141",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "two",
+      "label": "two",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "massive heterogeneous information",
+      "label": "massive heterogeneous information",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "its intrinsic nodes",
+      "label": "its intrinsic nodes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "we",
+      "label": "we",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "increasing attention",
+      "label": "increasing attention",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "systematic survey",
+      "label": "systematic survey",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "broad applicability",
+      "label": "broad applicability",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comprehensive survey",
+      "label": "comprehensive survey",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "mo- tivation",
+      "label": "mo- tivation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Our survey",
+      "label": "Our survey",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "holistic GraphRAG framework",
+      "label": "holistic GraphRAG framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "defining",
+      "label": "defining",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "GraphRAG techniques",
+      "label": "GraphRAG techniques",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "research challenges",
+      "label": "research challenges",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Our survey repository",
+      "label": "Our survey repository",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "https://github.com/Graph-RAG/GraphRAG/.",
+      "label": "https://github.com/Graph-RAG/GraphRAG/.",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "powerful technique",
+      "label": "powerful technique",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "retrievers",
+      "label": "retrievers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "RAG frameworks",
+      "label": "RAG frameworks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "additional knowledge",
+      "label": "additional knowledge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "on",
+      "label": "on",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "external factual knowledge",
+      "label": "external factual knowledge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "example",
+      "label": "example",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent advancements",
+      "label": "recent advancements",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "enhancing",
+      "label": "enhancing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "such",
+      "label": "such",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent research",
+      "label": "recent research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "integration",
+      "label": "integration",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structured data",
+      "label": "structured data",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "heterogeneous information",
+      "label": "heterogeneous information",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "textual data",
+      "label": "textual data",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "individuals",
+      "label": "individuals",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unique advantages",
+      "label": "unique advantages",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "capturing",
+      "label": "capturing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "What drugs",
+      "label": "What drugs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "treat",
+      "label": "treat",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "query",
+      "label": "query",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "some GraphRAG methods",
+      "label": "some GraphRAG methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "graph",
+      "label": "graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "contrast",
+      "label": "contrast",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "relational path",
+      "label": "relational path",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "some domains",
+      "label": "some domains",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "entities",
+      "label": "entities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "3D structures",
+      "label": "3D structures",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "appropriate expressiveness",
+      "label": "appropriate expressiveness",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "diverse formats",
+      "label": "diverse formats",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "conventional RAG",
+      "label": "conventional RAG",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "document graphs",
+      "label": "document graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "sentence chunks",
+      "label": "sentence chunks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "diversity",
+      "label": "diversity",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "different RAG designs",
+      "label": "different RAG designs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "concrete format",
+      "label": "concrete format",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "design",
+      "label": "design",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "sufficient geometric expressiveness",
+      "label": "sufficient geometric expressiveness",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "This",
+      "label": "This",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "execution",
+      "label": "execution",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "resource dependencies",
+      "label": "resource dependencies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "generator",
+      "label": "generator",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "specialized designs",
+      "label": "specialized designs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "retriever",
+      "label": "retriever",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "information",
+      "label": "information",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "documents",
+      "label": "documents",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "chunks",
+      "label": "chunks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "independence",
+      "label": "independence",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "retrieval",
+      "label": "retrieval",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "edges",
+      "label": "edges",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "capture",
+      "label": "capture",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "retrieved content",
+      "label": "retrieved content",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "not",
+      "label": "not",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "explicit transferable units",
+      "label": "explicit transferable units",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "images",
+      "label": "images",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "underlying generation process",
+      "label": "underlying generation process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "different domains",
+      "label": "different domains",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "accepted homophily assumption",
+      "label": "accepted homophily assumption",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "different tasks",
+      "label": "different tasks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "distinct GraphRAG designs",
+      "label": "distinct GraphRAG designs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "even",
+      "label": "even",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "content relevance",
+      "label": "content relevance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "current research landscape",
+      "label": "current research landscape",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "above differences",
+      "label": "above differences",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "significant variation",
+      "label": "significant variation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "current GraphRAG research",
+      "label": "current GraphRAG research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge",
+      "label": "knowledge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "imbalance",
+      "label": "imbalance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advancement",
+      "label": "advancement",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comprehensive review",
+      "label": "comprehensive review",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "We",
+      "label": "We",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "holistic framework",
+      "label": "holistic framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "representative GraphRAG techniques",
+      "label": "representative GraphRAG techniques",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each component",
+      "label": "each component",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "text",
+      "label": "text",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "infrastructure graph",
+      "label": "infrastructure graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their unique applications",
+      "label": "their unique applications",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each domain",
+      "label": "each domain",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "distinctive designs",
+      "label": "distinctive designs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "our proposed holistic GraphRAG framework",
+      "label": "our proposed holistic GraphRAG framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "challenges",
+      "label": "challenges",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "differences",
+      "label": "differences",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "following",
+      "label": "following",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "existing surveys",
+      "label": "existing surveys",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "urgent need",
+      "label": "urgent need",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "general RAG",
+      "label": "general RAG",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "context",
+      "label": "context",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "earlier surveys",
+      "label": "earlier surveys",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advent",
+      "label": "advent",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "textual RAGs",
+      "label": "textual RAGs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "various surveys",
+      "label": "various surveys",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "powered RAG",
+      "label": "powered RAG",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent unprecedented suc- cess",
+      "label": "recent unprecedented suc- cess",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "proaches",
+      "label": "proaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three core techniques",
+      "label": "three core techniques",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "[",
+      "label": "[",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "representative RAG systems",
+      "label": "representative RAG systems",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "to",
+      "label": "to",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "none",
+      "label": "none",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "dedicated focus",
+      "label": "dedicated focus",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "one recent study",
+      "label": "one recent study",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "best",
+      "label": "best",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "work",
+      "label": "work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "reviewing",
+      "label": "reviewing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "inherent heterogeneity",
+      "label": "inherent heterogeneity",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "graph construction methods",
+      "label": "graph construction methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "our survey",
+      "label": "our survey",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comprehensive overview",
+      "label": "comprehensive overview",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "way",
+      "label": "way",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Section 3",
+      "label": "Section 3",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "specific domains",
+      "label": "specific domains",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "basic problem setting",
+      "label": "basic problem setting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "refined content",
+      "label": "refined content",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "generate",
+      "label": "generate",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "above five components",
+      "label": "above five components",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "follows",
+      "label": "follows",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Generator",
+      "label": "Generator",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "answers",
+      "label": "answers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "traversal methods",
+      "label": "traversal methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "2.2 Task Applications",
+      "label": "2.2 Task Applications",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Table 1",
+      "label": "Table 1",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "common task applications",
+      "label": "common task applications",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "patient",
+      "label": "patient",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "hospital",
+      "label": "hospital",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "330 Document Summarization",
+      "label": "330 Document Summarization",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "following documents",
+      "label": "following documents",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "98 Text Generation",
+      "label": "98 Text Generation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "abstract",
+      "label": "abstract",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Document Retrieval",
+      "label": "Document Retrieval",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "relevant documents",
+      "label": "relevant documents",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "543 Molecule Generation",
+      "label": "543 Molecule Generation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "guide",
+      "label": "guide",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "I",
+      "label": "I",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "bit",
+      "label": "bit",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "What medication",
+      "label": "What medication",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "it",
+      "label": "it",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "COVID-19 vaccine",
+      "label": "COVID-19 vaccine",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "microchips",
+      "label": "microchips",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Plan Retrieval",
+      "label": "Plan Retrieval",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "image",
+      "label": "image",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Commonsense Reasoning",
+      "label": "Commonsense Reasoning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "342 Defeasible Inference",
+      "label": "342 Defeasible Inference",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Tool Usage",
+      "label": "Tool Usage",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Find(shower",
+      "label": "Find(shower",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "560 CTR Prediction",
+      "label": "560 CTR Prediction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "probability",
+      "label": "probability",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Visual QA",
+      "label": "Visual QA",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "word advertisement",
+      "label": "word advertisement",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "place",
+      "label": "place",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scene graph",
+      "label": "scene graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Many techniques",
+      "label": "Many techniques",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extract",
+      "label": "extract",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each",
+      "label": "each",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "broader NLP domain",
+      "label": "broader NLP domain",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Named Entity Recognition",
+      "label": "Named Entity Recognition",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "identify",
+      "label": "identify",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "NER techniques",
+      "label": "NER techniques",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "four main approaches",
+      "label": "four main approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Recent LLMs",
+      "label": "Recent LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "category",
+      "label": "category",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their resources",
+      "label": "their resources",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "entity recognition",
+      "label": "entity recognition",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "learning techniques",
+      "label": "learning techniques",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "GraphRAG context",
+      "label": "GraphRAG context",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent GraphRAG research",
+      "label": "recent GraphRAG research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "identifying",
+      "label": "identifying",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recognized entity",
+      "label": "recognized entity",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "semantic name",
+      "label": "semantic name",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "RE",
+      "label": "RE",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two key purposes",
+      "label": "two key purposes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    }
+  ],
+  "edges": [
+    {
+      "source": "dependency_parse",
+      "target": "massive heterogeneous information",
+      "relation": "encode",
+      "relation_type": "direct_action",
+      "relation_subtype": "compositional",
+      "confidence": 0.9,
+      "sentence": "Graph, by its intrinsic \"nodes connected by\nedges\" nature, encodes massive heterogeneous and relational information, making\nit a golden resource for RAG in tremendous real-world applications."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "its intrinsic nodes",
+      "relation": "encode_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "Graph, by its intrinsic \"nodes connected by\nedges\" nature, encodes massive heterogeneous and relational information, making\nit a golden resource for RAG in tremendous real-world applications."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "increasing attention",
+      "relation": "witness",
+      "relation_type": "direct_action",
+      "relation_subtype": "temporal",
+      "confidence": 0.85,
+      "sentence": "As a result,\nwe have recently witnessed increasing attention on equipping RAG with Graph, i.e.,\nGraphRAG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "result",
+      "relation": "witness_As",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.75,
+      "sentence": "As a result,\nwe have recently witnessed increasing attention on equipping RAG with Graph, i.e.,\nGraphRAG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "broad applicability",
+      "relation": "desire_Given",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Given the broad applicability, the associated\ndesign challenges, and the recent surge in GraphRAG, a systematic and up-to-date\nsurvey of its key concepts and techniques is urgently desired."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comprehensive survey",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Following this mo-\ntivation, we present a comprehensive and up-to-date survey on GraphRAG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "mo- tivation",
+      "relation": "present_Following",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "Following this mo-\ntivation, we present a comprehensive and up-to-date survey on GraphRAG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "holistic GraphRAG framework",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "compositional",
+      "confidence": 0.9,
+      "sentence": "Our\nsurvey first proposes a holistic GraphRAG framework by defining its key compo-\nnents, including query processor, retriever, organizer, generator, and data source.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "defining",
+      "relation": "propose_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "Our\nsurvey first proposes a holistic GraphRAG framework by defining its key compo-\nnents, including query processor, retriever, organizer, generator, and data source.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "GraphRAG techniques",
+      "relation": "review",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Furthermore, recognizing that graphs in different domains exhibit distinct relational\npatterns and require dedicated designs, we review GraphRAG techniques uniquely\ntailored to each domain."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "research challenges",
+      "relation": "discuss",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Finally, we discuss research challenges and brainstorm\ndirections to inspire cross-disciplinary opportunities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "https://github.com/Graph-RAG/GraphRAG/.",
+      "relation": "maintain_at",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "Our survey repository is\npublicly maintained at https://github.com/Graph-RAG/GraphRAG/.\n1\nIntroduction\nRetrieval-Augmented Generation (RAG), as a powerful technique to improve downstream tasks by\nretr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "powerful technique",
+      "relation": "maintain_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.7,
+      "sentence": "Our survey repository is\npublicly maintained at https://github.com/Graph-RAG/GraphRAG/.\n1\nIntroduction\nRetrieval-Augmented Generation (RAG), as a powerful technique to improve downstream tasks by\nretr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "RAG frameworks",
+      "relation": "search_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.75,
+      "sentence": "In RAG frameworks, retrievers search for additional\nknowledge, skills, and tools based on user-defined queries or task instructions."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "additional knowledge",
+      "relation": "search_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "In RAG frameworks, retrievers search for additional\nknowledge, skills, and tools based on user-defined queries or task instructions."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "on",
+      "relation": "search_based",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "In RAG frameworks, retrievers search for additional\nknowledge, skills, and tools based on user-defined queries or task instructions."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "external factual knowledge",
+      "relation": "retrieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "For example, when conducting question-\nanswering (QA) tasks, the classic \"Retriever-then-Reader\" frameworks [191, 196, 468, 562] retrieve\nexternal factual knowledge to improve the answer faithfulness,"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "retrieve_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.75,
+      "sentence": "For example, when conducting question-\nanswering (QA) tasks, the classic \"Retriever-then-Reader\" frameworks [191, 196, 468, 562] retrieve\nexternal factual knowledge to improve the answer faithfulness,"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "397",
+      "relation": "underscore",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "Moreover, recent advancements in large language models (LLMs)\nhave further underscored the power of RAG in enhancing the social responsibility of LLMs, such as\nmitigating hallucinations [397], enhanci"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "enhancing",
+      "relation": "underscore_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Moreover, recent advancements in large language models (LLMs)\nhave further underscored the power of RAG in enhancing the social responsibility of LLMs, such as\nmitigating hallucinations [397], enhanci"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "such",
+      "relation": "underscore_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "Moreover, recent advancements in large language models (LLMs)\nhave further underscored the power of RAG in enhancing the social responsibility of LLMs, such as\nmitigating hallucinations [397], enhanci"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "integration",
+      "relation": "explore",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "Building on the unprecedented success of RAG and further considering the ubiquity of graphs in real-\nworld applications [545], recent research has explored the integration of RAG with graph-structured"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "heterogeneous information",
+      "relation": "encode",
+      "relation_type": "direct_action",
+      "relation_subtype": "compositional",
+      "confidence": 0.9,
+      "sentence": "Unlike textual or visual data, graph-structured data encodes heterogeneous and relational\ninformation through its intrinsic \"nodes connected by edges\" nature."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "textual data",
+      "relation": "encode_Unlike",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "Unlike textual or visual data, graph-structured data encodes heterogeneous and relational\ninformation through its intrinsic \"nodes connected by edges\" nature."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "its intrinsic nodes",
+      "relation": "encode_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.75,
+      "sentence": "Unlike textual or visual data, graph-structured data encodes heterogeneous and relational\ninformation through its intrinsic \"nodes connected by edges\" nature."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "454",
+      "relation": "exhibit",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "For example, individuals\nconnected by social relationships of social networks usually exhibit homophily behaviors [291],\nsequential decision-making steps in plans follow casual dependency [454], and a"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "exhibit_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.75,
+      "sentence": "For example, individuals\nconnected by social relationships of social networks usually exhibit homophily behaviors [291],\nsequential decision-making steps in plans follow casual dependency [454], and a"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "unique advantages",
+      "relation": "offer",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Different from\nRAG, which predominantly uses semantic/lexical similarity search [104, 120], GraphRAG offers\nunique advantages in capturing relational knowledge by leveraging graph-based machine learni"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "capturing",
+      "relation": "offer_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Different from\nRAG, which predominantly uses semantic/lexical similarity search [104, 120], GraphRAG offers\nunique advantages in capturing relational knowledge by leveraging graph-based machine learni"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "treat",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "For example, considering the query \u201cWhat drugs are\nused to treat epithelioid sarcoma and also affect the EZH2 gene product?\""
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "use_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.75,
+      "sentence": "For example, considering the query \u201cWhat drugs are\nused to treat epithelioid sarcoma and also affect the EZH2 gene product?\""
+    },
+    {
+      "source": "dependency_parse",
+      "target": "query",
+      "relation": "use_considering",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "For example, considering the query \u201cWhat drugs are\nused to treat epithelioid sarcoma and also affect the EZH2 gene product?\""
+    },
+    {
+      "source": "dependency_parse",
+      "target": "graph",
+      "relation": "traverse",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "In contrast, some GraphRAG methods traverse the\ngraph along the relational path \u201cDisease (Epithelioid Sarcoma) \u2192[indication] \u2192Drug \u2190[target]\n\u2190Gene/Protein (EZH2 gene product)\" to retrieve neighbors of"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contrast",
+      "relation": "traverse_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.75,
+      "sentence": "In contrast, some GraphRAG methods traverse the\ngraph along the relational path \u201cDisease (Epithelioid Sarcoma) \u2192[indication] \u2192Drug \u2190[target]\n\u2190Gene/Protein (EZH2 gene product)\" to retrieve neighbors of"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "relational path",
+      "relation": "traverse_along",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "In contrast, some GraphRAG methods traverse the\ngraph along the relational path \u201cDisease (Epithelioid Sarcoma) \u2192[indication] \u2192Drug \u2190[target]\n\u2190Gene/Protein (EZH2 gene product)\" to retrieve neighbors of"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "entities",
+      "relation": "involve",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "Moreover, some domains involve entities with extremely complex geometry that\nrequire dedicated model design to characterize."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "527",
+      "relation": "require",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "For example, 3D structures in molecular graphs [52,\n445] and hierarchical tree structures commonly found in product taxonomies (e.g., on Amazon [529]),\nin document sections (e.g., when using Adobe Acr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "appropriate expressiveness",
+      "relation": "require_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.75,
+      "sentence": "For example, 3D structures in molecular graphs [52,\n445] and hierarchical tree structures commonly found in product taxonomies (e.g., on Amazon [529]),\nin document sections (e.g., when using Adobe Acr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "diverse formats",
+      "relation": "encompass",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "Despite the above advantages of GraphRAGs over RAGs, designing appropriate GraphRAGs faces\nunprecedented challenges due to the following differences in graph-structured data:\n\u2022 Difference 1 - Unified "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "conventional RAG",
+      "relation": "encompass_Unlike",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "Despite the above advantages of GraphRAGs over RAGs, designing appropriate GraphRAGs faces\nunprecedented challenges due to the following differences in graph-structured data:\n\u2022 Difference 1 - Unified "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "entities",
+      "relation": "embed",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "For example, document graphs embed\nentities as sentence chunks [98, 428], knowledge graphs store graph information as triplets or\npaths [38], and molecule graphs consist of higher-order structures (e."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "embed_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.75,
+      "sentence": "For example, document graphs embed\nentities as sentence chunks [98, 428], knowledge graphs store graph information as triplets or\npaths [38], and molecule graphs consist of higher-order structures (e."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "sentence chunks",
+      "relation": "embed_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.7,
+      "sentence": "For example, document graphs embed\nentities as sentence chunks [98, 428], knowledge graphs store graph information as triplets or\npaths [38], and molecule graphs consist of higher-order structures (e."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "different RAG designs",
+      "relation": "necessitate",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "Consequently, this diversity necessitates different RAG designs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "retrievers",
+      "relation": "assume_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.75,
+      "sentence": "For retrievers, conventional RAG\nassumes the target information is indexed in an image or text corpus, which can be uniformly\nrepresented as vector embeddings and enable one-size-fits-all embedding-ba"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "concrete format",
+      "relation": "consider",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "However,\nretrievers for GraphRAG must consider the concrete format and source of the desired information,\nmaking the one-size-fits-all design impractical."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "sufficient geometric expressiveness",
+      "relation": "ensure",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Furthermore, the design of the retriever should ensure sufficient geometric\nexpressiveness to capture structural nuances."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "execution",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "This enables the execution of APIs with resource dependencies in the correct order,\npreventing conflicts and avoiding invalid operations."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "resource dependencies",
+      "relation": "enable_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.75,
+      "sentence": "This enables the execution of APIs with resource dependencies in the correct order,\npreventing conflicts and avoiding invalid operations."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "specialized designs",
+      "relation": "require",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Beyond the retriever, the generator\nalso requires specialized designs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "retriever",
+      "relation": "require_Beyond",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Beyond the retriever, the generator\nalso requires specialized designs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "conventional RAG",
+      "relation": "store_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "In these cases, encoding the graph with\ngraph encoders such as GNNs before integrating it into generation can help preserve structural\nnuances [134, 244, 434, 443, 456].\n\u2022 Difference 2 - Independent v"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "split_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "For example, documents are split into chunks, such as\nindividual sentences, paragraphs, or a fixed number of tokens, based on the document context\nand downstream task [21, 562]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "chunks",
+      "relation": "split_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "For example, documents are split into chunks, such as\nindividual sentences, paragraphs, or a fixed number of tokens, based on the document context\nand downstream task [21, 562]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "on",
+      "relation": "split_based",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "For example, documents are split into chunks, such as\nindividual sentences, paragraphs, or a fixed number of tokens, based on the document context\nand downstream task [21, 562]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "retrieval",
+      "relation": "prevent",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "This independence prevents the retrieval from capturing chunk relations, which hinders\nperformance on tasks requiring multi-hop reasoning and long-form planning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "capturing",
+      "relation": "prevent_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "This independence prevents the retrieval from capturing chunk relations, which hinders\nperformance on tasks requiring multi-hop reasoning and long-form planning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "capture",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "For retrieval, these edges could enable multi-hop traversal\nto capture other chunks that share a logical connection with existing retrieved chunks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "retrieval",
+      "relation": "enable_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "For retrieval, these edges could enable multi-hop traversal\nto capture other chunks that share a logical connection with existing retrieved chunks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "not",
+      "relation": "organize_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "Furthermore,\nthe retrieved content can be organized not only by their semantic meaning (e.g., reranking [43,\n172, 256]) but also their structural relations (e.g., graph pruning [377, 431])."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "explicit transferable units",
+      "relation": "lack",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "Unlike images and texts, where different domains often share\ntransferable semantics [254, 286], such as textures and grains in images or vocabulary defined by\nthe tokenizer in texts, graph-structured "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "images",
+      "relation": "lack_Unlike",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "Unlike images and texts, where different domains often share\ntransferable semantics [254, 286], such as textures and grains in images or vocabulary defined by\nthe tokenizer in texts, graph-structured "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structured data",
+      "relation": "vary_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "However, for graph-structured data, the underlying data\ngeneration process governing the generated graphs varies significantly across different domains.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "different domains",
+      "relation": "vary_across",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "However, for graph-structured data, the underlying data\ngeneration process governing the generated graphs varies significantly across different domains.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "563",
+      "relation": "suggest",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "For example, when predicting\nthe topic of an academic paper, the widely accepted homophily assumption suggests retrieving\nreferences from the paper to inform its topic prediction [563]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "suggest_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "For example, when predicting\nthe topic of an academic paper, the widely accepted homophily assumption suggests retrieving\nreferences from the paper to inform its topic prediction [563]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "distinct GraphRAG designs",
+      "relation": "necessitate",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Moreover, even within the\nsame graph from the same domain, different tasks may necessitate distinct GraphRAG designs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "even",
+      "relation": "necessitate_within",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "Moreover, even within the\nsame graph from the same domain, different tasks may necessitate distinct GraphRAG designs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "consider_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "For example, when designing an automatic email completion system to optimize communication\nefficiency in a company, both content relevance and tone coherence should be considered [429].\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "above differences",
+      "relation": "remain_Despite",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Despite the above differences that have driven extensive research in GraphRAG, the current research\nlandscape in this field remains fragmented, with significant variation in concepts, techniques, and\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "significant variation",
+      "relation": "remain_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Despite the above differences that have driven extensive research in GraphRAG, the current research\nlandscape in this field remains fragmented, with significant variation in concepts, techniques, and\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "knowledge",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "Moreover, current GraphRAG research primarily focuses on knowledge and\ndocument graphs as surveyed in Figure 2, often overlooking broader applications in other domains\nlike infrastructure graphs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "advancement",
+      "relation": "hamper",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "This imbalance not only hampers the advancement of GraphRAG but\nalso risks creating a \"bubble effect\" that restricts the scope of future exploration."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comprehensive review",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "To address these\nchallenges, we present a comprehensive and up-to-date review of GraphRAG, aiming to unify the\nGraphRAG framework from the global perspective while also specializing its unique design "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "holistic framework",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "The key contributions of this survey are as follows:\n\u2022 A Holistic Framework of GraphRAG: We propose a holistic framework of GraphRAG consisting\nof five key components: query processor, retriever, orga"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "representative GraphRAG techniques",
+      "relation": "review",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "Within each component, we review representative GraphRAG techniques.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each component",
+      "relation": "review_Within",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "Within each component, we review representative GraphRAG techniques.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "text",
+      "relation": "work_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "\u2022 Specialization of GraphRAG in different domains: We categorize GraphRAG designs into 10\ndistinct domains based on their specific applications, including knowledge graph\n, document\ngraph\n, scientific"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "infrastructure graph",
+      "relation": "work",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "In contrast, GraphRAG works on graph-structured data, which\nencompasses diverse formats and includes domain-specific relational information.\ninfrastructure graph\n, biological graph\n, scene graph\n, and"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contrast",
+      "relation": "work_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "In contrast, GraphRAG works on graph-structured data, which\nencompasses diverse formats and includes domain-specific relational information.\ninfrastructure graph\n, biological graph\n, scene graph\n, and"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structured data",
+      "relation": "work_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "In contrast, GraphRAG works on graph-structured data, which\nencompasses diverse formats and includes domain-specific relational information.\ninfrastructure graph\n, biological graph\n, scene graph\n, and"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "their unique applications",
+      "relation": "review",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "For each domain,\nwe review their unique applications and specific graph construction methods."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each domain",
+      "relation": "review_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "For each domain,\nwe review their unique applications and specific graph construction methods."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "distinctive designs",
+      "relation": "summarize",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "We then summarize\nthe distinctive designs of each component within our proposed holistic GraphRAG framework and\ncollect rich benchmark datasets and tool resources.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "our proposed holistic GraphRAG framework",
+      "relation": "summarize_within",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "We then summarize\nthe distinctive designs of each component within our proposed holistic GraphRAG framework and\ncollect rich benchmark datasets and tool resources.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "challenges",
+      "relation": "highlight",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "\u2022 Challenges and Future Directions: We highlight the challenges of current GraphRAG research\nand pinpoint future opportunities for further advancing GraphRAG into the new frontier.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "differences",
+      "relation": "highlight",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "In the following, we highlight the differences between our\nsurvey and existing surveys."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "following",
+      "relation": "highlight_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "In the following, we highlight the differences between our\nsurvey and existing surveys."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "urgent need",
+      "relation": "focus_Despite",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "Despite the urgent need for a sys-\ntematic overview of GraphRAG, most existing surveys focus\non general RAG within the context of i.i.d."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "general RAG",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "Despite the urgent need for a sys-\ntematic overview of GraphRAG, most existing surveys focus\non general RAG within the context of i.i.d."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "context",
+      "relation": "focus_within",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "Despite the urgent need for a sys-\ntematic overview of GraphRAG, most existing surveys focus\non general RAG within the context of i.i.d."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "advent",
+      "relation": "focus_Before",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "Before the advent of LLMs, earlier surveys focused\non textual RAGs"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "textual RAGs",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "Before the advent of LLMs, earlier surveys focused\non textual RAGs"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "powered RAG",
+      "relation": "explore",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "With the recent unprecedented suc-\ncess achieved by foundational models such as LLMs, various\nsurveys have explored foundational-model-powered RAG in\ndifferent modalities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "recent unprecedented suc- cess",
+      "relation": "explore_With",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "With the recent unprecedented suc-\ncess achieved by foundational models such as LLMs, various\nsurveys have explored foundational-model-powered RAG in\ndifferent modalities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three core techniques",
+      "relation": "summarize",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[120] group existing RAG ap-\nproaches into three categories (Naive, Advanced, and Modular\nRAGs), summarize three core techniques (Retrieval, Genera-\ntion, and Augmentation), and review evaluation metr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "representative RAG systems",
+      "relation": "review",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[551] review representative RAG systems according to their corresponding\napplication and data modality."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "to",
+      "relation": "review_according",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "[551] review representative RAG systems according to their corresponding\napplication and data modality."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "dedicated focus",
+      "relation": "have",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "However, none of them have a dedicated focus on graph-structured data."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "RAG",
+      "relation": "survey",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "To the best of\nour knowledge, only one very recent study [319] has specifically surveyed RAG in the context of\ngraph-structured data."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "best",
+      "relation": "survey_To",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "To the best of\nour knowledge, only one very recent study [319] has specifically surveyed RAG in the context of\ngraph-structured data."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "context",
+      "relation": "survey_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "To the best of\nour knowledge, only one very recent study [319] has specifically surveyed RAG in the context of\ngraph-structured data."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "reviewing",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "However, this work mainly focuses on reviewing techniques introduced by\ngraphs under the conventional RAG architecture without specializing in reviewing diverse relations\nand technical designs for gra"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "inherent heterogeneity",
+      "relation": "recognize",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "In contrast to its holistic review philosophy,\nwe recognize the inherent heterogeneity of graph-structured data and specialize our GraphRAG\nreview across different domains."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contrast",
+      "relation": "recognize_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "In contrast to its holistic review philosophy,\nwe recognize the inherent heterogeneity of graph-structured data and specialize our GraphRAG\nreview across different domains."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "graph construction methods",
+      "relation": "uncover",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Specifically, we uncover the fundamental task applications (when\nto retrieve), graph construction methods and relational rationales (what to retrieve), and GraphRAG\ntechniques (how to retrieve) for ea"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comprehensive overview",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "In this way, our survey provides a comprehensive\noverview of GraphRAG for information retrieval, data mining, and machine learning communities\nand domain-specific insights that facilitate interdiscipl"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "way",
+      "relation": "provide_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "In this way, our survey provides a comprehensive\noverview of GraphRAG for information retrieval, data mining, and machine learning communities\nand domain-specific insights that facilitate interdiscipl"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "holistic framework",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Our survey is structured as follows: Section 2 introduces the holistic framework of GraphRAG and\nintroduces representative techniques for its five key components."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Section 3",
+      "relation": "delve_From",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "From Section 3 to 9, we delve\ninto specific domains, reviewing unique task applications, summarizing existing graph construction\nmethods that guide GraphRAG design for that domain, highlighting domain"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "specific domains",
+      "relation": "delve_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "From Section 3 to 9, we delve\ninto specific domains, reviewing unique task applications, summarizing existing graph construction\nmethods that guide GraphRAG design for that domain, highlighting domain"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "research challenges",
+      "relation": "discuss",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Finally, we\ndiscuss research challenges and opportunities in Section 10 and conclude our survey in Section 11.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "holistic framework",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "2\nA Holistic Framework of GraphRAG\nBased on existing literature on GraphRAG, we present a holistic framework of GraphRAG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "basic problem setting",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Next, we\nintroduce the basic problem setting and notation used throughout the whole framework.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "generate",
+      "relation": "trigger",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "2.1\nProblem Setting and Notations\nFollowing the general setting of RAG, given a graph-structured data source G, the user-defined\nquery Q is further sent to query processor \u2126Processor to obtain the pre"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "follows",
+      "relation": "summarize_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "The above five\ncomponents are summarized as follows:\n\u2022 Query Processor"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "answers",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "\u2022 Generator: Generate answers A = \u2126Generator( \u02c6Q, \u02c6C) to answer query Q.\nUnlike sequential-based textual data and grid-structured image data, graph-structured data encapsu-\nlates relational informatio"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "traversal methods",
+      "relation": "employ",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "In contrast, GraphRAG employs graph traversal methods (e.g., entity linking and BFS/DFS) and\ngraph-based encoders (e.g., Graph Neural Networks (GNNs)) to produce embeddings for retrieval.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contrast",
+      "relation": "employ_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "In contrast, GraphRAG employs graph traversal methods (e.g., entity linking and BFS/DFS) and\ngraph-based encoders (e.g., Graph Neural Networks (GNNs)) to produce embeddings for retrieval.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "2.2 Task Applications",
+      "relation": "motivate",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.8,
+      "sentence": "This motivates us to summarize key innovations and representative designs of GraphRAG for each of\nthe above five components under the holistic GraphRAG framework in the following.\n2.2\nTask Application"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "common task applications",
+      "relation": "summarize",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Table 1 summarizes the common task applications and\nexemplary queries used in each domain, as well as their representative references.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "hospital",
+      "relation": "spend_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "[246, 119]\nMedical Prediction\nHow long will the patient be spent in the hospital?\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "following documents",
+      "relation": "summarize",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[200]\nCyber Analysis and Defense\nThreat and vulnerability analysis\n[330]\nDocument\nDocument Summarization\nPlease summarize the following documents.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "abstract",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[491, 408, 237, 519, 548, 462, 547, 482, 231, 45,\n525, 98]\nText Generation\nPlease generate an abstract based on this paper and its references.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "relevant documents",
+      "relation": "find",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[429, 49, 212]\nDocument Retrieval\nFind relevant documents related to Houston.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "guide",
+      "relation": "retrieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[409, 302, 344, 63, 558, 543]\nScientific\nMolecule Generation\nGiven an input molecule, retrieve exemplar molecules to guide the generation process.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "bit",
+      "relation": "feel",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "What\u2019s the Lumo value of this molecule?\n[265]\nScientific QA\nAfter meals, I feel a bit of stomach reflux."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "What medication",
+      "relation": "take",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "What medication should I take for it?\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "it",
+      "relation": "take_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "What medication should I take for it?\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "microchips",
+      "relation": "contain",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "[5, 429, 202, 463, 353, 92, 315]\nRecommendation\nGraph-based/Sequential/Conversational Recommendation\n[95, 438, 427, 159, 510, 416, 327, 152, 116]\nSocial QA\nWhat are the best parks for familiar gatheri"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "image",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[331, 226]\nReasoning\n& Planning\nSequential Plan Retrieval\nPlease generate an image where a girl is reading a book, and her pose is the same as the boy in \"example.jpg\"\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "342 Defeasible Inference",
+      "relation": "infer",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[356, 355, 372, 454, 555]\nAsynchronous Planning\nTo make calzones, here are the steps and times required; please calculate the optimal plan for completion\n[248]\nCommonsense Reasoning\nInfer the stance a"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Find(shower",
+      "relation": "take",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[282]\nTool Usage\nTake Shower -> Walkto (bathroom) -> Walkto(shower) -> Find(shower) -> TurnTo(shower)\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "probability",
+      "relation": "predict",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[124, 57, 560]\nCTR Prediction\nGiven the history and advertisement features, predict the probability that a user will click on a specific ad.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "word advertisement",
+      "relation": "write",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "[532, 531]\nTable Retrieval\nRetrieve tables containing information about the currencies of Asian countries\n[411, 61]\nInfrastructure\nUsers Behavior Forecasting\npedestrians\u2019 crossing actions; lane change"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "place",
+      "relation": "write_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "[532, 531]\nTable Retrieval\nRetrieve tables containing information about the currencies of Asian countries\n[411, 61]\nInfrastructure\nUsers Behavior Forecasting\npedestrians\u2019 crossing actions; lane change"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scene graph",
+      "relation": "write_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "[532, 531]\nTable Retrieval\nRetrieve tables containing information about the currencies of Asian countries\n[411, 61]\nInfrastructure\nUsers Behavior Forecasting\npedestrians\u2019 crossing actions; lane change"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extract",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Many techniques are proposed to correctly extract this\ninformation from the query, including entity recognition, relational extraction, query structuration,\nquery decomposition, and query expansion."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each",
+      "relation": "review",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "In the following, we first review each of these five query\nprocessing techniques within the broader NLP domain, followed by a focused examination of their\nunique adaptations for GraphRAG.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "following",
+      "relation": "review_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "In the following, we first review each of these five query\nprocessing techniques within the broader NLP domain, followed by a focused examination of their\nunique adaptations for GraphRAG.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "broader NLP domain",
+      "relation": "review_within",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "In the following, we first review each of these five query\nprocessing techniques within the broader NLP domain, followed by a focused examination of their\nunique adaptations for GraphRAG.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "identify",
+      "relation": "aim",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "2.3.1\nName Entity Recognition\nNamed Entity Recognition (NER) aims to identify mentions of entities from the text that belong to\npredefined categories, such as persons, locations, or organizations, and"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "four main approaches",
+      "relation": "categorize_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "compositional",
+      "confidence": 0.8,
+      "sentence": "NER techniques can\nbe broadly categorized into four main approaches: (1) rule-based methods, which rely entirely on\nhandcrafted rules and require no annotated data; (2) unsupervised learning methods, "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "category",
+      "relation": "fall_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "compositional",
+      "confidence": 0.8,
+      "sentence": "Recent LLMs fall into the category of deep learning approaches\nand have demonstrated unprecedented success for NER."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Li et al",
+      "relation": "find_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "More details about these techniques and\ntheir resources can be found in Li et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "learning techniques",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Specifically, in the GraphRAG context, entity recognition primarily uses deep learning techniques\n(e.g., EntityLinker"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "GraphRAG context",
+      "relation": "use_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Specifically, in the GraphRAG context, entity recognition primarily uses deep learning techniques\n(e.g., EntityLinker"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "recent GraphRAG research",
+      "relation": "evolve_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "For more recent GraphRAG research, NER has evolved\nbeyond identifying the entity names but instead their structures."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "identifying",
+      "relation": "evolve_beyond",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "For more recent GraphRAG research, NER has evolved\nbeyond identifying the entity names but instead their structures."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "semantic name",
+      "relation": "base_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "the initially recognized entity\nshould not only be based on the semantic name \"Language Models are Unsupervised Multi-task\nLearners\" but also be based on the type of that entity, which is the paper no"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two key purposes",
+      "relation": "serve",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "For GraphRAG, RE serves two key purposes: constructing graph-structured data sources (e.g.,\nknowledge graphs) by extracting triplets and matching the relations mentioned in the query and the\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "GraphRAG",
+      "relation": "serve_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "For GraphRAG, RE serves two key purposes: constructing graph-structured data sources (e.g.,\nknowledge graphs) by extracting triplets and matching the relations mentioned in the query and the\n"
+    }
+  ],
+  "metadata": {
+    "node_count": 536,
+    "edge_count": 152,
+    "source": "hybrid_kg"
+  }
+}

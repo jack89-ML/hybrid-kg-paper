@@ -1,0 +1,57 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Angeli et~al.(2015)Angeli, Premkumar, and Manning]{angeli2015stanford}
+Gabor Angeli, Melvin Jose~Johnson Premkumar, and Christopher~D. Manning.
+\newblock Leveraging linguistic structure for open domain information
+  extraction.
+\newblock 2015.
+
+\bibitem[Anokhin et~al.(2025)Anokhin, Semenov, Sorokin, and
+  Evseev]{anokhin2025arigraph}
+Petr Anokhin, Nikita Semenov, Artyom Sorokin, and Dmitry Evseev.
+\newblock Arigraph: Learning knowledge graph world models with episodic memory
+  for llm agents.
+\newblock In \emph{Proceedings of the International Joint Conference on
+  Artificial Intelligence (IJCAI)}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2407.04363}.
+
+\bibitem[Larson and Truitt(2024)]{larson2024}
+Jonathan Larson and Samantha Truitt.
+\newblock Graphrag: A graph-based retrieval-augmented generation approach.
+\newblock 2024.
+
+\bibitem[Li et~al.(2023)Li, Qi, et~al.]{li2023}
+Bo~Li, Guilin Qi, et~al.
+\newblock Llm-empowered knowledge graph construction: A survey.
+\newblock 2023.
+
+\bibitem[Mo et~al.(2025)Mo, Yu, Kazdan, and Cabezas]{mo2025kggen}
+Belinda Mo, Kyssen Yu, Joshua Kazdan, and Joan Cabezas.
+\newblock Kggen: Extracting knowledge graphs from plain text with language
+  models.
+\newblock 2025.
+\newblock URL \url{https://arxiv.org/abs/2502.09956}.
+
+\bibitem[Schneider(1973)]{schneider1973}
+John~H. Schneider.
+\newblock A technique for machine-aided indexing.
+\newblock \emph{Information Storage and Retrieval}, 9\penalty0 (6):\penalty0
+  333--340, 1973.
+
+\bibitem[Shenoy et~al.(2021)Shenoy, Ilievski, Garijo, et~al.]{shenoy2021}
+Krishna Shenoy, Filip Ilievski, Daniel Garijo, et~al.
+\newblock Understanding and visualizing knowledge graph completeness.
+\newblock \emph{Journal of Web Semantics}, 2021.
+
+\bibitem[Zhu et~al.(2024)Zhu, Wang, Chen, et~al.]{zhu2024}
+Yuqi Zhu, Xiaohan Wang, Jing Chen, et~al.
+\newblock Llms for knowledge graph construction and reasoning: Recent
+  capabilities and future opportunities.
+\newblock \emph{World Wide Web}, 27\penalty0 (5), 2024.
+
+\end{thebibliography}

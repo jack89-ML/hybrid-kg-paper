@@ -1,0 +1,4451 @@
+{
+  "nodes": [
+    {
+      "id": "JOURNAL OF LATEX",
+      "label": "Journal of LaTeX",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "VOL",
+      "label": "Volume",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "MONTH",
+      "label": "Month",
+      "category": "Other",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Roadmap",
+      "label": "Roadmap",
+      "category": "Person",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Shirui Pan",
+      "label": "Shirui Pan",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "IEEE",
+      "label": "Institute of Electrical and Electronics Engineers",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Linhao Luo",
+      "label": "Linhao Luo",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yufei Wang",
+      "label": "Yufei Wang",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chen Chen",
+      "label": "Chen Chen",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jiapu Wang",
+      "label": "Jiapu Wang",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xindong Wu",
+      "label": "Xindong Wu",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Knowledge Graphs",
+      "label": "Knowledge Graphs",
+      "category": "Concept",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wikipedia",
+      "label": "Wikipedia",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Huapu",
+      "label": "Huapu",
+      "category": "Person",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "three",
+      "label": "3",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Synergized",
+      "label": "Synergized",
+      "category": "Organization",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "BERT",
+      "label": "BERT",
+      "category": "Concept",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "T5",
+      "label": "T5",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "NLP",
+      "label": "Natural Language Processing",
+      "category": "Concept",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Artificial General Intelligence",
+      "label": "Artificial General Intelligence",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "billions",
+      "label": "billions",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the School of Information and Communication",
+      "label": "School of Information and Communication",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Institute for Integrated and Intelligent Systems",
+      "label": "Institute for Integrated and Intelligent Systems",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "IIIS",
+      "label": "IIIS",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Griffith\nUniversity",
+      "label": "Griffith University",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Queensland",
+      "label": "Queensland",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Australia",
+      "label": "Australia",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Department of Data",
+      "label": "Department of Data",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "AI",
+      "label": "Artificial Intelligence",
+      "category": "Concept",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Monash University",
+      "label": "Monash University",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Melbourne",
+      "label": "Melbourne",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Nanyang Technological University",
+      "label": "Nanyang Technological University",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Singapore",
+      "label": "Singapore",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Faculty of Information Technology",
+      "label": "Faculty of Information Technology",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Beijing",
+      "label": "Beijing",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Technology",
+      "label": "Technology",
+      "category": "Other",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "China",
+      "label": "China",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wu",
+      "label": "Wu",
+      "category": "Person",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Key Laboratory of Knowledge Engineering",
+      "label": "Key Laboratory of Knowledge Engineering",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Big Data",
+      "label": "Big Data",
+      "category": "Concept",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Ministry of Education of China",
+      "label": "Ministry of Education of the People's Republic of China",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hefei University",
+      "label": "Hefei University",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hefei",
+      "label": "Hefei",
+      "category": "Location",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Research Center for Knowledge\nEngineering",
+      "label": "Research Center for Knowledge Engineering",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhejiang Lab",
+      "label": "Zhejiang Lab",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hangzhou",
+      "label": "Hangzhou",
+      "category": "Location",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Language Processing",
+      "label": "Language Processing",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLM",
+      "label": "Large Language Model",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "New Knowl-",
+      "label": "New Knowledge",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Decisive-\nness",
+      "label": "Decisiveness",
+      "category": "Concept",
+      "confidence": 0.75,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Interpretability",
+      "label": "Interpretability",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "22",
+      "label": "22",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "23",
+      "label": "23",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KG",
+      "label": "Knowledge Graph",
+      "category": "Concept",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "26",
+      "label": "26",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Cons",
+      "label": "Cons",
+      "category": "Organization",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0000\u20130000/00$00.00",
+      "label": "0000-30000/00$00.00",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2023",
+      "label": "2023",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CL",
+      "label": "CL",
+      "category": "Organization",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "25 Jan 2024",
+      "label": "25 January 2024",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "28",
+      "label": "28",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1687",
+      "label": "1687",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Isaac Newton",
+      "label": "Isaac Newton",
+      "category": "Person",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "29",
+      "label": "29",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "YAGO",
+      "label": "YAGO",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "31",
+      "label": "31",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "NELL",
+      "label": "NELL",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "32",
+      "label": "32",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "33",
+      "label": "33",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "34",
+      "label": "34",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Fig",
+      "label": "Fig",
+      "category": "Location",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "35]\u2013[37",
+      "label": "35-37",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "38",
+      "label": "38",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "39",
+      "label": "39",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "40",
+      "label": "40",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "41",
+      "label": "41",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "42",
+      "label": "42",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGQA",
+      "label": "Knowledge Graph Question Answering",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "43",
+      "label": "43",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLM + KG",
+      "label": "Large Language Model + Knowledge Graph",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "44",
+      "label": "44",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "45",
+      "label": "45",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "46",
+      "label": "46",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "47]\u2013[49",
+      "label": "47 to 49",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "two",
+      "label": "2",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGs",
+      "label": "Knowledge Graphs",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2 first",
+      "label": "2 first",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 4",
+      "label": "Section 4",
+      "category": "Law",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 5",
+      "label": "Section 5",
+      "category": "Law",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 7",
+      "label": "Section 7",
+      "category": "Law",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Section 8",
+      "label": "Section 8",
+      "category": "Law",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "first",
+      "label": "first",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.1",
+      "label": "2.1",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "50",
+      "label": "50",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "decoder\nJOURNAL OF LATEX",
+      "label": "Journal of LaTeX",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2018\n2019",
+      "label": "2018 to 2019",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2020\n2021",
+      "label": "2020 to 2021",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2022",
+      "label": "2022",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "110M-340",
+      "label": "110M to 340",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "125M-355",
+      "label": "125M to 355",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ALBERT",
+      "label": "ALBERT",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "66",
+      "label": "66",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "114",
+      "label": "114",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "14M-110",
+      "label": "14M to 110",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "11M-223",
+      "label": "11M to 223",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "44M-304",
+      "label": "44M to 304",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "BART",
+      "label": "BART",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "140",
+      "label": "140",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "80M-11B",
+      "label": "80M to 11B",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "300M-13B",
+      "label": "300M to 13B",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "110M-10B",
+      "label": "110M to 10B",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1.6",
+      "label": "1.6",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4.1B-269B",
+      "label": "4.1B to 269B",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "20B",
+      "label": "20B",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "110",
+      "label": "110",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "117M-1.5B",
+      "label": "117M to 1.5B",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "175B",
+      "label": "175B",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1.2",
+      "label": "1.2",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Gopher",
+      "label": "Gopher",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "280B",
+      "label": "280B",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "137B",
+      "label": "137B",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Flan PaLM",
+      "label": "Flan PaLM",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "540B",
+      "label": "540B",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Bard",
+      "label": "Bard (person)",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "7B",
+      "label": "7B (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "7B-13B",
+      "label": "7B-13B (number range)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "recent years",
+      "label": "recent years (time period)",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Encoder",
+      "label": "Encoder (technology)",
+      "category": "Concept",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Linear",
+      "label": "Linear (organization)",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Transformer",
+      "label": "Transformer (organization)",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "51",
+      "label": "51 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ELECTRA",
+      "label": "ELECTRA (organization)",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "52",
+      "label": "52 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "53",
+      "label": "53 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "54",
+      "label": "54 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "55",
+      "label": "55 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "56",
+      "label": "56 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "57",
+      "label": "57 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "58",
+      "label": "58 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "59",
+      "label": "59 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "60",
+      "label": "60 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLaMA",
+      "label": "LLaMA (model)",
+      "category": "Concept",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "61",
+      "label": "61 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "62",
+      "label": "62 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "https://lmsys.org/blog/2023-03-30-vicuna/\nJOURNAL OF LATEX",
+      "label": "Journal of LaTeX (organization)",
+      "category": "Organization",
+      "confidence": 0.75,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "63",
+      "label": "63 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Li et al",
+      "label": "Li et al (authors)",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "64",
+      "label": "64 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "65",
+      "label": "65 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.2",
+      "label": "2.2 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "four",
+      "label": "four (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CapitalOf\nEncyclopedic\nKnowledge Graphs",
+      "label": "CapitalOf (concept)",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Barack",
+      "label": "Barack Obama (person)",
+      "category": "Person",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Obama",
+      "label": "Barack Obama (person)",
+      "category": "Person",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Michelle",
+      "label": "Michelle Obama (person)",
+      "category": "Person",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "USA",
+      "label": "United States of America (location)",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Honolulu",
+      "label": "Honolulu (location)",
+      "category": "Location",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Washington",
+      "label": "Washington (location)",
+      "category": "Location",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "SubeventOf\n",
+      "label": "SubeventOf (concept)",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LocatedAt\nSugar\nCup\nNeed",
+      "label": "LocatedAt (concept)",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Undevelopment",
+      "label": "Undevelopment (person)",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "France",
+      "label": "France (location)",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Paris",
+      "label": "Paris (location)",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CapitalOf\nLocatedIn",
+      "label": "CapitalOf (concept)",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Emmanuel\nMacron\nPoliticianOf",
+      "label": "Emmanuel Macron (person)",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Freebase",
+      "label": "Freebase (product)",
+      "category": "Product",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Dbpedia",
+      "label": "Dbpedia (location)",
+      "category": "Location",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "67",
+      "label": "67 (number)",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "English",
+      "label": "English (language)",
+      "category": "Language",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CN-DBpedia",
+      "label": "CN-DBpedia (facility)",
+      "category": "Facility",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "68",
+      "label": "68",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "69",
+      "label": "69",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Knowledge Occean (KO)7",
+      "label": "Knowledge Ocean",
+      "category": "Work of Art",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "glish",
+      "label": "English",
+      "category": "Organization",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chinese",
+      "label": "Chinese",
+      "category": "Nationality or Ethnic Group",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "70",
+      "label": "70",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "UsedFor",
+      "label": "Used For",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "71",
+      "label": "71",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "72",
+      "label": "72",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "73",
+      "label": "73",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ASER",
+      "label": "ASER",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "74",
+      "label": "74",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "TransOMCS",
+      "label": "TransOMCS",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "75",
+      "label": "75",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "76",
+      "label": "76",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "https://ko.zhonghuapu.com/\nJOURNAL OF LATEX",
+      "label": "Journal of LaTeX",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "c.\u00a0Synergized",
+      "label": "Synergized",
+      "category": "Person",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "New Bing",
+      "label": "New Bing",
+      "category": "Location",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KO",
+      "label": "KO",
+      "category": "Person",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "77",
+      "label": "77",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "78",
+      "label": "78",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "79",
+      "label": "79",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "80",
+      "label": "80",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "81",
+      "label": "81",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "82",
+      "label": "82",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.2.4",
+      "label": "2.2.4",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "83",
+      "label": "83",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "IMGpedia",
+      "label": "IMGpedia",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "84",
+      "label": "84",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "MMKG",
+      "label": "MMKG",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "85",
+      "label": "85",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Richpedia",
+      "label": "Richpedia",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "86",
+      "label": "86",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "87",
+      "label": "87",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "88",
+      "label": "88",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "89",
+      "label": "89",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.3",
+      "label": "2.3",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Table 1",
+      "label": "Table 1",
+      "category": "Event",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ERNIE 3.0",
+      "label": "ERNIE 3.0",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chatbot",
+      "label": "Chatbot",
+      "category": "Work of Art",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Firefly",
+      "label": "Firefly",
+      "category": "Person",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "90",
+      "label": "90",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3.1",
+      "label": "3.1",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "35",
+      "label": "35",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "91",
+      "label": "91",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Synergized Model",
+      "label": "Synergized Model",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "93",
+      "label": "93",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "94",
+      "label": "94",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "95",
+      "label": "95",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "96",
+      "label": "96",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "97",
+      "label": "97",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "these years",
+      "label": "these years",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Model",
+      "label": "Model",
+      "category": "Product",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Data",
+      "label": "Data",
+      "category": "Organization",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "98",
+      "label": "98",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "99",
+      "label": "99",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "100",
+      "label": "100",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "mender",
+      "label": "mender",
+      "category": "Organization",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "101",
+      "label": "101",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3.2",
+      "label": "3.2",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KG-",
+      "label": "KG-",
+      "category": "Person",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "five",
+      "label": "five",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGC",
+      "label": "KGC",
+      "category": "Organization",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "language models",
+      "label": "language models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "new waves",
+      "label": "new waves",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "field",
+      "label": "field",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "to",
+      "label": "to",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LLMs",
+      "label": "LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "providing",
+      "label": "providing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "we",
+      "label": "we",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "looking roadmap",
+      "label": "looking roadmap",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "article",
+      "label": "article",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Our roadmap",
+      "label": "Our roadmap",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three general frameworks",
+      "label": "three general frameworks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "increasing model size",
+      "label": "increasing model size",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "emergent ability",
+      "label": "emergent ability",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Advanced LLMs",
+      "label": "Advanced LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "great potential",
+      "label": "great potential",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "many complex practical tasks",
+      "label": "many complex practical tasks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Email",
+      "label": "Email",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "work",
+      "label": "work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pre - trained language models",
+      "label": "pre - trained language models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Pros",
+      "label": "Pros",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "on",
+      "label": "on",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "facts",
+      "label": "facts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "example",
+      "label": "example",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "issue",
+      "label": "issue",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "trustworthiness",
+      "label": "trustworthiness",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "box models",
+      "label": "box models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their lack",
+      "label": "their lack",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge",
+      "label": "knowledge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their parameters",
+      "label": "their parameters",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "reasoning",
+      "label": "reasoning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "specific patterns",
+      "label": "specific patterns",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "arrive",
+      "label": "arrive",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their reasoning explanations",
+      "label": "their reasoning explanations",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "fer",
+      "label": "fer",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "This",
+      "label": "This",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "application",
+      "label": "application",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "disease",
+      "label": "disease",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "instance",
+      "label": "instance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "diagnosis scenario",
+      "label": "diagnosis scenario",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "another issue",
+      "label": "another issue",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "new knowledge",
+      "label": "new knowledge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "experts",
+      "label": "experts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "specific KGs",
+      "label": "specific KGs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "approaches",
+      "label": "approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unseen entities",
+      "label": "unseen entities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "they",
+      "label": "they",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "abundant textual information",
+      "label": "abundant textual information",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "addition",
+      "label": "addition",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "We",
+      "label": "We",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pros",
+      "label": "pros",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "possibility",
+      "label": "possibility",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "increasing",
+      "label": "increasing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "enhanced LLMs",
+      "label": "enhanced LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pre - training inference stages",
+      "label": "pre - training inference stages",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "embedding",
+      "label": "embedding",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "augmented KGs",
+      "label": "augmented KGs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "various related tasks",
+      "label": "various related tasks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "researchers",
+      "label": "researchers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "enhance",
+      "label": "enhance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Syn-",
+      "label": "Syn-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "other possibilities",
+      "label": "other possibilities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "detailed cate- gorization",
+      "label": "detailed cate- gorization",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Our main contributions",
+      "label": "Our main contributions",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "follows",
+      "label": "follows",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "detailed categorization",
+      "label": "detailed categorization",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each integration framework",
+      "label": "each integration framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Coverage",
+      "label": "Coverage",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each category",
+      "label": "each category",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advanced techniques",
+      "label": "advanced techniques",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Summary",
+      "label": "Summary",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "challenges",
+      "label": "challenges",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Section 2",
+      "label": "Section 2",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "background",
+      "label": "background",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Section 3",
+      "label": "Section 3",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "roadmap",
+      "label": "roadmap",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "different enhanced LLM approaches",
+      "label": "different enhanced LLM approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "augmented KG methods",
+      "label": "augmented KG methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Section 6",
+      "label": "Section 6",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "paper",
+      "label": "paper",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "few resentative",
+      "label": "few resentative",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "section",
+      "label": "section",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "concept",
+      "label": "concept",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "various NLP tasks",
+      "label": "various NLP tasks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "most LLMs",
+      "label": "most LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "former design",
+      "label": "former design",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three groups",
+      "label": "three groups",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "large language models",
+      "label": "large language models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "encode",
+      "label": "encode",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "encoder",
+      "label": "encoder",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "[",
+      "label": "[",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "several training targets",
+      "label": "several training targets",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "only large language models",
+      "label": "only large language models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "coder module",
+      "label": "coder module",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scale only LLMs",
+      "label": "scale only LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "few examples",
+      "label": "few examples",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "adding",
+      "label": "adding",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Many LLMs",
+      "label": "Many LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "only architecture",
+      "label": "only architecture",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Alpaca5",
+      "label": "Alpaca5",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "models",
+      "label": "models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "https://lmsys.org/blog/2023-03-30-vicuna/ JOURNAL",
+      "label": "https://lmsys.org/blog/2023-03-30-vicuna/ JOURNAL",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "text",
+      "label": "text",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "neutral negative",
+      "label": "neutral negative",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "prompt",
+      "label": "prompt",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "several elements",
+      "label": "several elements",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Context",
+      "label": "Context",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "context",
+      "label": "context",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Prompt engineering",
+      "label": "Prompt engineering",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "clas- sification",
+      "label": "clas- sification",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "complex reasoning capabilities",
+      "label": "complex reasoning capabilities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "intermediate reasoning steps",
+      "label": "intermediate reasoning steps",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "integration",
+      "label": "integration",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Prompt",
+      "label": "Prompt",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "simple way",
+      "label": "simple way",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Proficiency",
+      "label": "Proficiency",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "better understanding",
+      "label": "better understanding",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Existing knowledge graphs",
+      "label": "Existing knowledge graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "four groups",
+      "label": "four groups",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "examples",
+      "label": "examples",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Other typical Wikipedia",
+      "label": "Other typical Wikipedia",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Wake",
+      "label": "Wake",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "]",
+      "label": "]",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "a",
+      "label": "a",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "encyclopedic knowledge graph",
+      "label": "encyclopedic knowledge graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ad-",
+      "label": "ad-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "largest knowledge graph",
+      "label": "largest knowledge graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "4,8784,3636 entities",
+      "label": "4,8784,3636 entities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge graphs",
+      "label": "knowledge graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "as",
+      "label": "as",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "tacit knowledge",
+      "label": "tacit knowledge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "with",
+      "label": "with",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ConceptNet 71",
+      "label": "ConceptNet 71",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "wide range",
+      "label": "wide range",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LLMs Assistant \u2713 specific specific knowledge graphs",
+      "label": "LLMs Assistant \u2713 specific specific knowledge graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "represent",
+      "label": "represent",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "IMGpedia 84 85 86",
+      "label": "IMGpedia 84 85 86",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "both the information",
+      "label": "both the information",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "2.3 Applications LLMs",
+      "label": "2.3 Applications LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "various world applications",
+      "label": "various world applications",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "editing application",
+      "label": "editing application",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Copilot",
+      "label": "Copilot",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "empower",
+      "label": "empower",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Doctor.ai",
+      "label": "Doctor.ai",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "care assistant",
+      "label": "care assistant",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "road map",
+      "label": "road map",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "categorization",
+      "label": "categorization",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three frameworks",
+      "label": "three frameworks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their hallucination issues",
+      "label": "their hallucination issues",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "enormous knowledge",
+      "label": "enormous knowledge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "explicit way",
+      "label": "explicit way",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Some researchers",
+      "label": "Some researchers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Other researchers",
+      "label": "Other researchers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "incorporate",
+      "label": "incorporate",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "it",
+      "label": "it",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "retrieving",
+      "label": "retrieving",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "accessing",
+      "label": "accessing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "JOURNAL",
+      "label": "JOURNAL",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "many researchers",
+      "label": "many researchers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "harness",
+      "label": "harness",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "generalizability",
+      "label": "generalizability",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Researchers",
+      "label": "Researchers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Some studies",
+      "label": "Some studies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "process",
+      "label": "process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Recent studies",
+      "label": "Recent studies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "design",
+      "label": "design",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "96 KG reasoning",
+      "label": "96 KG reasoning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "way",
+      "label": "way",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "related tasks",
+      "label": "related tasks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "synergy",
+      "label": "synergy",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unified framework",
+      "label": "unified framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "four layers",
+      "label": "four layers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Data layer",
+      "label": "Data layer",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "framework",
+      "label": "framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "development",
+      "label": "development",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "related techniques",
+      "label": "related techniques",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "grained categorization",
+      "label": "grained categorization",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "different ways",
+      "label": "different ways",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "training",
+      "label": "training",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "works",
+      "label": "works",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "research",
+      "label": "research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "five groups",
+      "label": "five groups",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "augmented Generation",
+      "label": "augmented Generation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "re- search",
+      "label": "re- search",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "5 question answering",
+      "label": "5 question answering",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ies",
+      "label": "ies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    }
+  ],
+  "edges": [
+    {
+      "source": "dependency_parse",
+      "target": "new waves",
+      "relation": "make",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Abstract\u2014Large language models (LLMs), such as ChatGPT and GPT4, are making new waves in the field of natural language\nprocessing and artificial intelligence, due to their emergent ability and general"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "field",
+      "relation": "make_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Abstract\u2014Large language models (LLMs), such as ChatGPT and GPT4, are making new waves in the field of natural language\nprocessing and artificial intelligence, due to their emergent ability and general"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "to",
+      "relation": "make_due",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "Abstract\u2014Large language models (LLMs), such as ChatGPT and GPT4, are making new waves in the field of natural language\nprocessing and artificial intelligence, due to their emergent ability and general"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "LLMs",
+      "relation": "enhance",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "KGs can enhance LLMs by providing external knowledge\nfor inference and interpretability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "providing",
+      "relation": "enhance_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "KGs can enhance LLMs by providing external knowledge\nfor inference and interpretability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "looking roadmap",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "In this article, we present a forward-looking roadmap for the unification of LLMs and KGs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "article",
+      "relation": "present_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In this article, we present a forward-looking roadmap for the unification of LLMs and KGs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three general frameworks",
+      "relation": "consist_of",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "Our roadmap consists of three general frameworks, namely, 1) KG-enhanced LLMs, which incorporate KGs during the pre-training and\ninference phases of LLMs, or for the purpose of enhancing understanding"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "7",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "Recently,\nthe dramatically increasing model size further enables the\nLLMs with the emergent ability [7], paving the road for\napplying LLMs as Artificial General Intelligence (AGI).\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "emergent ability",
+      "relation": "enable_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "Recently,\nthe dramatically increasing model size further enables the\nLLMs with the emergent ability [7], paving the road for\napplying LLMs as Artificial General Intelligence (AGI).\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "great potential",
+      "relation": "exhibit",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Advanced LLMs like ChatGPT2 and PaLM23, with billions\nof parameters, exhibit great potential in many complex\npractical tasks, such as education [8], code generation [9]\nand recommendation [10].\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "billions",
+      "relation": "exhibit_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Advanced LLMs like ChatGPT2 and PaLM23, with billions\nof parameters, exhibit great potential in many complex\npractical tasks, such as education [8], code generation [9]\nand recommendation [10].\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "many complex practical tasks",
+      "relation": "exhibit_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Advanced LLMs like ChatGPT2 and PaLM23, with billions\nof parameters, exhibit great potential in many complex\npractical tasks, such as education [8], code generation [9]\nand recommendation [10].\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "work",
+      "relation": "contribute_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Email: xwu@hfut.edu.cn.\n\u2022\nShirui Pan and Linhao Luo contributed equally to this work.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pre - trained language models",
+      "relation": "know_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "\u2022\nCorresponding Author: Xindong Wu.\n1. LLMs are also known as pre-trained language models (PLMs).\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "on",
+      "relation": "select_based",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Pros. and Cons. are selected\nbased on their representativeness."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "facts",
+      "relation": "memorize",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Specif-\nically, LLMs memorize facts and knowledge contained in\nthe training corpus [14]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "say_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "For example, LLMs might say \u201cEin-\nstein discovered gravity in 1687\u201d when asked, \u201cWhen did\nEinstein discover gravity?\u201d, which contradicts the fact that\nIsaac Newton formulated the gravitational theory."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "trustworthiness",
+      "relation": "impair",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "This issue\nseverely impairs the trustworthiness of LLMs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "box models",
+      "relation": "criticize_As",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "As black-box models, LLMs are also criticized for their\nlack of interpretability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "their lack",
+      "relation": "criticize_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.85,
+      "sentence": "As black-box models, LLMs are also criticized for their\nlack of interpretability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "knowledge",
+      "relation": "represent",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "LLMs represent knowledge implic-\nitly in their parameters."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "their parameters",
+      "relation": "represent_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "LLMs represent knowledge implic-\nitly in their parameters."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "reasoning",
+      "relation": "perform",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "Moreover, LLMs perform\nreasoning by a probability model, which is an indecisive\nprocess [16]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "arrive",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "The specific patterns and functions LLMs\nused to arrive at predictions or decisions are not directly\naccessible or explainable to humans"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "fer",
+      "relation": "suf-",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Even though some\nLLMs are equipped to explain their predictions by applying\nchain-of-thought [29], their reasoning explanations also suf-\nfer from the hallucination issue [30]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "application",
+      "relation": "impair",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "This severely impairs\nthe application of LLMs in high-stakes scenarios, such as\nmedical diagnosis and legal judgment."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "disease",
+      "relation": "diagnose",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "For instance, in a\nmedical diagnosis scenario, LLMs may incorrectly diagnose\na disease and provide explanations that contradict medical\ncommonsense."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "instance",
+      "relation": "diagnose_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "For instance, in a\nmedical diagnosis scenario, LLMs may incorrectly diagnose\na disease and provide explanations that contradict medical\ncommonsense."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "diagnosis scenario",
+      "relation": "diagnose_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "For instance, in a\nmedical diagnosis scenario, LLMs may incorrectly diagnose\na disease and provide explanations that contradict medical\ncommonsense."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "another issue",
+      "relation": "raise",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "This raises another issue that LLMs trained\non general corpus might not be able to generalize well\nto specific domains or new knowledge due to the lack of\ndomain-specific knowledge or new training dat"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "new knowledge",
+      "relation": "evolve_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "KGs can also actively evolve with new knowledge contin-\nuously added in [24]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "specific KGs",
+      "relation": "construct",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Additionally, experts can construct\ndomain-specific KGs to provide precise and dependable\ndomain-specific knowledge [23].\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "unseen entities",
+      "relation": "fail_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "These approaches fail to effectively\nmodel unseen entities and represent new facts."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "abundant textual information",
+      "relation": "ignore",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "In addition,\nthey often ignore the abundant textual information in KGs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "addition",
+      "relation": "ignore_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "In addition,\nthey often ignore the abundant textual information in KGs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pros",
+      "relation": "summarize",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We summarize the pros and cons\nof LLMs and KGs in Fig."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "increasing",
+      "relation": "attract",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Recently, the possibility of unifying LLMs with KGs has\nattracted increasing attention from researchers and practi-\ntioners."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pre - training inference stages",
+      "relation": "incorporate_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "In KG-enhanced LLMs,\nKGs can not only be incorporated into the pre-training and\ninference stages of LLMs to provide external knowledge\n[35]\u2013[37], but also used for analyzing LLMs and provid-\ning inter"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "embedding",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "In LLM-augmented KGs,\nLLMs have been used in various KG-related tasks, e.g., KG\nembedding [40], KG completion [26], KG construction [41],\nKG-to-text generation"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "augmented KGs",
+      "relation": "use_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "In LLM-augmented KGs,\nLLMs have been used in various KG-related tasks, e.g., KG\nembedding [40], KG completion [26], KG construction [41],\nKG-to-text generation"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "various related tasks",
+      "relation": "use_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "In LLM-augmented KGs,\nLLMs have been used in various KG-related tasks, e.g., KG\nembedding [40], KG completion [26], KG construction [41],\nKG-to-text generation"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "enhance",
+      "relation": "marry",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "In Syn-\nergized LLM + KG, researchers marries the merits of LLMs\nand KGs to mutually enhance performance in knowledge\nrepresentation [44] and reasoning [45], [46]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Syn-",
+      "relation": "marry_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In Syn-\nergized LLM + KG, researchers marries the merits of LLMs\nand KGs to mutually enhance performance in knowledge\nrepresentation [44] and reasoning [45], [46]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "other possibilities",
+      "relation": "ignore",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "Although there\nare some surveys on knowledge-enhanced LLMs [47]\u2013[49],\nwhich mainly focus on using KGs as an external knowledge\nto enhance LLMs, they ignore other possibilities of integrat-\ning KGs for"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "looking roadmap",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "In this article, we present a forward-looking roadmap for\nunifying both LLMs and KGs, to leverage their respective\nstrengths and overcome the limitations of each approach,\nfor various downstream tasks"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "article",
+      "relation": "present_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In this article, we present a forward-looking roadmap for\nunifying both LLMs and KGs, to leverage their respective\nstrengths and overcome the limitations of each approach,\nfor various downstream tasks"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "detailed cate- gorization",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We propose detailed cate-\ngorization, conduct comprehensive reviews, and pinpoint\nemerging directions in these fast-growing fields."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "follows",
+      "relation": "summarize_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Our main\ncontributions are summarized as follows:\n1)\nRoadmap."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "looking roadmap",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We present a forward-looking roadmap\nfor integrating LLMs and KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "detailed categorization",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "For each integration\nframework of our roadmap, we present a detailed\ncategorization and novel taxonomies of research\non unifying LLMs and KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each integration framework",
+      "relation": "present_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "For each integration\nframework of our roadmap, we present a detailed\ncategorization and novel taxonomies of research\non unifying LLMs and KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Coverage",
+      "relation": "review",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "In each category, we\nreview the research from the perspectives of differ-\nent integration strategies and tasks, which provides\nmore insights into each framework.\n3)\nCoverage of emerging advances."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each category",
+      "relation": "review_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In each category, we\nreview the research from the perspectives of differ-\nent integration strategies and tasks, which provides\nmore insights into each framework.\n3)\nCoverage of emerging advances."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "advanced techniques",
+      "relation": "cover",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We cover the\nadvanced techniques in both LLMs and KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Summary",
+      "relation": "include",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We\ninclude the discussion of state-of-the-art LLMs like\nChatGPT and GPT-4 as well as the novel KGs e.g.,\nmulti-modal knowledge graphs.\n4)\nSummary of challenges and future directions."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "challenges",
+      "relation": "highlight",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We\nhighlight the challenges in existing research and\npresent several promising future research direc-\ntions.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "background",
+      "relation": "explain",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Section\n2 first explains the background of LLMs and KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "roadmap",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Section\n3 introduces the roadmap and the overall categorization of\nthis article."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "different enhanced LLM approaches",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Section 4 presents the different KGs-enhanced\nLLM approaches."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "augmented KG methods",
+      "relation": "describe",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Section 5 describes the possible LLM-\naugmented KG methods."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "approaches",
+      "relation": "show",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Section 6 shows the approaches\nof synergizing LLMs and KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "challenges",
+      "relation": "discuss",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Section 7 discusses the\nchallenges and future research directions."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paper",
+      "relation": "conclude",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Finally, Section 8\nconcludes this paper.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "few resentative",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "In this section, we will first briefly introduce a few rep-\nresentative large language models (LLMs) and discuss the\nprompt engineering that efficiently uses LLMs for varieties\nof applications."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "section",
+      "relation": "introduce_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In this section, we will first briefly introduce a few rep-\nresentative large language models (LLMs) and discuss the\nprompt engineering that efficiently uses LLMs for varieties\nof applications."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "concept",
+      "relation": "illustrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Then, we illustrate the concept of knowl-\nedge graphs (KGs) and present different categories of KGs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "13",
+      "relation": "show",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "2.1\nLarge Language models (LLMs)\nLarge language models (LLMs) pre-trained on large-scale\ncorpus have shown great potential in various NLP tasks\n[13]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "various NLP tasks",
+      "relation": "show_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "2.1\nLarge Language models (LLMs)\nLarge language models (LLMs) pre-trained on large-scale\ncorpus have shown great potential in various NLP tasks\n[13]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "former design",
+      "relation": "derive_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "3, most LLMs derive from the Trans-\nformer design [50], which contains the encoder and decoder\nJOURNAL OF LATEX CLASS FILES, VOL. ?"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three groups",
+      "relation": "categorize_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Based\non the architecture structure, LLMs can be categorized\ninto three groups: 1) encoder-only LLMs, 2) encoder-decoder\nLLMs, and 3) decoder-only LLMs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "encode",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Encoder-only large language models only use the encoder\nto encode the sentence and understand the relationships\nbetween words."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "encoder",
+      "relation": "adopt",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Encoder-decoder large language models adopt both the\nencoder and decoder module."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "several training targets",
+      "relation": "unify",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "[54] unifies\nseveral training targets such as different masking spans and\nmasking frequencies."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "coder module",
+      "relation": "adopt",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Decoder-only large language models only adopt the de-\ncoder module to generate target output text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "59",
+      "relation": "perform",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Large-scale decoder-only LLMs can generally\nperform downstream tasks from a few examples or simple\ninstructions, without adding prediction heads or finetun-\ning [59]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "few examples",
+      "relation": "perform_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Large-scale decoder-only LLMs can generally\nperform downstream tasks from a few examples or simple\ninstructions, without adding prediction heads or finetun-\ning [59]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "adding",
+      "relation": "perform_without",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Large-scale decoder-only LLMs can generally\nperform downstream tasks from a few examples or simple\ninstructions, without adding prediction heads or finetun-\ning [59]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "only architecture",
+      "relation": "follow",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Many state-of-the-art LLMs (e.g., Chat-GPT [60]\nand GPT-44) follow the decoder-only architecture."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "LLMs",
+      "relation": "release_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Recently,\nAlpaca5 and Vicuna6 are released as open-source decoder-\nonly LLMs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "on",
+      "relation": "finetune_based",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "These models are finetuned based on LLaMA\n[61] and achieve comparable performance with ChatGPT\nand GPT-4.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "text",
+      "relation": "classify",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "https://lmsys.org/blog/2023-03-30-vicuna/\nJOURNAL OF LATEX CLASS FILES, VOL. ??, NO. ??, MONTH 20YY\n4\nLLMs\nClassify the text into neutral,\nnegative or positive.\u00a0\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "neutral negative",
+      "relation": "classify_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "https://lmsys.org/blog/2023-03-30-vicuna/\nJOURNAL OF LATEX CLASS FILES, VOL. ??, NO. ??, MONTH 20YY\n4\nLLMs\nClassify the text into neutral,\nnegative or positive.\u00a0\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "several elements",
+      "relation": "contain",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "A prompt could\ncontain several elements, i.e., 1) Instruction, 2) Context, and\n3) Input Text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "context",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Context provides the\ncontext for the input text or few-shot examples."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "clas- sification",
+      "relation": "seek",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Prompt engineering seeks to improve the capacity of\nlarge large language models (e.g., ChatGPT) in diverse\ncomplex tasks such as question answering, sentiment clas-\nsification, and common sense reason"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "complex reasoning capabilities",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "[63] enables complex reasoning capabilities\nthrough intermediate reasoning steps."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "intermediate reasoning steps",
+      "relation": "enable_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "[63] enables complex reasoning capabilities\nthrough intermediate reasoning steps."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "integration",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Prompt engineering\nalso enables the integration of structural data like knowl-\nedge graphs (KGs) into LLMs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "simple way",
+      "relation": "offer",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Prompt offers a simple way to utilize the\npotential of LLMs without finetuning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "better understanding",
+      "relation": "lead_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Proficiency in prompt\nengineering leads to a better understanding of the strengths\nand weaknesses of LLMs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "four groups",
+      "relation": "classify_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Existing knowledge graphs (KGs) can be classified into four\ngroups based on the stored information: 1) encyclopedic KGs,\n2) commonsense KGs, 3) domain-specific KGs, and 4) multi-\nmodal KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "examples",
+      "relation": "illustrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We illustrate the examples of KGs of different\ncategories in Fig."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Wake",
+      "relation": "MarriedTo",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Other typical\nWikipedia\nMarriedTo\nPoliticianOf\nLiveIn\nLocatedIn\nBornIn\nCapitalOf\nEncyclopedic\nKnowledge Graphs\nCommonsense\nKnowledge Graphs\nBarack\nObama\nMichelle\nObama\nUSA\nHonolulu\u00a0\nWashington\nD.C.\nWa"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Wikipedia",
+      "relation": "derive_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "[31] are also derived from Wikipedia."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "encyclopedic knowledge graph",
+      "relation": "improve",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "In ad-\ndition, NELL [32] is a continuously improving encyclopedic\nknowledge graph, which automatically extracts knowledge\nfrom the web, and uses that knowledge to improve its per-\nformance over time."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "ad-",
+      "relation": "improve_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In ad-\ndition, NELL [32] is a continuously improving encyclopedic\nknowledge graph, which automatically extracts knowledge\nfrom the web, and uses that knowledge to improve its per-\nformance over time."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "4,8784,3636 entities",
+      "relation": "contain",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "The largest knowledge\ngraph, named Knowledge Occean (KO)7, currently contains\n4,8784,3636 entities and 17,3115,8349 relations in both En-\nglish and Chinese.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "70",
+      "relation": "formulate",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Commonsense knowledge graphs formulate the knowledge\nabout daily concepts, e.g., objects, and events, as well\nas their relationships [70]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "as",
+      "relation": "formulate_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Commonsense knowledge graphs formulate the knowledge\nabout daily concepts, e.g., objects, and events, as well\nas their relationships [70]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "tacit knowledge",
+      "relation": "model",
+      "relation_type": "direct_action",
+      "relation_subtype": "compositional",
+      "confidence": 0.8,
+      "sentence": "Compared with encyclopedic\nknowledge graphs, commonsense knowledge graphs often\nmodel the tacit knowledge extracted from text such as (Car,\nUsedFor, Drive)."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "with",
+      "relation": "model_Compared",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.7,
+      "sentence": "Compared with encyclopedic\nknowledge graphs, commonsense knowledge graphs often\nmodel the tacit knowledge extracted from text such as (Car,\nUsedFor, Drive)."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "wide range",
+      "relation": "contain",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "ConceptNet [71] contains a wide range\nof commonsense concepts and relations, which can help\ncomputers understand the meanings of words people use.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "represent",
+      "relation": "construct",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "Name\nCategory\nLLMs\nKGs\nURL\nChatGPT/GPT-4\nChat Bot\n\u2713\nhttps://shorturl.at/cmsE0\nERNIE 3.0\nChat Bot\n\u2713\n\u2713\nhttps://shorturl.at/sCLV9\nBard\nChat Bot\n\u2713\n\u2713\nhttps://shorturl.at/pDLY6\nFirefly\nPhoto Editing\n\u2713\nhttps"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "both the information",
+      "relation": "incorporate",
+      "relation_type": "direct_action",
+      "relation_subtype": "compositional",
+      "confidence": 0.85,
+      "sentence": "For example, IMGpedia [84], MMKG [85],\nand Richpedia [86] incorporate both the text and image\ninformation into the knowledge graphs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "knowledge graphs",
+      "relation": "incorporate_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "compositional",
+      "confidence": 0.85,
+      "sentence": "For example, IMGpedia [84], MMKG [85],\nand Richpedia [86] incorporate both the text and image\ninformation into the knowledge graphs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "various world applications",
+      "relation": "apply_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "2.3\nApplications\nLLMs as KGs have been widely applied in various\nreal-world applications."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "editing application",
+      "relation": "develop",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "Firefly develops a photo editing application that\nallows users to edit photos by using natural language de-\nscriptions."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "empower",
+      "relation": "adopt",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "Copilot, New Bing, and Shop.ai adopt LLMs to\nempower their applications in the areas of coding assistant,\nweb search, and recommendation, respectively."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "care assistant",
+      "relation": "develop",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.95,
+      "sentence": "Doctor.ai develops a health care assistant that incorporates\nLLMs and KGs to provide medical advice.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "road map",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "3\nROADMAP & CATEGORIZATION\nIn this section, we first present a road map of explicit\nframeworks that unify LLMs and KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "categorization",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "Then, we present\nthe categorization of research on unifying LLMs and KGs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three frameworks",
+      "relation": "identify",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "In the roadmap, we identify three frameworks for\nthe unification of LLMs and KGs, including KG-enhanced\nLLMs, LLM-augmented KGs, and Synergized LLMs + KGs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "roadmap",
+      "relation": "identify_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "In the roadmap, we identify three frameworks for\nthe unification of LLMs and KGs, including KG-enhanced\nLLMs, LLM-augmented KGs, and Synergized LLMs + KGs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "their hallucination issues",
+      "relation": "criticize_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "However, LLMs are often\ncriticized for their hallucination issues [15], and lacking of\ninterpretability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "enhance",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "To address these issues, researchers have\nproposed to enhance LLMs with knowledge graphs (KGs).\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "enormous knowledge",
+      "relation": "store",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "KGs store enormous knowledge in an explicit and struc-\ntured way, which can be used to enhance the knowledge\nawareness of LLMs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "explicit way",
+      "relation": "store_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "KGs store enormous knowledge in an explicit and struc-\ntured way, which can be used to enhance the knowledge\nawareness of LLMs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "35",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "Some researchers have proposed to\nincorporate KGs into LLMs during the pre-training stage,\nwhich can help LLMs learn knowledge from KGs [35], [91].\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "incorporate",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "Other researchers have proposed to incorporate KGs into\nLLMs during the inference stage."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "performance",
+      "relation": "improve",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "By retrieving knowledge\nfrom KGs, it can significantly improve the performance\nof LLMs in accessing domain-specific knowledge [92]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "retrieving",
+      "relation": "improve_By",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "By retrieving knowledge\nfrom KGs, it can significantly improve the performance\nof LLMs in accessing domain-specific knowledge [92]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "accessing",
+      "relation": "improve_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "By retrieving knowledge\nfrom KGs, it can significantly improve the performance\nof LLMs in accessing domain-specific knowledge [92]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "JOURNAL",
+      "relation": "utilize",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "To\nimprove the interpretability of LLMs, researchers also utilize\nJOURNAL OF LATEX CLASS FILES, VOL. ?"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "harness",
+      "relation": "try",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "With the generalizability\nof LLMs, many researchers are trying to harness the power\nof LLMs for addressing KG-related tasks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "generalizability",
+      "relation": "try_With",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.7,
+      "sentence": "With the generalizability\nof LLMs, many researchers are trying to harness the power\nof LLMs for addressing KG-related tasks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "94",
+      "relation": "take",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "Researchers take advantage\nof LLMs to process the textual corpus in the KGs and then\nuse the representations of the text to enrich KGs representa-\ntion [94]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "process",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "Some studies also use LLMs to process the original\ncorpus and extract relations and entities for KG construction\n[95]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "design",
+      "relation": "try",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "Recent studies try to design a KG prompt that can\neffectively convert structural KGs into a format that can be\ncomprehended by LLMs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "way",
+      "relation": "apply_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "In this way, LLMs can be directly\napplied to KG-related tasks, e.g., KG completion [96] and\nKG reasoning [97].\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "related tasks",
+      "relation": "apply_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "In this way, LLMs can be directly\napplied to KG-related tasks, e.g., KG completion [96] and\nKG reasoning [97].\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "40",
+      "relation": "attract",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.75,
+      "sentence": "3.1.3\nSynergized LLMs + KGs\nThe synergy of LLMs and KGs has attracted increasing\nattention from researchers these years [40], [42]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "researchers",
+      "relation": "attract_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.75,
+      "sentence": "3.1.3\nSynergized LLMs + KGs\nThe synergy of LLMs and KGs has attracted increasing\nattention from researchers these years [40], [42]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "unified framework",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "To further explore the unification, we propose a unified\nframework of the synergized LLMs + KGs in Fig."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "four layers",
+      "relation": "contain",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "The\nunified framework contains four layers: 1) Data, 2) Syner-\ngized Model, 3) Technique, and 4) Application."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "process",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "In the Data layer,\nLLMs and KGs are used to process the textual and structural\ndata, respectively."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Data layer",
+      "relation": "use_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "In the Data layer,\nLLMs and KGs are used to process the textual and structural\ndata, respectively."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "process",
+      "relation": "extend",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "With the development of multi-modal\nLLMs [98] and KGs [99], this framework can be extended\nto process multi-modal data, such as video, audio, and\nimages."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "development",
+      "relation": "extend_With",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.75,
+      "sentence": "With the development of multi-modal\nLLMs [98] and KGs [99], this framework can be extended\nto process multi-modal data, such as video, audio, and\nimages."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "framework",
+      "relation": "incorporate_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "In\nTechnique layer, related techniques that have been used in\nLLMs and KGs can be incorporated into this framework to\nfurther enhance the performance."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "grained categorization",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "[101].\n3.2\nCategorization\nTo better understand the research on unifying LLMs and\nKGs, we further provide a fine-grained categorization for\neach framework in the roadmap."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "different ways",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "Specifically, we focus\non different ways of integrating KGs and LLMs, i.e., KG-\nenhanced LLMs, KG-augmented LLMs, and Synergized\nLLMs + KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Fig",
+      "relation": "illustrate_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "The fine-grained categorization of the research\nis illustrated in Fig."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "works",
+      "relation": "include",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "We categorize the research on KG-enhanced\nLLMs into three groups:\n1)\nKG-enhanced LLM pre-training includes works that\napply KGs during the pre-training stage and im-\nprove the knowledge expression of "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "research",
+      "relation": "categorize",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "We categorize the research on\nLLM-augmented KGs into five groups based on the task\ntypes:\n1)\nLLM-augmented KG embedding includes studies that\napply LLMs to enrich representations of KGs by\nencoding th"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "five groups",
+      "relation": "categorize_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "We categorize the research on\nLLM-augmented KGs into five groups based on the task\ntypes:\n1)\nLLM-augmented KG embedding includes studies that\napply LLMs to enrich representations of KGs by\nencoding th"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "re- search",
+      "relation": "include",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "2)\nLLM-augmented KG completion includes papers that\nutilize LLMs to encode text or generate facts for\nbetter KGC performance.\n3)\nLLM-augmented KG construction includes works that\napply LLMs to address"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "ies",
+      "relation": "include",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "5)\nLLM-augmented KG question answering includes stud-\nies that apply LLMs to bridge the gap between\nnatural language questions and retrieve answers\nfrom KGs.\n"
+    }
+  ],
+  "metadata": {
+    "node_count": 444,
+    "edge_count": 148,
+    "source": "hybrid_kg"
+  }
+}

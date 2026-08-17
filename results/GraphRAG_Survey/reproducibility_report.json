@@ -1,0 +1,21 @@
+{
+  "paper": "GraphRAG_Survey",
+  "methods": {
+    "B1_spacy": {
+      "mean_ged": 0.0,
+      "std_ged": 0.0,
+      "min_ged": 0.0,
+      "max_ged": 0.0,
+      "node_counts": [
+        5640,
+        5640,
+        5640
+      ],
+      "edge_counts": [
+        1302,
+        1302,
+        1302
+      ]
+    }
+  }
+}

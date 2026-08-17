@@ -1,0 +1,6955 @@
+{
+  "nodes": [
+    {
+      "id": "ICAIS",
+      "label": "ICAIS",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2025",
+      "label": "2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xidian University",
+      "label": "Xidian University",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "three",
+      "label": "three",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "first",
+      "label": "first",
+      "category": "ORDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLM",
+      "label": "LLM",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "two",
+      "label": "two",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhong",
+      "label": "Zhong",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2023",
+      "label": "2023",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhao",
+      "label": "Zhao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "et al",
+      "label": "et al",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2024",
+      "label": "2024",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhu",
+      "label": "Zhu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhang",
+      "label": "Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "23 Oct 2025",
+      "label": "23 Oct 2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pan",
+      "label": "Pan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "et al.",
+      "label": "et al.",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "prior to the LLM era",
+      "label": "prior to the LLM era",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the pre-LLM era",
+      "label": "the pre-LLM era",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zouaq",
+      "label": "Zouaq",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Nkambou",
+      "label": "Nkambou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2010",
+      "label": "2010",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Asim",
+      "label": "Asim",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2018",
+      "label": "2018",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "NeOn",
+      "label": "NeOn",
+      "category": "PRODUCT",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kotis",
+      "label": "Kotis",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2020",
+      "label": "2020",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.2\nKNOWLEDGE",
+      "label": "2.2\nKNOWLEDGE",
+      "category": "LAW",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pai",
+      "label": "Pai",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "et",
+      "label": "et",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Transformer",
+      "label": "Transformer",
+      "category": "PRODUCT",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yang",
+      "label": "Yang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2022b",
+      "label": "2022b",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Detroja",
+      "label": "Detroja",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zeng",
+      "label": "Zeng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2021",
+      "label": "2021",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2022a",
+      "label": "2022a",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Liu",
+      "label": "Liu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2022",
+      "label": "2022",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "OWL",
+      "label": "OWL",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ICAIS 2025",
+      "label": "ICAIS 2025",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lippolis",
+      "label": "Lippolis",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2025a",
+      "label": "2025a",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2025b",
+      "label": "2025b",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ontogenia",
+      "label": "Ontogenia",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Saeedizade & Blomqvist",
+      "label": "Saeedizade & Blomqvist",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Giglou",
+      "label": "Giglou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mateiu",
+      "label": "Mateiu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Groza",
+      "label": "Groza",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Fathallah",
+      "label": "Fathallah",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLMs4Life",
+      "label": "LLMs4Life",
+      "category": "PRODUCT",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LKD-KGC",
+      "label": "LKD-KGC",
+      "category": "PRODUCT",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sun",
+      "label": "Sun",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the era",
+      "label": "the era",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Edge et al.",
+      "label": "Edge et al.",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "OntoRAG",
+      "label": "OntoRAG",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Tiwari et al.",
+      "label": "Tiwari et al.",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "AdaKGC",
+      "label": "AdaKGC",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ye",
+      "label": "Ye",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "AutoSchemaKG",
+      "label": "AutoSchemaKG",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Bai et al.",
+      "label": "Bai et al.",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kommineni",
+      "label": "Kommineni",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lu",
+      "label": "Lu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Feng",
+      "label": "Feng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ODKE+",
+      "label": "ODKE+",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Khorshidi",
+      "label": "Khorshidi",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Bhattarai",
+      "label": "Bhattarai",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Schema-Constrained Dynamic Decoding (SDD",
+      "label": "the Schema-Constrained Dynamic Decoding (SDD",
+      "category": "LAW",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4.2",
+      "label": "4.2",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Nie",
+      "label": "Nie",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "AutoRE",
+      "label": "AutoRE",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xue",
+      "label": "Xue",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Papaluca",
+      "label": "Papaluca",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ChatIE",
+      "label": "ChatIE",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wei et al.",
+      "label": "Wei et al.",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGGEN",
+      "label": "KGGEN",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mo",
+      "label": "Mo",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhang & Soh",
+      "label": "Zhang & Soh",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Extract",
+      "label": "Extract",
+      "category": "PRODUCT",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "stage",
+      "label": "stage",
+      "category": "PRODUCT",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sun et al.",
+      "label": "Sun et al.",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLM-Align",
+      "label": "LLM-Align",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chen",
+      "label": "Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "EntGPT",
+      "label": "EntGPT",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ding",
+      "label": "Ding",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pons",
+      "label": "Pons",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "zero",
+      "label": "zero",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wang",
+      "label": "Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lu & Wang",
+      "label": "Lu & Wang",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Graphusion",
+      "label": "Graphusion",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Future",
+      "label": "Future",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kim",
+      "label": "Kim",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wu",
+      "label": "Wu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6.2",
+      "label": "6.2",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "A-MEM",
+      "label": "A-MEM",
+      "category": "PRODUCT",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xu",
+      "label": "Xu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zep",
+      "label": "Zep",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Rasmussen",
+      "label": "Rasmussen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KG-MRI",
+      "label": "KG-MRI",
+      "category": "PRODUCT",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6.4",
+      "label": "6.4",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CogER",
+      "label": "CogER",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Bing",
+      "label": "Bing",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sarabadani",
+      "label": "Sarabadani",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Muhammad Nabeel Asim",
+      "label": "Muhammad Nabeel Asim",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Muhammad Wasim",
+      "label": "Muhammad Wasim",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Muhammad Usman Ghani Khan",
+      "label": "Muhammad Usman Ghani Khan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Waqar Mah-\nmood",
+      "label": "Waqar Mah-\nmood",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hafiza Mahnoor Abbasi",
+      "label": "Hafiza Mahnoor Abbasi",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Database",
+      "label": "Database",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2018:bay101, 2018",
+      "label": "2018:bay101, 2018",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jiaxin Bai",
+      "label": "Jiaxin Bai",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wei Fan",
+      "label": "Wei Fan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qi Hu",
+      "label": "Qi Hu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qing Zong",
+      "label": "Qing Zong",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chunyang Li",
+      "label": "Chunyang Li",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hong Ting Tsang",
+      "label": "Hong Ting Tsang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hongyu Luo",
+      "label": "Hongyu Luo",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yauwai\n",
+      "label": "Yauwai\n",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yim",
+      "label": "Yim",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Haoyu Huang",
+      "label": "Haoyu Huang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xiao Zhou",
+      "label": "Xiao Zhou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Feng Qin",
+      "label": "Feng Qin",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Tianshi Zheng",
+      "label": "Tianshi Zheng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xi Peng",
+      "label": "Xi Peng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xin Yao",
+      "label": "Xin Yao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Huiwen Yang",
+      "label": "Huiwen Yang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Leijie Wu",
+      "label": "Leijie Wu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yi Ji",
+      "label": "Yi Ji",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Gong Zhang",
+      "label": "Gong Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Renhai Chen",
+      "label": "Renhai Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yangqiu Song",
+      "label": "Yangqiu Song",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "aug 2025",
+      "label": "aug 2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kriti Bhattarai",
+      "label": "Kriti Bhattarai",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Inez Y. Oh",
+      "label": "Inez Y. Oh",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zachary B. Abrams",
+      "label": "Zachary B. Abrams",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Albert M. Lai",
+      "label": "Albert M. Lai",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "23rd",
+      "label": "23rd",
+      "category": "ORDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Bangkok",
+      "label": "Bangkok",
+      "category": "GPE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Thailand",
+      "label": "Thailand",
+      "category": "GPE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Association for Computational Linguistics",
+      "label": "Association for Computational Linguistics",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qingyu Bing",
+      "label": "Qingyu Bing",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qiannan Zhu",
+      "label": "Qiannan Zhu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhicheng Dou",
+      "label": "Zhicheng Dou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sixteenth",
+      "label": "Sixteenth",
+      "category": "ORDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ACM International Conference on\nWeb Search and Data Mining",
+      "label": "ACM International Conference on\nWeb Search and Data Mining",
+      "category": "EVENT",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Singapore",
+      "label": "Singapore",
+      "category": "GPE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "feb 2023",
+      "label": "feb 2023",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ACM",
+      "label": "ACM",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xuan Chen",
+      "label": "Xuan Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Tong Lu",
+      "label": "Tong Lu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhichun Wang",
+      "label": "Zhichun Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "arXiv",
+      "label": "arXiv",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "dec 2024",
+      "label": "dec 2024",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kartik Detroja",
+      "label": "Kartik Detroja",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CK Bhensdadia",
+      "label": "CK Bhensdadia",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Brijesh S Bhatt",
+      "label": "Brijesh S Bhatt",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "19:200244",
+      "label": "19:200244",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yifan Ding",
+      "label": "Yifan Ding",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Amrit Poudel",
+      "label": "Amrit Poudel",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qingkai Zeng",
+      "label": "Qingkai Zeng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Tim Weninger",
+      "label": "Tim Weninger",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Balaji Veeramani",
+      "label": "Balaji Veeramani",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sanmitra Bhat-\ntacharya",
+      "label": "Sanmitra Bhat-\ntacharya",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "may 2025",
+      "label": "may 2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Darren Edge",
+      "label": "Darren Edge",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ha Trinh",
+      "label": "Ha Trinh",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Newman Cheng",
+      "label": "Newman Cheng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Joshua Bradley",
+      "label": "Joshua Bradley",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Alex Chao",
+      "label": "Alex Chao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Apurva Mody",
+      "label": "Apurva Mody",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Steven Truitt",
+      "label": "Steven Truitt",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jonathan Larson",
+      "label": "Jonathan Larson",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "From Local to Global",
+      "label": "From Local to Global",
+      "category": "WORK_OF_ART",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "apr 2024",
+      "label": "apr 2024",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Nadeen Fathallah",
+      "label": "Nadeen Fathallah",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Steffen Staab",
+      "label": "Steffen Staab",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Alsayed Algergawy",
+      "label": "Alsayed Algergawy",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Arunav Das",
+      "label": "Arunav Das",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Stefano De Giorgis",
+      "label": "Stefano De Giorgis",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Andrea Poltronieri",
+      "label": "Andrea Poltronieri",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Peter Haase",
+      "label": "Peter Haase",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Liubov\n",
+      "label": "Liubov\n",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kovriguina",
+      "label": "Kovriguina",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Albert Mero\u02dcno Pe\u02dcnuela",
+      "label": "Albert Mero\u02dcno Pe\u02dcnuela",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Oscar Corcho",
+      "label": "Oscar Corcho",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Paul Groth",
+      "label": "Paul Groth",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Elena Simperl",
+      "label": "Elena Simperl",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Valentina Tamma",
+      "label": "Valentina Tamma",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "An-\ndrea Giovanni Nuzzolese",
+      "label": "An-\ndrea Giovanni Nuzzolese",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Maria Poveda-Villal\u00b4on",
+      "label": "Maria Poveda-Villal\u00b4on",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Marta Sabou",
+      "label": "Marta Sabou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Valentina Presutti",
+      "label": "Valentina Presutti",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Irene Celino",
+      "label": "Irene Celino",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Artem Revenko",
+      "label": "Artem Revenko",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Joe Raad",
+      "label": "Joe Raad",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Bruno Sartini",
+      "label": "Bruno Sartini",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pasquale Lisena",
+      "label": "Pasquale Lisena",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "The Semantic Web:",
+      "label": "The Semantic Web:",
+      "category": "WORK_OF_ART",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "15344",
+      "label": "15344",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Springer Nature Switzerland",
+      "label": "Springer Nature Switzerland",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Cham",
+      "label": "Cham",
+      "category": "GPE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xiaohan Feng",
+      "label": "Xiaohan Feng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xixin Wu",
+      "label": "Xixin Wu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Helen Meng",
+      "label": "Helen Meng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wikidata",
+      "label": "Wikidata",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hamed Babaei Giglou",
+      "label": "Hamed Babaei Giglou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jennifer D\u2019Souza",
+      "label": "Jennifer D\u2019Souza",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "S\u00a8oren Auer",
+      "label": "S\u00a8oren Auer",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "aug 2023",
+      "label": "aug 2023",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Samira Khorshidi",
+      "label": "Samira Khorshidi",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Azadeh Nikfarjam",
+      "label": "Azadeh Nikfarjam",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Suprita Shankar",
+      "label": "Suprita Shankar",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yisi Sang",
+      "label": "Yisi Sang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yash Govind",
+      "label": "Yash Govind",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hyun Jang",
+      "label": "Hyun Jang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ali",
+      "label": "Ali",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kasgari",
+      "label": "Kasgari",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Alexis McClimans",
+      "label": "Alexis McClimans",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mohamed Soliman",
+      "label": "Mohamed Soliman",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Vishnu Konda",
+      "label": "Vishnu Konda",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ahmed Fakhry",
+      "label": "Ahmed Fakhry",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xiaoguang",
+      "label": "Xiaoguang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qi",
+      "label": "Qi",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "sep 2025",
+      "label": "sep 2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yejin Kim",
+      "label": "Yejin Kim",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Eojin Kang",
+      "label": "Eojin Kang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Juae Kim",
+      "label": "Juae Kim",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "H. Howie Huang",
+      "label": "H. Howie Huang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "oct 2024",
+      "label": "oct 2024",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Vamsi Krishna Kommineni",
+      "label": "Vamsi Krishna Kommineni",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Birgitta K\u00a8onig-Ries",
+      "label": "Birgitta K\u00a8onig-Ries",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sheeba Samuel",
+      "label": "Sheeba Samuel",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Konstantinos I. Kotis",
+      "label": "Konstantinos I. Kotis",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "George A. Vouros",
+      "label": "George A. Vouros",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Dimitris Spiliotopoulos",
+      "label": "Dimitris Spiliotopoulos",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "The Knowledge Engineering Review",
+      "label": "The Knowledge Engineering Review",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "35",
+      "label": "35",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": ":",
+      "label": ":",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "e4",
+      "label": "e4",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Anna Sofia Lippolis",
+      "label": "Anna Sofia Lippolis",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Miguel Ceriani",
+      "label": "Miguel Ceriani",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sara Zuppiroli",
+      "label": "Sara Zuppiroli",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Andrea Giovanni Nuzzolese",
+      "label": "Andrea Giovanni Nuzzolese",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Al-\nbert Mero\u02dcno Pe\u02dcnuela",
+      "label": "Al-\nbert Mero\u02dcno Pe\u02dcnuela",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Andrea Gio-\nvanni Nuzzolese",
+      "label": "Andrea Gio-\nvanni Nuzzolese",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Artem\n",
+      "label": "Artem\n",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Revenko",
+      "label": "Revenko",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "259\u2013265",
+      "label": "259\u2013265",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mohammad Javad Saeedizade",
+      "label": "Mohammad Javad Saeedizade",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Robin Keskis\u00a8arkk\u00a8a,",
+      "label": "Robin Keskis\u00a8arkk\u00a8a,",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Miguel\n",
+      "label": "Miguel\n",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ceriani",
+      "label": "Ceriani",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Aldo Gangemi",
+      "label": "Aldo Gangemi",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Eva Blomqvist",
+      "label": "Eva Blomqvist",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "mar 2025b",
+      "label": "mar 2025b",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Junming Liu",
+      "label": "Junming Liu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Siyuan Meng",
+      "label": "Siyuan Meng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yanting Gao",
+      "label": "Yanting Gao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Song Mao",
+      "label": "Song Mao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pinlong Cai",
+      "label": "Pinlong Cai",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Guohang Yan",
+      "label": "Guohang Yan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yirong Chen",
+      "label": "Yirong Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zilin Bian",
+      "label": "Zilin Bian",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ding Wang",
+      "label": "Ding Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Botian Shi",
+      "label": "Botian Shi",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "jul 2025",
+      "label": "jul 2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Shuang Liu",
+      "label": "Shuang Liu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Man Xu",
+      "label": "Man Xu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yufeng Qin",
+      "label": "Yufeng Qin",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Niko Luka\u02c7c",
+      "label": "Niko Luka\u02c7c",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Applied Sciences",
+      "label": "Applied Sciences",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yuxing Lu",
+      "label": "Yuxing Lu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jinzhuo Wang",
+      "label": "Jinzhuo Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "feb 2025",
+      "label": "feb 2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Weichen Zhao",
+      "label": "Weichen Zhao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Nan Sun",
+      "label": "Nan Sun",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kate Larson",
+      "label": "Kate Larson",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5963",
+      "label": "5963",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5971",
+      "label": "5971",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "International Joint Conferences on Artificial Intelligence Organization",
+      "label": "International Joint Conferences on Artificial Intelligence Organization",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "aug 2024",
+      "label": "aug 2024",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Patricia Mateiu",
+      "label": "Patricia Mateiu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Adrian Groza",
+      "label": "Adrian Groza",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "jul 2023",
+      "label": "jul 2023",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Belinda Mo",
+      "label": "Belinda Mo",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kyssen Yu",
+      "label": "Kyssen Yu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Joshua Kazdan",
+      "label": "Joshua Kazdan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Proud Mpala",
+      "label": "Proud Mpala",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lisa Yu",
+      "label": "Lisa Yu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chris Cundy",
+      "label": "Chris Cundy",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Charilaos Kanat-\nsoulis",
+      "label": "Charilaos Kanat-\nsoulis",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sanmi Koyejo",
+      "label": "Sanmi Koyejo",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jixuan Nie",
+      "label": "Jixuan Nie",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xia Hou",
+      "label": "Xia Hou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wenfeng Song",
+      "label": "Wenfeng Song",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xuan Wang",
+      "label": "Xuan Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xinyu Zhang",
+      "label": "Xinyu Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xingliang Jin",
+      "label": "Xingliang Jin",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Shuozhe Zhang",
+      "label": "Shuozhe Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jiaqi Shi",
+      "label": "Jiaqi Shi",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the VLDB Endowment",
+      "label": "the VLDB Endowment",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ISSN",
+      "label": "ISSN",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2150:8097",
+      "label": "2150:8097",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Liu Pai",
+      "label": "Liu Pai",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wenyang Gao",
+      "label": "Wenyang Gao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wenjie Dong",
+      "label": "Wenjie Dong",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lin Ai",
+      "label": "Lin Ai",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ziwei Gong",
+      "label": "Ziwei Gong",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Songfang Huang",
+      "label": "Songfang Huang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Li Zongsheng",
+      "label": "Li Zongsheng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ehsan Hoque",
+      "label": "Ehsan Hoque",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Julia Hirschberg",
+      "label": "Julia Hirschberg",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yue Zhang",
+      "label": "Yue Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yaser Al-Onaizan",
+      "label": "Yaser Al-Onaizan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mohit Bansal",
+      "label": "Mohit Bansal",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yun-Nung Chen",
+      "label": "Yun-Nung Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Association for Computational Linguistics",
+      "label": "the Association for Computational Linguistics",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "9586\u20139608",
+      "label": "9586\u20139608",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Miami",
+      "label": "Miami",
+      "category": "GPE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Florida",
+      "label": "Florida",
+      "category": "GPE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "USA",
+      "label": "USA",
+      "category": "GPE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Shirui Pan",
+      "label": "Shirui Pan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Linhao Luo",
+      "label": "Linhao Luo",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yufei Wang",
+      "label": "Yufei Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chen Chen",
+      "label": "Chen Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jiapu Wang",
+      "label": "Jiapu Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xindong Wu",
+      "label": "Xindong Wu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "IEEE Transactions on Knowledge and Data",
+      "label": "IEEE Transactions on Knowledge and Data",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Andrea Papaluca",
+      "label": "Andrea Papaluca",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Daniel Krefl",
+      "label": "Daniel Krefl",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sergio Rodr\u00b4\u0131guez M\u00b4endez",
+      "label": "Sergio Rodr\u00b4\u0131guez M\u00b4endez",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Artem Lensky",
+      "label": "Artem Lensky",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hanna Suominen",
+      "label": "Hanna Suominen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1st",
+      "label": "1st",
+      "category": "ORDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Workshop on Knowledge Graphs and Large Language Models",
+      "label": "Workshop on Knowledge Graphs and Large Language Models",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KaLLM",
+      "label": "KaLLM",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Gerard Pons",
+      "label": "Gerard Pons",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Besim Bilalli",
+      "label": "Besim Bilalli",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Anna Queralt",
+      "label": "Anna Queralt",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "162\u2013179",
+      "label": "162\u2013179",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Preston Rasmussen",
+      "label": "Preston Rasmussen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pavlo Paliychuk",
+      "label": "Pavlo Paliychuk",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Travis Beauvais",
+      "label": "Travis Beauvais",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jack Ryan",
+      "label": "Jack Ryan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Daniel Chalef",
+      "label": "Daniel Chalef",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "jan 2025",
+      "label": "jan 2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Navigating Ontology Development with\n",
+      "label": "Navigating Ontology Development with\n",
+      "category": "WORK_OF_ART",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Anastasia Dimou",
+      "label": "Anastasia Dimou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Rapha\u00a8el Troncy",
+      "label": "Rapha\u00a8el Troncy",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Olaf Hartig",
+      "label": "Olaf Hartig",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Maribel Acosta",
+      "label": "Maribel Acosta",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mehwish Alam",
+      "label": "Mehwish Alam",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Heiko Paulheim",
+      "label": "Heiko Paulheim",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "The Semantic Web",
+      "label": "The Semantic Web",
+      "category": "WORK_OF_ART",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "14664",
+      "label": "14664",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Springer Nature",
+      "label": "Springer Nature",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ali Sarabadani",
+      "label": "Ali Sarabadani",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hadis Taherinia",
+      "label": "Hadis Taherinia",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Niloufar Ghadiri",
+      "label": "Niloufar Ghadiri",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ehsan Karimi Shahmarvandi",
+      "label": "Ehsan Karimi Shahmarvandi",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ramin",
+      "label": "Ramin",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mousa",
+      "label": "Mousa",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jiaqi Sun",
+      "label": "Jiaqi Sun",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Shiyou Qian",
+      "label": "Shiyou Qian",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhangchi Han",
+      "label": "Zhangchi Han",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wei Li",
+      "label": "Wei Li",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zelin Qian",
+      "label": "Zelin Qian",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Dingyu Yang",
+      "label": "Dingyu Yang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jian Cao",
+      "label": "Jian Cao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Guangtao\nXue",
+      "label": "Guangtao\nXue",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yash Tiwari",
+      "label": "Yash Tiwari",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Owais Ahmad Lone",
+      "label": "Owais Ahmad Lone",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Mayukha Pal",
+      "label": "Mayukha Pal",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Tianshu Wang",
+      "label": "Tianshu Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xiaoyang Chen",
+      "label": "Xiaoyang Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hongyu Lin",
+      "label": "Hongyu Lin",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xuanang Chen",
+      "label": "Xuanang Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xianpei Han",
+      "label": "Xianpei Han",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hao Wang",
+      "label": "Hao Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhenyu",
+      "label": "Zhenyu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Le Sun",
+      "label": "Le Sun",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xiang Wei",
+      "label": "Xiang Wei",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xingyu Cui",
+      "label": "Xingyu Cui",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ning Cheng",
+      "label": "Ning Cheng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xiaobin Wang",
+      "label": "Xiaobin Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xin Zhang",
+      "label": "Xin Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Shen Huang",
+      "label": "Shen Huang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Pengjun Xie",
+      "label": "Pengjun Xie",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jinan",
+      "label": "Jinan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yufeng Chen",
+      "label": "Yufeng Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Meishan Zhang",
+      "label": "Meishan Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yong Jiang",
+      "label": "Yong Jiang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wenjuan Han",
+      "label": "Wenjuan Han",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zero",
+      "label": "Zero",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "may 2024",
+      "label": "may 2024",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wenjie Wu",
+      "label": "Wenjie Wu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yongcheng Jing",
+      "label": "Yongcheng Jing",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yingjie Wang",
+      "label": "Yingjie Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wenbin Hu",
+      "label": "Wenbin Hu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Dacheng Tao",
+      "label": "Dacheng Tao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "mar 2025",
+      "label": "mar 2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wujiang Xu",
+      "label": "Wujiang Xu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zujie Liang",
+      "label": "Zujie Liang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kai Mei",
+      "label": "Kai Mei",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hang Gao",
+      "label": "Hang Gao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Juntao Tan",
+      "label": "Juntao Tan",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yongfeng Zhang",
+      "label": "Yongfeng Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "oct 2025",
+      "label": "oct 2025",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lilong Xue",
+      "label": "Lilong Xue",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Dan Zhang",
+      "label": "Dan Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yuxiao Dong",
+      "label": "Yuxiao Dong",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jie Tang",
+      "label": "Jie Tang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "62nd",
+      "label": "62nd",
+      "category": "ORDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the Association for\nComputational Linguistics",
+      "label": "the Association for\nComputational Linguistics",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Linyao Yang",
+      "label": "Linyao Yang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chen Lv",
+      "label": "Chen Lv",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xiao Wang",
+      "label": "Xiao Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ji Qiao",
+      "label": "Ji Qiao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Weiping Ding",
+      "label": "Weiping Ding",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jun Zhang",
+      "label": "Jun Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Fei-Yue Wang",
+      "label": "Fei-Yue Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "IEEE/CAA",
+      "label": "IEEE/CAA",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Journal of Automatica Sinica",
+      "label": "Journal of Automatica Sinica",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Rui Yang",
+      "label": "Rui Yang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Boming Yang",
+      "label": "Boming Yang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sixun Ouyang",
+      "label": "Sixun Ouyang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Tianwei She",
+      "label": "Tianwei She",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Aosong Feng",
+      "label": "Aosong Feng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yuang Jiang",
+      "label": "Yuang Jiang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Freddy Lecue",
+      "label": "Freddy Lecue",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jinghui Lu",
+      "label": "Jinghui Lu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Irene Li",
+      "label": "Irene Li",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "jul",
+      "label": "jul",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yang Yang",
+      "label": "Yang Yang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhilei Wu",
+      "label": "Zhilei Wu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yuexiang Yang",
+      "label": "Yuexiang Yang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Shuangshuang Lian",
+      "label": "Shuangshuang Lian",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Fengjie Guo",
+      "label": "Fengjie Guo",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhiwei Wang",
+      "label": "Zhiwei Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hongbin Ye",
+      "label": "Hongbin Ye",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Honghao Gui",
+      "label": "Honghao Gui",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xin Xu",
+      "label": "Xin Xu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xi Chen",
+      "label": "Xi Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Huajun Chen",
+      "label": "Huajun Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ningyu Zhang",
+      "label": "Ningyu Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "nov 2023",
+      "label": "nov 2023",
+      "category": "DATE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kaisheng Zeng",
+      "label": "Kaisheng Zeng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chengjiang Li",
+      "label": "Chengjiang Li",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lei Hou",
+      "label": "Lei Hou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Juanzi Li",
+      "label": "Juanzi Li",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ling Feng",
+      "label": "Ling Feng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "AI Open",
+      "label": "AI Open",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Bowen Zhang",
+      "label": "Bowen Zhang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Harold Soh",
+      "label": "Harold Soh",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Extract, Define, Canonicalize",
+      "label": "Extract, Define, Canonicalize",
+      "category": "WORK_OF_ART",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "9820\u20139836",
+      "label": "9820\u20139836",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhigang Zhao",
+      "label": "Zhigang Zhao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xiong Luo",
+      "label": "Xiong Luo",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Maojian Chen",
+      "label": "Maojian Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ling Ma",
+      "label": "Ling Ma",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CMES-Computer Modeling in Engineering & Sciences",
+      "label": "CMES-Computer Modeling in Engineering & Sciences",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "139(1",
+      "label": "139(1",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lingfeng Zhong",
+      "label": "Lingfeng Zhong",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jia Wu",
+      "label": "Jia Wu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qian Li",
+      "label": "Qian Li",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hao Peng",
+      "label": "Hao Peng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "ACM Computing Surveys",
+      "label": "ACM Computing Surveys",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Beibei Zhu",
+      "label": "Beibei Zhu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ruolin Wang",
+      "label": "Ruolin Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Junyi Wang",
+      "label": "Junyi Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Fei Shao",
+      "label": "Fei Shao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kerun Wang",
+      "label": "Kerun Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Artificial Intelligence Review",
+      "label": "Artificial Intelligence Review",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": ",",
+      "label": ",",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2024a",
+      "label": "2024a",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yuqi Zhu",
+      "label": "Yuqi Zhu",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Xiaohan Wang",
+      "label": "Xiaohan Wang",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jing Chen",
+      "label": "Jing Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Shuofei Qiao",
+      "label": "Shuofei Qiao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yixin Ou",
+      "label": "Yixin Ou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yunzhi Yao",
+      "label": "Yunzhi Yao",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Shumin Deng",
+      "label": "Shumin Deng",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Hua-\njun Chen",
+      "label": "Hua-\njun Chen",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Amal Zouaq",
+      "label": "Amal Zouaq",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Roger Nkambou",
+      "label": "Roger Nkambou",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jacqueline Bourdeau",
+      "label": "Jacqueline Bourdeau",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Riichiro Mizoguchi",
+      "label": "Riichiro Mizoguchi",
+      "category": "PERSON",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "308",
+      "label": "308",
+      "category": "CARDINAL",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Springer Berlin Heidelberg",
+      "label": "Springer Berlin Heidelberg",
+      "category": "ORG",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Berlin",
+      "label": "Berlin",
+      "category": "GPE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "delberg",
+      "label": "delberg",
+      "category": "GPE",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Knowledge Graphs",
+      "label": "Knowledge Graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "fundamental infrastructure",
+      "label": "fundamental infrastructure",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "construction",
+      "label": "construction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "new",
+      "label": "new",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "We",
+      "label": "We",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "traditional KG methodologies",
+      "label": "traditional KG methodologies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "we",
+      "label": "we",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "representative",
+      "label": "representative",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each stage",
+      "label": "each stage",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "clar-",
+      "label": "clar-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "systematic review",
+      "label": "systematic review",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "cornerstone",
+      "label": "cornerstone",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "They",
+      "label": "They",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ery",
+      "label": "ery",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Conventional construction pipelines",
+      "label": "Conventional construction pipelines",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three major components",
+      "label": "three major components",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "face",
+      "label": "face",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "limitations",
+      "label": "limitations",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "development",
+      "label": "development",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advent",
+      "label": "advent",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "transformative paradigm",
+      "label": "transformative paradigm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LLMs",
+      "label": "LLMs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": ".",
+      "label": ".",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "evolution",
+      "label": "evolution",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "paradigm shift",
+      "label": "paradigm shift",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "paper",
+      "label": "paper",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comprehensive survey",
+      "label": "comprehensive survey",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "light",
+      "label": "light",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent research",
+      "label": "recent research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Section 2",
+      "label": "Section 2",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "foundations",
+      "label": "foundations",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Section 6",
+      "label": "Section 6",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "future research directions",
+      "label": "future research directions",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "layered pipeline com-",
+      "label": "layered pipeline com-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "stages",
+      "label": "stages",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based statistical symbolic approaches",
+      "label": "based statistical symbolic approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "section",
+      "label": "section",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ONTOLOGY ENGINEERING",
+      "label": "ONTOLOGY ENGINEERING",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "by",
+      "label": "by",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pre - LLM era",
+      "label": "pre - LLM era",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "proaches",
+      "label": "proaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "derive",
+      "label": "derive",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "traditional OE frameworks",
+      "label": "traditional OE frameworks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "precision",
+      "label": "precision",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Knowledge Extraction",
+      "label": "Knowledge Extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "identify",
+      "label": "identify",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Early approaches",
+      "label": "Early approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "handcrafted linguistic rules",
+      "label": "handcrafted linguistic rules",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Classical approaches",
+      "label": "Classical approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "lexical similarity measures",
+      "label": "lexical similarity measures",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "introduction",
+      "label": "introduction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based techniques",
+      "label": "based techniques",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "specific applications",
+      "label": "specific applications",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "multi - feature fusion",
+      "label": "multi - feature fusion",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Other level models",
+      "label": "Other level models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "semantic cues",
+      "label": "semantic cues",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "traditional fusion pipelines",
+      "label": "traditional fusion pipelines",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "struggle",
+      "label": "struggle",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advancements",
+      "label": "advancements",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "integration",
+      "label": "integration",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "fundamental paradigm shift",
+      "label": "fundamental paradigm shift",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "research",
+      "label": "research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two complementary directions",
+      "label": "two complementary directions",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "down paradigm",
+      "label": "down paradigm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "emphasizing",
+      "label": "emphasizing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "frame-",
+      "label": "frame-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "co -",
+      "label": "co -",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based methods",
+      "label": "based methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "driven pathway",
+      "label": "driven pathway",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "CQs",
+      "label": "CQs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "setting",
+      "label": "setting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pioneering framework",
+      "label": "pioneering framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "use",
+      "label": "use",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ontology generation",
+      "label": "ontology generation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "consistency",
+      "label": "consistency",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "incorporating",
+      "label": "incorporating",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two complementary prompting strate-",
+      "label": "two complementary prompting strate-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "NATURAL BASED ONTOLOGY CONSTRUCTION",
+      "label": "NATURAL BASED ONTOLOGY CONSTRUCTION",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "passive analytical tools",
+      "label": "passive analytical tools",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "active modeling",
+      "label": "active modeling",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "2025b)\u2014systematically",
+      "label": "2025b)\u2014systematically",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "GPT-4 performance",
+      "label": "GPT-4 performance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LLMs4OL framework",
+      "label": "LLMs4OL framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LLMs capacity",
+      "label": "LLMs capacity",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "established ontology editors",
+      "label": "established ontology editors",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "top research",
+      "label": "top research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "semantic con-",
+      "label": "semantic con-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "summary",
+      "label": "summary",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge graph",
+      "label": "knowledge graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "paradigm",
+      "label": "paradigm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "a",
+      "label": "a",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "search focus",
+      "label": "search focus",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "designing",
+      "label": "designing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "inducing",
+      "label": "inducing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "interrelated stages",
+      "label": "interrelated stages",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "approaches",
+      "label": "approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "instance level",
+      "label": "instance level",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "open information extraction",
+      "label": "open information extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "process",
+      "label": "process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "empirical",
+      "label": "empirical",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "framework",
+      "label": "framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pipeline",
+      "label": "pipeline",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "stage process",
+      "label": "stage process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "It",
+      "label": "It",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "alignment",
+      "label": "alignment",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "challenge",
+      "label": "challenge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advances",
+      "label": "advances",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "focus",
+      "label": "focus",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "static schema construction",
+      "label": "static schema construction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "continuous schema adapta-",
+      "label": "continuous schema adapta-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent efforts",
+      "label": "recent efforts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "algorithmic prototypes",
+      "label": "algorithmic prototypes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "deployable knowledge",
+      "label": "deployable knowledge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "example",
+      "label": "example",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unified architecture",
+      "label": "unified architecture",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KGs",
+      "label": "KGs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "form",
+      "label": "form",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "transformation",
+      "label": "transformation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "pragmatic reorientation",
+      "label": "pragmatic reorientation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "schema construction",
+      "label": "schema construction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "interplay",
+      "label": "interplay",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "\u201c",
+      "label": "\u201c",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "bottom trajectory",
+      "label": "bottom trajectory",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "automatic extraction",
+      "label": "automatic extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "it",
+      "label": "it",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "systematic examination",
+      "label": "systematic examination",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "em-",
+      "label": "em-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "normalization",
+      "label": "normalization",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "paradigms",
+      "label": "paradigms",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "tual landscape",
+      "label": "tual landscape",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "central principle",
+      "label": "central principle",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "its reliance",
+      "label": "its reliance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "research trajectory",
+      "label": "research trajectory",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "clear evolution",
+      "label": "clear evolution",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ontology",
+      "label": "ontology",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Initial efforts",
+      "label": "Initial efforts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ensure",
+      "label": "ensure",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Competency Ques-",
+      "label": "Competency Ques-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their pipeline",
+      "label": "their pipeline",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "subsequent studies",
+      "label": "subsequent studies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "enhance",
+      "label": "enhance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "staged prompting",
+      "label": "staged prompting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "approach",
+      "label": "approach",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "instance",
+      "label": "instance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structural align-",
+      "label": "structural align-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recent developments",
+      "label": "recent developments",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "localized flexibility",
+      "label": "localized flexibility",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "static frameworks",
+      "label": "static frameworks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "generate",
+      "label": "generate",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "static driven extraction",
+      "label": "static driven extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "foundational paradigm",
+      "label": "foundational paradigm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "its dependence",
+      "label": "its dependence",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scalability",
+      "label": "scalability",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Recent approaches",
+      "label": "Recent approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "shift",
+      "label": "shift",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "dynamic evolving component",
+      "label": "dynamic evolving component",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "trend",
+      "label": "trend",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "multi - stage prompts",
+      "label": "multi - stage prompts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "schema",
+      "label": "schema",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two mechanisms",
+      "label": "two mechanisms",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "methods",
+      "label": "methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "adaptive schema learning",
+      "label": "adaptive schema learning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "groundwork",
+      "label": "groundwork",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "free extraction",
+      "label": "free extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "contrast",
+      "label": "contrast",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two major trajectories",
+      "label": "two major trajectories",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "first trajectory",
+      "label": "first trajectory",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "prompting",
+      "label": "prompting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "tured reasoning patterns",
+      "label": "tured reasoning patterns",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Early studies",
+      "label": "Early studies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extraction process",
+      "label": "extraction process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "RHF",
+      "label": "RHF",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "instruction fine tuning",
+      "label": "instruction fine tuning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Subsequent works",
+      "label": "Subsequent works",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "prompting framework",
+      "label": "prompting framework",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extraction",
+      "label": "extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "parallel",
+      "label": "parallel",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "turn dialogue process",
+      "label": "turn dialogue process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Open Information Extraction",
+      "label": "Open Information Extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structured generative methods",
+      "label": "structured generative methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "schema free",
+      "label": "schema free",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "OIE",
+      "label": "OIE",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "coverage",
+      "label": "coverage",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structural regularity",
+      "label": "structural regularity",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unstructured text",
+      "label": "unstructured text",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "existing approaches",
+      "label": "existing approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three major classes",
+      "label": "three major classes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "level fusion",
+      "label": "level fusion",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structural backbone",
+      "label": "structural backbone",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "coherent schema",
+      "label": "coherent schema",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Early work",
+      "label": "Early work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "explicit ontologies",
+      "label": "explicit ontologies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "global constraints",
+      "label": "global constraints",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "method",
+      "label": "method",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "greater automation",
+      "label": "greater automation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "driven",
+      "label": "driven",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LLM-",
+      "label": "LLM-",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "merge",
+      "label": "merge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LLM Align",
+      "label": "LLM Align",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based fusion",
+      "label": "based fusion",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "shot disambiguation",
+      "label": "shot disambiguation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Efficiency",
+      "label": "Efficiency",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "hierarchical designs",
+      "label": "hierarchical designs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "substantial efficiency gains",
+      "label": "substantial efficiency gains",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "simple matchers",
+      "label": "simple matchers",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "adaptive reasoning agents",
+      "label": "adaptive reasoning agents",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based paradigm",
+      "label": "based paradigm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "frameworks",
+      "label": "frameworks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "FUTURE APPLICATIONS",
+      "label": "FUTURE APPLICATIONS",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "deeper intelligent interaction",
+      "label": "deeper intelligent interaction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Future work",
+      "label": "Future work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "integrate",
+      "label": "integrate",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "crucial complementary challenge",
+      "label": "crucial complementary challenge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "enhanced",
+      "label": "enhanced",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Recent architectures",
+      "label": "Recent architectures",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "dynamic memory substrate",
+      "label": "dynamic memory substrate",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Frameworks",
+      "label": "Frameworks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "memory",
+      "label": "memory",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "manage",
+      "label": "manage",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "dynamic KGs",
+      "label": "dynamic KGs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "improving",
+      "label": "improving",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Representative work",
+      "label": "Representative work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "VaLiK",
+      "label": "VaLiK",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "image linkage",
+      "label": "image linkage",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "manual",
+      "label": "manual",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Key challenges",
+      "label": "Key challenges",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "modality heterogeneity",
+      "label": "modality heterogeneity",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "MMKGs",
+      "label": "MMKGs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their use",
+      "label": "their use",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "cognitive middle layer",
+      "label": "cognitive middle layer",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structured scaffold",
+      "label": "structured scaffold",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Recent studies",
+      "label": "Recent studies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "recommendation",
+      "label": "recommendation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "aware KG reasoning",
+      "label": "aware KG reasoning",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "PKG LLM",
+      "label": "PKG LLM",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "domain KGs",
+      "label": "domain KGs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "biomedical domain",
+      "label": "biomedical domain",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge augmentation",
+      "label": "knowledge augmentation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KG",
+      "label": "KG",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "interactive reasoning substrate",
+      "label": "interactive reasoning substrate",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "survey",
+      "label": "survey",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comprehensive overview",
+      "label": "comprehensive overview",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based pipelines",
+      "label": "based pipelines",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three trends",
+      "label": "three trends",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "shifts",
+      "label": "shifts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "living",
+      "label": "living",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "challenges",
+      "label": "challenges",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "remarkable progress",
+      "label": "remarkable progress",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    }
+  ],
+  "edges": [
+    {
+      "source": "dependency_parse",
+      "target": "fundamental infrastructure",
+      "relation": "serve_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nKnowledge Graphs (KGs) have long served as a fundamental infrastructure\nfor structured knowledge representation and reasoning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "new",
+      "relation": "enter",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nWith the advent of\nLarge Language Models (LLMs), the construction of KGs has entered a new\nparadigm\u2014shifting from rule-based and statistical pipelines to language-driven\nand generative frameworks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "traditional KG methodologies",
+      "relation": "revisit",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This survey provides a comprehensive overview of\nrecent progress in LLM-empowered knowledge graph construction, systemati-\ncally analyzing how LLMs reshape the classical three-layered pipeline of onto"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "representative",
+      "relation": "synthesize",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Across each stage, we synthesize representative\nframeworks, analyze their technical mechanisms, and identify their limitations.\nFinally, the survey outlines key trends and future research directions, "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each stage",
+      "relation": "synthesize_Across",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Across each stage, we synthesize representative\nframeworks, analyze their technical mechanisms, and identify their limitations.\nFinally, the survey outlines key trends and future research directions, "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "clar-",
+      "relation": "aim",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Through this systematic review, we aim to clar-\nify the evolving interplay between LLMs and knowledge graphs, bridging sym-\nbolic knowledge engineering and neural semantic understanding toward the de-"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "systematic review",
+      "relation": "aim_Through",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Through this systematic review, we aim to clar-\nify the evolving interplay between LLMs and knowledge graphs, bridging sym-\nbolic knowledge engineering and neural semantic understanding toward the de-"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "cornerstone",
+      "relation": "serve_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Knowledge Graphs (KGs) have long served as a cornerstone for representing, integrating, and rea-\nsoning over structured knowledge."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "ery",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "They provide a unified semantic foundation that underpins a wide\nrange of intelligent applications, such as semantic search, question answering, and scientific discov-\nery."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three major components",
+      "relation": "compose_of",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Conventional KG construction pipelines are typically composed of three major components:\nontology engineering, knowledge extraction, and knowledge fusion."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "face",
+      "relation": "continue",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Despite their success in en-\nabling large-scale knowledge organization, traditional paradigms (e.g., Zhong et al. (2023); Zhao\net al. (2024)) continue to face three enduring challenges: (1) Scalabilit"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "development",
+      "relation": "hinder",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "These limitations hinder the development of self-evolving, large-scale,\nand dynamic KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "transformative paradigm",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The advent of Large Language Models (LLMs) introduces a transformative paradigm for over-\ncoming these bottlenecks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": ".",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Through large-scale pretraining and emergent generalization capabilities,\nLLMs enable three key mechanisms: (1) Generative knowledge modeling, synthesizing structured\nrepresentations directly from uns"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paradigm shift",
+      "relation": "mark",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\n1\narXiv:2510.20345v1  [cs.AI]  23 Oct 2025\nPublished as a conference paper at ICAIS 2025\nThis evolution marks a paradigm shift from rule-driven, pipeline-based systems toward LLM-driven,\nunified, and"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comprehensive survey",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In light of these rapid advances, this paper presents a comprehensive survey of LLM-driven knowl-\nedge graph construction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "light",
+      "relation": "present_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In light of these rapid advances, this paper presents a comprehensive survey of LLM-driven knowl-\nedge graph construction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "recent research",
+      "relation": "review",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "We systematically review recent research spanning ontology engineering,\nknowledge extraction, and fusion, analyze emerging methodological paradigms, and highlight open\nchallenges and future directions"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "foundations",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\n\u2022 Section 2 introduces the foundations of traditional knowledge graph construction, covering\nontology engineering, knowledge extraction, and fusion techniques prior to the LLM era.\n\u2022 Section 3 review"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "future research directions",
+      "relation": "explore",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\n\u2022 Section 6 explores future research directions, including KG-based reasoning, dynamic\nknowledge memory, and multimodal KG construction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "layered pipeline com-",
+      "relation": "follow",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The construction of Knowledge Graphs (KGs) traditionally follows a three-layered pipeline com-\nprising ontology engineering, knowledge extraction, and knowledge fusion."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "based statistical symbolic approaches",
+      "relation": "implement_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Prior to the advent of\nLarge Language Models (LLMs), these stages were implemented through rule-based, statistical, and\nsymbolic approaches."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "ONTOLOGY ENGINEERING",
+      "relation": "review",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This section briefly reviews these conventional methodologies to establish\ncontext for the subsequent discussion on LLM-empowered KG construction.\n2.1\nONTOLOGY ENGINEERING\nOntology Engineering (OE) in"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pre - LLM era",
+      "relation": "construct_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In the pre-LLM era, ontologies were primarily manually constructed by domain ex-\nperts, often supported by semantic web tools such as Prot\u00b4eg\u00b4e and guided by established methodolo-\ngies including METH"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "derive",
+      "relation": "seek",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nSubsequent semi-automatic ap-\nproaches\u2014collectively known as ontology learning\u2014sought to derive ontological structures from\ntextual corpora, as reviewed in Asim et al. (2018)."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "precision",
+      "relation": "offer",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "As highlighted\nby Kotis et al. (2020), traditional OE frameworks offered precision and formal soundness but lacked\nflexibility and efficiency for large-scale or continuously evolving knowledge domains"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "identify",
+      "relation": "aim",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Knowledge Extraction (KE) aims to identify entities, relations, and attributes from unstructured or\nsemi-structured data."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "handcrafted linguistic rules",
+      "relation": "rely_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Early approaches relied on handcrafted linguistic rules and pattern matching,\nwhich provided interpretability but were brittle and domain-specific."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paradigm shift",
+      "relation": "mark",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The advent of deep learning architectures, such as BiLSTM-CRF and Transformer-based models,\nmarked a paradigm shift toward data-driven feature learning, as discussed by Yang et al. (2022b).\nComprehens"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "lexical similarity measures",
+      "relation": "rely_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Classical approaches relied on lexical and structural similarity measures, as reviewed in Zeng et al.\n(2021)."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "based techniques",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The introduction of representation learning enabled embedding-based techniques that align\nentities within shared vector spaces, improving scalability and automation, as surveyed by Zhu et al.\n(2024a)."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "multi - feature fusion",
+      "relation": "demonstrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Domain-specific applications, such as Yang et al. (2022a), demonstrate multi-feature fusion\nstrategies combining structural, attribute, and relational similarities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "semantic cues",
+      "relation": "integrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Other graph-level models, such\nas Liu et al. (2022), further integrate semantic cues to enhance alignment robustness."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "struggle",
+      "relation": "continue",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nDespite these advancements, traditional fusion pipelines continue to struggle with semantic hetero-\ngeneity, large-scale integration, and dynamic knowledge updating\u2014challenges that contempo-\nrary LLM"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "advancements",
+      "relation": "continue_Despite",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nDespite these advancements, traditional fusion pipelines continue to struggle with semantic hetero-\ngeneity, large-scale integration, and dynamic knowledge updating\u2014challenges that contempo-\nrary LLM"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "fundamental paradigm shift",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The integration of Large Language Models (LLMs) has introduced a fundamental paradigm shift\nin Ontology Engineering (OE) and, by extension, Knowledge Graph (KG) construction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two complementary directions",
+      "relation": "follow",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Current\nresearch generally follows two complementary directions: a top-down approach, which leverages\nLLMs as intelligent assistants for formal ontology modeling, and a bottom-up approach, which\nemplo"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "emphasizing",
+      "relation": "extend",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "3.1\nTOP-DOWN ONTOLOGY CONSTRUCTION: LLMS AS ONTOLOGY ASSISTANTS\nThe top-down paradigm extends the traditions of the Semantic Web and Knowledge Engineering,\nemphasizing ontology development guided by p"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "frame-",
+      "relation": "serve_Within",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Within this frame-\nwork, LLMs serve as advanced co-modelers that assist human experts in translating natural language\nspecifications\u2014such as competency questions (CQs), user stories, or domain descrip"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "co -",
+      "relation": "serve_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Within this frame-\nwork, LLMs serve as advanced co-modelers that assist human experts in translating natural language\nspecifications\u2014such as competency questions (CQs), user stories, or domain descrip"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "driven pathway",
+      "relation": "represent",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\n3.1.1\nCOMPETENCY QUESTION (CQ)-BASED ONTOLOGY CONSTRUCTION\nCQ-based methods represent a requirements-driven pathway toward automated ontology modeling."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "CQs",
+      "relation": "parse",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nIn this setting, LLMs parse CQs or user stories to identify, categorize, and formalize domain-specific\nconcepts, attributes, and relationships."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "setting",
+      "relation": "parse_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nIn this setting, LLMs parse CQs or user stories to identify, categorize, and formalize domain-specific\nconcepts, attributes, and relationships."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "use",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nA pioneering framework, Ontogenia (Lippolis et al., 2025a), introduced the use of Metacogni-\ntive Prompting for ontology generation, enabling the model to perform self-reflection and struc-\ntural cor"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "ontology generation",
+      "relation": "introduce_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nA pioneering framework, Ontogenia (Lippolis et al., 2025a), introduced the use of Metacogni-\ntive Prompting for ontology generation, enabling the model to perform self-reflection and struc-\ntural cor"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "consistency",
+      "relation": "improve",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "By incorporating Ontology Design Patterns (ODPs), Ontogenia\nimproves both the consistency and complexity of generated ontologies."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "incorporating",
+      "relation": "improve_By",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "By incorporating Ontology Design Patterns (ODPs), Ontogenia\nimproves both the consistency and complexity of generated ontologies."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two complementary prompting strate-",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Building on these advances, Lippolis et al. (2025b) proposed two complementary prompting strate-\ngies: a \u201cmemoryless\u201d approach for modular construction and a reflective iterative method inspired\nby On"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "NATURAL BASED ONTOLOGY CONSTRUCTION",
+      "relation": "transition",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Through this evolution, LLMs have transitioned from passive analytical tools to active modeling\ncollaborators in ontology design.\n3.1.2\nNATURAL LANGUAGE-BASED ONTOLOGY CONSTRUCTION\nBeyond CQ-driven pa"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "evolution",
+      "relation": "transition_Through",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Through this evolution, LLMs have transitioned from passive analytical tools to active modeling\ncollaborators in ontology design.\n3.1.2\nNATURAL LANGUAGE-BASED ONTOLOGY CONSTRUCTION\nBeyond CQ-driven pa"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "passive analytical tools",
+      "relation": "transition_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Through this evolution, LLMs have transitioned from passive analytical tools to active modeling\ncollaborators in ontology design.\n3.1.2\nNATURAL LANGUAGE-BASED ONTOLOGY CONSTRUCTION\nBeyond CQ-driven pa"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "active modeling",
+      "relation": "transition_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Through this evolution, LLMs have transitioned from passive analytical tools to active modeling\ncollaborators in ontology design.\n3.1.2\nNATURAL LANGUAGE-BASED ONTOLOGY CONSTRUCTION\nBeyond CQ-driven pa"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "GPT-4 performance",
+      "relation": "evaluate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nFoundational work in this domain\u2014including Saeedizade & Blomqvist (2024) and Lippolis et al.\n(2025b)\u2014systematically evaluated GPT-4\u2019s performance and confirmed that its outputs approach the\nquality o"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "LLMs capacity",
+      "relation": "verify",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The LLMs4OL framework (Giglou et al., 2023) further verified LLMs\u2019 capacity for concept\nidentification, relation extraction, and semantic pattern induction in general-purpose domains."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "use",
+      "relation": "demonstrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Like-\nwise, Mateiu & Groza (2023) demonstrated the use of fine-tuned models to directly translate natural\nlanguage into OWL axioms within established ontology editors such as Prot\u00b4eg\u00b4e."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "established ontology editors",
+      "relation": "demonstrate_within",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Like-\nwise, Mateiu & Groza (2023) demonstrated the use of fine-tuned models to directly translate natural\nlanguage into OWL axioms within established ontology editors such as Prot\u00b4eg\u00b4e."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "semantic con-",
+      "relation": "emphasize",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nIn summary, top-down research on LLM-assisted ontology construction emphasizes semantic con-\nsistency, structural completeness, and human\u2013AI collaboration, marking a significant evolution of\ntraditio"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "summary",
+      "relation": "emphasize_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nIn summary, top-down research on LLM-assisted ontology construction emphasizes semantic con-\nsistency, structural completeness, and human\u2013AI collaboration, marking a significant evolution of\ntraditio"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paradigm",
+      "relation": "view_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In this paradigm, the knowledge graph is no longer viewed merely as a\nstatic repository of structured knowledge for human interpretation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "a",
+      "relation": "view_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In this paradigm, the knowledge graph is no longer viewed merely as a\nstatic repository of structured knowledge for human interpretation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "designing",
+      "relation": "shift_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Consequently, re-\n4\nPublished as a conference paper at ICAIS 2025\nsearch focus has shifted from manually designing ontological hierarchies to automatically inducing\nschemas from unstructured or semi-s"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "inducing",
+      "relation": "shift_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Consequently, re-\n4\nPublished as a conference paper at ICAIS 2025\nsearch focus has shifted from manually designing ontological hierarchies to automatically inducing\nschemas from unstructured or semi-s"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "interrelated stages",
+      "relation": "delineate_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This evolution can be delineated through three\ninterrelated stages of progress."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "instance level",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "These approaches first generate instance-level\ngraphs from raw text via open information extraction, and then abstract ontological concepts and\nrelations through clustering and generalization."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "open information extraction",
+      "relation": "generate_via",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "These approaches first generate instance-level\ngraphs from raw text via open information extraction, and then abstract ontological concepts and\nrelations through clustering and generalization."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "empirical",
+      "relation": "transform",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This \u201cdata-to-schema\u201d process transforms empirical\nknowledge into reusable conceptual structures, illustrating how instance-rich corpora can give rise\nto ontological blueprints."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pipeline",
+      "relation": "advance",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Building upon this foundation, the EDC (Extract\u2013Define\u2013Canonicalize) framework (Zhang & Soh,\n2024) advanced the pipeline into a three-stage process consisting of open extraction, semantic defi-\nnition"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "stage process",
+      "relation": "advance_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Building upon this foundation, the EDC (Extract\u2013Define\u2013Canonicalize) framework (Zhang & Soh,\n2024) advanced the pipeline into a three-stage process consisting of open extraction, semantic defi-\nnition"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "alignment",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "It enables the alignment of automatically induced schemas with\nexisting ontologies, or the creation of new ones when predefined structures are absent."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "challenge",
+      "relation": "address",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Extending\nthis adaptability, AdaKGC (Ye et al., 2023) addressed the challenge of dynamic schema evolution,\nallowing models to incorporate novel relations and entity types without retraining."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "focus",
+      "relation": "shift",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Collectively,\nthese advances shift the focus from static schema construction toward continuous schema adapta-\ntion within evolving knowledge environments."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "static schema construction",
+      "relation": "shift_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Collectively,\nthese advances shift the focus from static schema construction toward continuous schema adapta-\ntion within evolving knowledge environments."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "continuous schema adapta-",
+      "relation": "shift_toward",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Collectively,\nthese advances shift the focus from static schema construction toward continuous schema adapta-\ntion within evolving knowledge environments."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "algorithmic prototypes",
+      "relation": "transition_beyond",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "More recent efforts have transitioned beyond algorithmic prototypes toward deployable knowledge\nsystems."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "deployable knowledge",
+      "relation": "transition_toward",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "More recent efforts have transitioned beyond algorithmic prototypes toward deployable knowledge\nsystems."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "integrate_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "For example, AutoSchemaKG (Bai et al., 2025) integrates schema-based and schema-\nfree paradigms within a unified architecture, supporting the real-time generation and evolution of\nenterprise-scale kno"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "unified architecture",
+      "relation": "integrate_within",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "For example, AutoSchemaKG (Bai et al., 2025) integrates schema-based and schema-\nfree paradigms within a unified architecture, supporting the real-time generation and evolution of\nenterprise-scale kno"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "stage",
+      "relation": "operate_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In this stage, KGs operate as a form of external knowledge\nmemory for LLMs\u2014prioritizing factual coverage, scalability, and maintainability over purely se-\nmantic completeness."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "form",
+      "relation": "operate_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In this stage, KGs operate as a form of external knowledge\nmemory for LLMs\u2014prioritizing factual coverage, scalability, and maintainability over purely se-\nmantic completeness."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "LLMs",
+      "relation": "operate_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In this stage, KGs operate as a form of external knowledge\nmemory for LLMs\u2014prioritizing factual coverage, scalability, and maintainability over purely se-\nmantic completeness."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "pragmatic reorientation",
+      "relation": "mark",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This transformation marks a pragmatic reorientation of ontology construction,\nemphasizing its service to LLM reasoning and interpretability in knowledge-intensive applications."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "interplay",
+      "relation": "redefine",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In summary, bottom-up ontology schema construction redefines the interplay between LLMs and\nknowledge engineering."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "summary",
+      "relation": "redefine_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In summary, bottom-up ontology schema construction redefines the interplay between LLMs and\nknowledge engineering."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "\u201c",
+      "relation": "evolve_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The focus evolves from \u201cLLMs for Ontology Engineering\u201d to \u201cOntolo-\ngies and KGs for LLMs\u201d."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "\u201c",
+      "relation": "evolve_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The focus evolves from \u201cLLMs for Ontology Engineering\u201d to \u201cOntolo-\ngies and KGs for LLMs\u201d."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "automatic extraction",
+      "relation": "prioritize",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Whereas the top-down trajectory emphasizes semantic modeling, logical\nconsistency, and expert-guided alignment\u2014positioning LLMs as intelligent assistants in ontology\ndesign\u2014the bottom-up trajectory pr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "systematic examination",
+      "relation": "become_Through",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This progression advances toward self-updating, interpretable, and scalable knowledge\necosystems that strengthen the grounding and reasoning capabilities of LLMs.\n4\nLLM-DRIVEN KNOWLEDGE EXTRACTION\nThr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "normalization",
+      "relation": "phasize",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The former em-\nphasizes normalization, structural consistency, and semantic alignment, while the latter prioritizes\nadaptability, openness, and exploratory discovery."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "tual landscape",
+      "relation": "delineate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Together, these paradigms delineate the concep-\ntual landscape of contemporary research in LLM-based knowledge extraction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "its reliance",
+      "relation": "lie_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The central principle of schema-based extraction lies in its reliance on an explicit knowledge schema\nthat provides both structural guidance and semantic constraints for the extraction process."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "clear evolution",
+      "relation": "demonstrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Within\nthis paradigm, the research trajectory demonstrates a clear evolution\u2014from the use of static onto-\nlogical blueprints toward adaptive and dynamically evolving schema frameworks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paradigm",
+      "relation": "function_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In this paradigm, the ontology functions as\na fixed semantic backbone, directing the LLM to populate the knowledge base under strict structural\nsupervision."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "ensure",
+      "relation": "utilize",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nPublished as a conference paper at ICAIS 2025\nInitial efforts, such as Kommineni et al. (2024), utilized fully predefined ontological structures to\nensure precision and interpretability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Competency Ques-",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In their pipeline, the LLM first generates Competency Ques-\ntions (CQs) to delineate the knowledge scope, constructs the corresponding ontology (TBox), and\nsubsequently performs ABox population under "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "their pipeline",
+      "relation": "generate_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In their pipeline, the LLM first generates Competency Ques-\ntions (CQs) to delineate the knowledge scope, constructs the corresponding ontology (TBox), and\nsubsequently performs ABox population under "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "enhance",
+      "relation": "seek",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Similarly, the KARMA framework (Lu & Wang, 2025) adopts a\nmulti-agent architecture, in which each agent executes schema-guided extraction tasks to guarantee\naccurate entity normalization and relation "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "staged prompting",
+      "relation": "seek_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Similarly, the KARMA framework (Lu & Wang, 2025) adopts a\nmulti-agent architecture, in which each agent executes schema-guided extraction tasks to guarantee\naccurate entity normalization and relation "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "approach",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "For instance, Feng et al. (2024) proposed a two-step \u201contology-grounded\nextraction\u201d approach: first generating a domain-specific ontology directly from text, and then lever-\naging it as a directive pr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "instance",
+      "relation": "propose_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "For instance, Feng et al. (2024) proposed a two-step \u201contology-grounded\nextraction\u201d approach: first generating a domain-specific ontology directly from text, and then lever-\naging it as a directive pr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structural align-",
+      "relation": "strengthen",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This approach strengthens structural align-\nment while maintaining partial adaptability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "localized flexibility",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nMore recent developments introduce localized flexibility within otherwise static frameworks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "static frameworks",
+      "relation": "introduce_within",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nMore recent developments introduce localized flexibility within otherwise static frameworks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "generate",
+      "relation": "utilize",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Likewise, Bhattarai et al. (2024) utilize the medical ontology UMLS to dy-\nnamically generate task-specific prompts for clinical information extraction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "foundational paradigm",
+      "relation": "form",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Although these meth-\nods introduce local adaptability, they remain bounded by pre-existing macro-schemas, representing\na transitional phase toward schema dynamism.\nIn summary, static schema-driven ext"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "summary",
+      "relation": "form_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Although these meth-\nods introduce local adaptability, they remain bounded by pre-existing macro-schemas, representing\na transitional phase toward schema dynamism.\nIn summary, static schema-driven ext"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scalability",
+      "relation": "restrict",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "However,\nits dependence on rigid ontological templates restricts scalability and cross-domain generalization."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "shift",
+      "relation": "reconceptualize",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\n4.1.2\nDYNAMIC AND ADAPTIVE SCHEMA-BASED EXTRACTION\nRecent approaches reconceptualize the schema as a dynamic, evolving component of the extraction\nprocess rather than a fixed template\u2014a shift from sc"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "dynamic evolving component",
+      "relation": "reconceptualize_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\n4.1.2\nDYNAMIC AND ADAPTIVE SCHEMA-BASED EXTRACTION\nRecent approaches reconceptualize the schema as a dynamic, evolving component of the extraction\nprocess rather than a fixed template\u2014a shift from sc"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "trend",
+      "relation": "exemplify",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "AutoSchemaKG (Bai et al., 2025) exemplifies this trend by inducing schemas from large-scale cor-\npora via unsupervised clustering and relation discovery."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "inducing",
+      "relation": "exemplify_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "AutoSchemaKG (Bai et al., 2025) exemplifies this trend by inducing schemas from large-scale cor-\npora via unsupervised clustering and relation discovery."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "multi - stage prompts",
+      "relation": "employ",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "It employs multi-stage prompts tailored\nto different relation types, enabling the schema to evolve iteratively with extracted content and im-\nproving open-domain scalability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "schema",
+      "relation": "tackle",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Building on this idea, AdaKGC (Ye et al., 2023) tackles schema\ndrift through two mechanisms: the Schema-Enriched Prefix Instruction (SPI) for context-aware\nprompting and the Schema-Constrained Dynamic"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two mechanisms",
+      "relation": "tackle_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Building on this idea, AdaKGC (Ye et al., 2023) tackles schema\ndrift through two mechanisms: the Schema-Enriched Prefix Instruction (SPI) for context-aware\nprompting and the Schema-Constrained Dynamic"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "adaptive schema learning",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Together, these methods enable adaptive schema learning, bridging symbolic structure and data-\ndriven flexibility."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "groundwork",
+      "relation": "lay",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "They lay the groundwork for continual, self-updating knowledge graph construc-\ntion where extraction and schema evolution progress synergistically."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contrast",
+      "relation": "aim_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In contrast to paradigms that depend on externally defined blueprints, schema-free extraction aims\nto acquire structured knowledge directly from unstructured text without relying on any predefined\nont"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two major trajectories",
+      "relation": "unfold_along",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The evolution of this paradigm unfolds\nalong two major trajectories: structured generative extraction and open information extraction."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "prompting",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The first trajectory, structured generative extraction, focuses on prompting LLMs to construct an\nimplicit or on-the-fly schema during generation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "model",
+      "relation": "guide",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Although no external ontology is provided, struc-\ntured reasoning patterns and generative templates guide the model toward consistent and coherent\nknowledge generation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extraction process",
+      "relation": "integrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Early studies, such as Nie et al. (2024), integrated the extraction process with Chain-of-Thought\n(CoT) prompting, encouraging stepwise reasoning for entity and relation identification."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "prompting",
+      "relation": "integrate_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Early studies, such as Nie et al. (2024), integrated the extraction process with Chain-of-Thought\n(CoT) prompting, encouraging stepwise reasoning for entity and relation identification."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "RHF",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Building on this insight, AutoRE (Xue et al., 2024) introduced an RHF (Relation\u2013Head\u2013Facts)\npipeline via instruction fine-tuning, enabling the model to internalize relational regularities and im-\nprov"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "instruction fine tuning",
+      "relation": "introduce_via",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Building on this insight, AutoRE (Xue et al., 2024) introduced an RHF (Relation\u2013Head\u2013Facts)\npipeline via instruction fine-tuning, enabling the model to internalize relational regularities and im-\nprov"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "free extraction",
+      "relation": "enhance",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Subsequent works further enhanced schema-free extraction by incorporating retrieval and interac-\ntivity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "incorporating",
+      "relation": "enhance_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Subsequent works further enhanced schema-free extraction by incorporating retrieval and interac-\ntivity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "prompting framework",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "For instance, Papaluca et al. (2024) proposed a Retrieval-Augmented prompting framework\nthat dynamically enriches the context window with semantically related exemplars, thereby improv-\ning factual pr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "instance",
+      "relation": "propose_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "For instance, Papaluca et al. (2024) proposed a Retrieval-Augmented prompting framework\nthat dynamically enriches the context window with semantically related exemplars, thereby improv-\ning factual pr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extraction",
+      "relation": "reformulate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In parallel, ChatIE (Wei et al., 2024) reformulated extraction as a multi-\nturn dialogue process, wherein the model iteratively refines entity and relation candidates through\nchained question answerin"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "parallel",
+      "relation": "reformulate_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In parallel, ChatIE (Wei et al., 2024) reformulated extraction as a multi-\nturn dialogue process, wherein the model iteratively refines entity and relation candidates through\nchained question answerin"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "turn dialogue process",
+      "relation": "reformulate_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In parallel, ChatIE (Wei et al., 2024) reformulated extraction as a multi-\nturn dialogue process, wherein the model iteratively refines entity and relation candidates through\nchained question answerin"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structured generative methods",
+      "relation": "extend",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "4.2.2\nOPEN INFORMATION EXTRACTION (OIE)\nOpen Information Extraction (OIE) extends structured generative methods toward schema-free\nextraction, aiming to discover all possible entity\u2013relation\u2013object tr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "schema free",
+      "relation": "extend_toward",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "4.2.2\nOPEN INFORMATION EXTRACTION (OIE)\nOpen Information Extraction (OIE) extends structured generative methods toward schema-free\nextraction, aiming to discover all possible entity\u2013relation\u2013object tr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "generate",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "The EDC framework (Zhang & Soh, 2024) exemplifies this paradigm: its Extract\nstage uses few-shot prompting to generate comprehensive natural-language triples, producing a raw\nopen knowledge graph that"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "coverage",
+      "relation": "prioritize",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "OIE prioritizes coverage\nand discovery over structural regularity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structural regularity",
+      "relation": "prioritize_over",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "OIE prioritizes coverage\nand discovery over structural regularity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "unstructured text",
+      "relation": "bridge",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "When combined with schema induction or canonicalization,\nit bridges unstructured text and emergent ontological organization\u2014completing the continuum from\nschema-free to schema-generative knowledge con"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three major classes",
+      "relation": "categorize_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "According\nto this distinction, existing approaches can be categorized into three major classes: schema-level\nfusion, instance-level fusion, and hybrid frameworks that integrate both."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structural backbone",
+      "relation": "unify",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "5.1\nSCHEMA-LEVEL FUSION\nSchema-level fusion unifies the structural backbone of knowledge graphs\u2014concepts, entity types,\nrelations, and attributes\u2014into a coherent and semantically consistent schema."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "coherent schema",
+      "relation": "unify_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "5.1\nSCHEMA-LEVEL FUSION\nSchema-level fusion unifies the structural backbone of knowledge graphs\u2014concepts, entity types,\nrelations, and attributes\u2014into a coherent and semantically consistent schema."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "explicit ontologies",
+      "relation": "rely_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Early work relied on explicit ontologies as global constraints."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "global constraints",
+      "relation": "rely_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Early work relied on explicit ontologies as global constraints."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "alignment",
+      "relation": "enforce",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nFor instance, Kommineni et al. (2024) enforced alignment between extracted triples and predefined\nontological definitions, achieving high semantic consistency but limited flexibility across domains."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "instance",
+      "relation": "enforce_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nFor instance, Kommineni et al. (2024) enforced alignment between extracted triples and predefined\nontological definitions, achieving high semantic consistency but limited flexibility across domains."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "greater automation",
+      "relation": "support_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "By prompting LLMs to generate natural language defini-\ntions of schema components and comparing them via vector similarity, this method supports both\nself-alignment and cross-schema mapping with great"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "summary",
+      "relation": "progress_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In summary, schema-level fusion has progressed from ontology-driven to data-driven to LLM-\nenabled paradigms\u2014marking a shift from rigid rule-based alignment toward flexible, semantics-\noriented fusion"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "driven",
+      "relation": "progress_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In summary, schema-level fusion has progressed from ontology-driven to data-driven to LLM-\nenabled paradigms\u2014marking a shift from rigid rule-based alignment toward flexible, semantics-\noriented fusion"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "LLM-",
+      "relation": "progress_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In summary, schema-level fusion has progressed from ontology-driven to data-driven to LLM-\nenabled paradigms\u2014marking a shift from rigid rule-based alignment toward flexible, semantics-\noriented fusion"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "merge",
+      "relation": "employ",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Early studies such as KGGEN (Mo et al., 2025) employed iterative LLM-guided clustering to\nmerge equivalent entities and relations beyond surface matching."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "alignment",
+      "relation": "reframe",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Later,\nLLM-Align (Chen et al., 2024) and EntGPT (Ding et al., 2025) reframed alignment as a contextual\nreasoning task, using multi-step prompting to enhance semantic discrimination."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "based fusion",
+      "relation": "leverage",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "More recent efforts incorporate structural\nand retrieval cues\u2014e.g., Pons et al. (2025) leverage RAG-based fusion to exploit class\u2013subclass\nhierarchies and entity descriptions for zero-shot disambiguat"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "shot disambiguation",
+      "relation": "leverage_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "More recent efforts incorporate structural\nand retrieval cues\u2014e.g., Pons et al. (2025) leverage RAG-based fusion to exploit class\u2013subclass\nhierarchies and entity descriptions for zero-shot disambiguat"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "hierarchical designs",
+      "relation": "improve_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Efficiency has also improved\nthrough hierarchical designs such as COMEM (Wang et al., 2024), which combines lightweight fil-\ntering with fine-grained reasoning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "substantial efficiency gains",
+      "relation": "achieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "By cascading smaller and larger LLMs in a multi-stage pipeline,\nit achieves substantial efficiency gains while maintaining high semantic accuracy in large-scale fu-\nsion tasks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "simple matchers",
+      "relation": "evolve_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Overall, LLMs have evolved from simple matchers to adaptive reasoning agents that integrate\ncontextual, structural, and retrieved signals for scalable, self-correcting fusion\u2014paving the way\ntoward aut"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "adaptive reasoning agents",
+      "relation": "evolve_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Overall, LLMs have evolved from simple matchers to adaptive reasoning agents that integrate\ncontextual, structural, and retrieved signals for scalable, self-correcting fusion\u2014paving the way\ntoward aut"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "based paradigm",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "More recently, Graphusion (Yang et al., 2024) introduces a unified,\nprompt-based paradigm that performs all fusion subtasks\u2014alignment, consolidation, and infer-\nence\u2014within a single generative cycle."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "shift",
+      "relation": "signal",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "\nTogether, these frameworks signal a shift toward integrated, adaptive, and generative fusion sys-\ntems, marking a crucial step toward autonomous, self-evolving knowledge graphs capable of con-\ntinuou"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "deeper intelligent interaction",
+      "relation": "advance_toward",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "FUTURE APPLICATIONS\nResearch at the intersection of Large Language Models (LLMs) and Knowledge Graphs (KGs)\nis progressively advancing toward deeper intelligent interaction and greater autonomy in kno"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "integrate",
+      "relation": "expect",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Published as a conference paper at ICAIS 2025\n6.1\nKNOWLEDGE GRAPH-BASED REASONING FOR LLMS\nFuture work is expected to further integrate structured KGs into the reasoning mechanisms of LLMs,\nenhancing "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "enhanced",
+      "relation": "lie_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "A crucial complementary challenge, however, lies in how enhanced\nreasoning abilities can in turn support more robust and automated KG construction\u2014forming a self-\nimproving, virtuous cycle between kno"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "knowledge graph",
+      "relation": "envision",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Recent architectures envision the knowledge graph\n(KG) as a dynamic memory substrate, evolving continuously with agent interactions rather than\nstoring static histories."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "dynamic memory substrate",
+      "relation": "envision_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Recent architectures envision the knowledge graph\n(KG) as a dynamic memory substrate, evolving continuously with agent interactions rather than\nstoring static histories."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "memory",
+      "relation": "model",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Frameworks such as A-MEM (Xu et al., 2025) model memory as intercon-\nnected \u201cnotes\u201d enriched with contextual metadata, enabling continual reorganization and growth."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "manage",
+      "relation": "employ",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Similarly, Zep (Rasmussen et al., 2025) employs a temporal knowledge graph (TKG) to manage\nfact validity and support time-aware reasoning and updates."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "dynamic KGs",
+      "relation": "highlight",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "These advances highlight dynamic KGs\nas long-term, interpretable memory systems that enable continuous learning, multi-agent collab-\noration, and self-reflective reasoning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "improving",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Future work will focus on improving scalability, temporal\ncoherence, and multimodal integration for fully autonomous, knowledge-grounded agents."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "integrate",
+      "relation": "aim",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "6.3\nMULTIMODAL KNOWLEDGE GRAPH CONSTRUCTION\nMultimodal Knowledge Graph (MMKG) construction aims to integrate heterogeneous modali-\nties\u2014such as text, images, audio, and video\u2014into unified, structured "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "VaLiK",
+      "relation": "include",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Representative work includes VaLiK (Vision-align-\nto-Language integrated KG) (Liu et al., 2025), which cascades pretrained Vision-Language Models\n(VLMs) to translate visual features into textual form,"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "image linkage",
+      "relation": "achieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This process achieves entity\u2013image linkage without manual\nannotation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "manual",
+      "relation": "achieve_without",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This process achieves entity\u2013image linkage without manual\nannotation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "modality heterogeneity",
+      "relation": "remain_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Key challenges remain in modality heterogeneity, alignment noise, scal-\nability, and robustness under missing or imbalanced modalities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "cornerstone",
+      "relation": "become",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "As LLMs and VLMs continue to\nco-evolve, MMKGs will become a cornerstone for bridging perceptual input and symbolic reasoning\nacross modalities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "their use",
+      "relation": "envision_Beyond",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Beyond their use as retrieval backbones in RAG systems, Knowledge Graphs (KGs) are increasingly\nenvisioned as a cognitive middle layer bridging raw input and LLM reasoning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "cognitive middle layer",
+      "relation": "envision_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Beyond their use as retrieval backbones in RAG systems, Knowledge Graphs (KGs) are increasingly\nenvisioned as a cognitive middle layer bridging raw input and LLM reasoning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structured scaffold",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In this paradigm,\nKGs provide a structured scaffold for querying, planning, and decision-making, enabling more\ninterpretable and grounded generation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "shift",
+      "relation": "illustrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Recent studies illustrate this shift."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "recommendation",
+      "relation": "formulate",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "CogER (Bing et al.,\n2023) formulates recommendation as cognition-aware KG reasoning, integrating intuitive and path-\nbased inference for explainability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "aware KG reasoning",
+      "relation": "formulate_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "CogER (Bing et al.,\n2023) formulates recommendation as cognition-aware KG reasoning, integrating intuitive and path-\nbased inference for explainability."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "domain KGs",
+      "relation": "employ",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In the biomedical domain, PKG-LLM (Sarabadani et al., 2025)\nemploys domain KGs for knowledge augmentation and predictive modeling in mental health diag-\nnostics."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "biomedical domain",
+      "relation": "employ_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In the biomedical domain, PKG-LLM (Sarabadani et al., 2025)\nemploys domain KGs for knowledge augmentation and predictive modeling in mental health diag-\nnostics."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "knowledge augmentation",
+      "relation": "employ_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "In the biomedical domain, PKG-LLM (Sarabadani et al., 2025)\nemploys domain KGs for knowledge augmentation and predictive modeling in mental health diag-\nnostics."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KG",
+      "relation": "treat",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Together, these approaches treat the KG as an interactive reasoning substrate, promising\nmore robust and explainable generation in domains such as science, code, and healthcare."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "interactive reasoning substrate",
+      "relation": "treat_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Together, these approaches treat the KG as an interactive reasoning substrate, promising\nmore robust and explainable generation in domains such as science, code, and healthcare."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comprehensive overview",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "This survey presents a comprehensive overview of how Large Language Models (LLMs) are trans-\nforming Knowledge Graph (KG) construction across ontology engineering, knowledge extraction,\nand knowledge "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "paradigm",
+      "relation": "shift",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "LLMs shift the paradigm from rule-based and modular pipelines toward\nunified, adaptive, and generative frameworks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "based pipelines",
+      "relation": "shift_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "LLMs shift the paradigm from rule-based and modular pipelines toward\nunified, adaptive, and generative frameworks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "stages",
+      "relation": "emerge_Across",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Across these stages, three trends emerge: (1) the"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KGs",
+      "relation": "redefine",
+      "relation_type": "direct_action",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "gether, these shifts redefine KGs as living, cognitive infrastructures that blend language under-\nstanding with structured reasoning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "living",
+      "relation": "redefine_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "gether, these shifts redefine KGs as living, cognitive infrastructures that blend language under-\nstanding with structured reasoning."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "remarkable progress",
+      "relation": "remain_Despite",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Despite remarkable progress, challenges remain in scalability,\nreliability, and continual adaptation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scalability",
+      "relation": "remain_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "unknown",
+      "confidence": 0.5,
+      "sentence": "Despite remarkable progress, challenges remain in scalability,\nreliability, and continual adaptation."
+    }
+  ],
+  "metadata": {
+    "paper": "LLM_KGC_Survey",
+    "method": "B1_spacy",
+    "seed": 2,
+    "node_count": 746,
+    "edge_count": 191,
+    "cost_usd": 0.0
+  }
+}

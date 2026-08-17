@@ -1,0 +1,19 @@
+{
+  "paper": "GraphRAG_Survey",
+  "method": "B4_hybrid",
+  "n_runs": 3,
+  "mean_ged": 0.0,
+  "std_ged": 0.0,
+  "min_ged": 0.0,
+  "max_ged": 0.0,
+  "node_counts": [
+    728,
+    728,
+    728
+  ],
+  "edge_counts": [
+    264,
+    264,
+    264
+  ]
+}

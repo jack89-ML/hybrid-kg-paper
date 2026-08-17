@@ -1,0 +1,5186 @@
+{
+  "nodes": [
+    {
+      "id": "KGGen",
+      "label": "KGGen",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Language Models",
+      "label": "Language Models",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Belinda",
+      "label": "Belinda",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kyssen Yu\u00b2",
+      "label": "Kyssen Yu",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Joshua Kazdan\u00b9",
+      "label": "Joshua Kazdan",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Joan",
+      "label": "Joan",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Proud Mpala1",
+      "label": "Proud Mpala",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lisa Yu2",
+      "label": "Lisa Yu",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Chris",
+      "label": "Chris",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Charilaos Kanatsoulis1",
+      "label": "Charilaos Kanatsoulis",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Sanmi",
+      "label": "Sanmi",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1Stanford University",
+      "label": "Stanford University",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Toronto",
+      "label": "Toronto",
+      "category": "Location",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3Independent",
+      "label": "Independent",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "NLP",
+      "label": "Natural Language Processing",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Measure of Information",
+      "label": "Measure of Information",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "first",
+      "label": "first",
+      "category": "Ordinal",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KG",
+      "label": "Knowledge Graph",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Microsoft",
+      "label": "Microsoft Corporation",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "GraphRAG",
+      "label": "GraphRAG",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Retrieval-Augmented Generation",
+      "label": "Retrieval-Augmented Generation",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Schneider",
+      "label": "Schneider",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1973",
+      "label": "1973",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wikidata",
+      "label": "Wikidata",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2024",
+      "label": "2024",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "DBpedia",
+      "label": "DBpedia",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lehmann et al.",
+      "label": "Lehmann et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2015",
+      "label": "2015",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "YAGO",
+      "label": "YAGO",
+      "category": "Concept",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Suchanek et al.",
+      "label": "Suchanek et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2007",
+      "label": "2007",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2021",
+      "label": "2021",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Angeli et al.",
+      "label": "Angeli et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Larson",
+      "label": "Larson",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Truitt",
+      "label": "Truitt",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "First",
+      "label": "First",
+      "category": "Ordinal",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "39th",
+      "label": "39th",
+      "category": "Ordinal",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2025",
+      "label": "2025",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "CL",
+      "label": "CL",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6 Nov 2025",
+      "label": "6 Nov 2025",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wang et al.",
+      "label": "Wang et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2012",
+      "label": "2012",
+      "category": "Date",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "two",
+      "label": "two",
+      "category": "Other",
+      "confidence": 0.5,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "second",
+      "label": "second",
+      "category": "Ordinal",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "multi-million",
+      "label": "multi-million",
+      "category": "Other",
+      "confidence": 0.6,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Python",
+      "label": "Python",
+      "category": "Software",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2",
+      "label": "two",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3",
+      "label": "three",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Maedche",
+      "label": "Maedche",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Staab",
+      "label": "Staab",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2001",
+      "label": "2001",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the last 15 years",
+      "label": "the last 15 years",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Wikipedia",
+      "label": "Wikipedia",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "five million",
+      "label": "five million",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "today",
+      "label": "today",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Norabid",
+      "label": "Norabid",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Fauzi",
+      "label": "Fauzi",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2022",
+      "label": "2022",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Oramas et al.",
+      "label": "Oramas et al.",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Stanford KBP",
+      "label": "Stanford Knowledge-Based Program",
+      "category": "Person",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2013",
+      "label": "2013",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "early as 2015",
+      "label": "early as 2015",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Domeniconi et al.",
+      "label": "Domeniconi et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qiao et al.",
+      "label": "Qiao et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Arsenyan",
+      "label": "Arsenyan",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2023",
+      "label": "2023",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhang",
+      "label": "Zhang",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Soh",
+      "label": "Soh",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Kommineni et al.",
+      "label": "Kommineni et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Lin et al.",
+      "label": "Lin et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the late 2000s",
+      "label": "the late 2000s",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGEval",
+      "label": "KGEval",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Ojha",
+      "label": "Ojha",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Talukdar",
+      "label": "Talukdar",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2017",
+      "label": "2017",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Two",
+      "label": "two",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Gao",
+      "label": "Gao",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2018",
+      "label": "2018",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Monte-Carlo",
+      "label": "Monte-Carlo",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Qi et al.",
+      "label": "Qi et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Issa et al.",
+      "label": "Issa et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "recent years",
+      "label": "recent years",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2020",
+      "label": "2020",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the LP-Measure",
+      "label": "the LP-Measure",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGTtm",
+      "label": "KGTtm",
+      "category": "Location",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Zhu et al.",
+      "label": "Zhu et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LP-Measure",
+      "label": "LP-Measure",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Jia et al",
+      "label": "Jia et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2019",
+      "label": "2019",
+      "category": "Date",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Knowledge Graph Evaluation",
+      "label": "Knowledge Graph Evaluation",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Heist et al.",
+      "label": "Heist et al.",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Tan et al",
+      "label": "Tan et al.",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3.1",
+      "label": "3.1",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Stanford",
+      "label": "Stanford University",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Angeli",
+      "label": "Angeli",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3.2",
+      "label": "3.2",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "LLM",
+      "label": "Large Language Model",
+      "category": "Concept",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4.1",
+      "label": "4.1",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Google",
+      "label": "Google LLC",
+      "category": "Organization",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Gemini",
+      "label": "Gemini",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4.2",
+      "label": "4.2",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4.3",
+      "label": "4.3",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "S-BERT",
+      "label": "S-BERT",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "128",
+      "label": "128",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1-3",
+      "label": "1-3",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Olympic Winter Games",
+      "label": "Olympic Winter Games",
+      "category": "Event",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Winter Olympics",
+      "label": "Winter Olympics",
+      "category": "Event",
+      "confidence": 0.95,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "winter Olympic",
+      "label": "Winter Olympics",
+      "category": "Event",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KGs",
+      "label": "Knowledge Graphs",
+      "category": "Concept",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "MINE-2",
+      "label": "MINE-2",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "100",
+      "label": "100",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "592",
+      "label": "592",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "85",
+      "label": "85",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "440",
+      "label": "440",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Arts, Culture & Society",
+      "label": "Arts, Culture & Society",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "24",
+      "label": "24",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Science",
+      "label": "Science",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "27",
+      "label": "27",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Technology",
+      "label": "Technology",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Psychology/Human Experience",
+      "label": "Psychology/Human Experience",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "18",
+      "label": "18",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "History & Civilization",
+      "label": "History & Civilization",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "SentenceTransformers",
+      "label": "SentenceTransformers",
+      "category": "Organization",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0",
+      "label": "0",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "60",
+      "label": "60",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "90.2%",
+      "label": "90.2%",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.80",
+      "label": "0.80",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5.2",
+      "label": "5.2",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KG-Assisted",
+      "label": "KG-Assisted",
+      "category": "Concept",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Yang et al",
+      "label": "Yang et al.",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "20,400",
+      "label": "20,400",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1,995",
+      "label": "1,995",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Appendix B. Finally",
+      "label": "Appendix B. Finally",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "GraphRAG Larson",
+      "label": "GraphRAG Larson",
+      "category": "Person",
+      "confidence": 0.85,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6.1",
+      "label": "6.1",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "OpenIE",
+      "label": "Open Information Extraction",
+      "category": "Software",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Claude Sonnet 3.5",
+      "label": "Claude Sonnet 3.5",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "73%",
+      "label": "73%",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "66.07%",
+      "label": "66.07%",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "GraphRag",
+      "label": "GraphRag",
+      "category": "Organization",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "47.80%",
+      "label": "47.80%",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "29.84%",
+      "label": "29.84%",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Claude Sonnet 3.5\n73\nGPT-4o\n",
+      "label": "Claude Sonnet 3.5",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "66",
+      "label": "66",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "44",
+      "label": "44",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "98%",
+      "label": "98%",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0/100",
+      "label": "0/100",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0%",
+      "label": "0%",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "55%",
+      "label": "55%",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6.2",
+      "label": "6.2",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6.3",
+      "label": "6.3",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Task 8",
+      "label": "Task 8",
+      "category": "Product",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "only 5",
+      "label": "only 5",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Eurasia",
+      "label": "Eurasia",
+      "category": "Location",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "96%",
+      "label": "96%",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Achille Bonito Oliva",
+      "label": "Achille Bonito Oliva",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Achille Bonito Oliva\u2019",
+      "label": "Achille Bonito Oliva",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6.4",
+      "label": "6.4",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Table 1",
+      "label": "Table 1",
+      "category": "Event",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6b",
+      "label": "6b",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6e",
+      "label": "6e",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6a",
+      "label": "6a",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6d",
+      "label": "6d",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6c",
+      "label": "6c",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "one",
+      "label": "one",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Firstly",
+      "label": "Firstly",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6f",
+      "label": "6f",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "8",
+      "label": "8",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "The Chemistry of\nCooking",
+      "label": "The Chemistry of Cooking",
+      "category": "Work of Art",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "The Chemistry\nof Cooking",
+      "label": "The Chemistry of Cooking",
+      "category": "Work of Art",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6.5",
+      "label": "6.5",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "three",
+      "label": "three",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "10 000",
+      "label": "10 000",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1 000 000",
+      "label": "1 000 000",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "6.6",
+      "label": "6.6",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "The Name of the Wind",
+      "label": "The Name of the Wind",
+      "category": "Work of Art",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Patrick\nRothfuss",
+      "label": "Patrick Rothfuss",
+      "category": "Person",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Corpus Size",
+      "label": "Corpus Size",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1.000",
+      "label": "1.000",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1,000",
+      "label": "1,000",
+      "category": "Other",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.900",
+      "label": "0.900",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "10,000",
+      "label": "10000",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "90",
+      "label": "90",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "78",
+      "label": "78",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.867",
+      "label": "0.867",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "75",
+      "label": "75",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.962",
+      "label": "0.962",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "62",
+      "label": "62",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "57",
+      "label": "57",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.919",
+      "label": "0.919",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "100,000",
+      "label": "100000",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "727",
+      "label": "727",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "604",
+      "label": "604",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.831",
+      "label": "0.831",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "926",
+      "label": "926",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "924",
+      "label": "924",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.998",
+      "label": "0.998",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "498",
+      "label": "498",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "424",
+      "label": "424",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.851",
+      "label": "0.851",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1,000,000",
+      "label": "1000000",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4,602",
+      "label": "4602",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3,573",
+      "label": "3573",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.776",
+      "label": "0.776",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "8,137",
+      "label": "8137",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "8,094",
+      "label": "8094",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.995",
+      "label": "0.995",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3,180",
+      "label": "3180",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2,448",
+      "label": "2448",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.770",
+      "label": "0.770",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "22.4%",
+      "label": "22.4%",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "23%",
+      "label": "23%",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1M",
+      "label": "1M",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "KG Extraction",
+      "label": "KG Extraction",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1.59",
+      "label": "1.59",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.63",
+      "label": "0.63",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.22",
+      "label": "2.22",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "273",
+      "label": "273",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.46",
+      "label": "0.46",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Entity/Edge Resolution",
+      "label": "Entity/Edge Resolution",
+      "category": "Organization",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2.93",
+      "label": "2.93",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.22",
+      "label": "0.22",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3.15",
+      "label": "3.15",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "279",
+      "label": "279",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "11,304",
+      "label": "11304",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.38",
+      "label": "0.38",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "4.52",
+      "label": "4.52",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.85",
+      "label": "0.85",
+      "category": "Other",
+      "confidence": 1.0,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "5.37",
+      "label": "5.37",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "551",
+      "label": "551",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "9,739",
+      "label": "9739",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "0.84",
+      "label": "0.84",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Table 4",
+      "label": "Table 4",
+      "category": "Other",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "1.89",
+      "label": "1.89",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "3.01",
+      "label": "3.01",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "29.71",
+      "label": "29.71",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "80",
+      "label": "80",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "99",
+      "label": "99",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "205.12",
+      "label": "205.12",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "514",
+      "label": "514",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "981",
+      "label": "981",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "966",
+      "label": "966",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2,079.17",
+      "label": "2079.17",
+      "category": "Metric",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "2,319 seconds",
+      "label": "2319 seconds",
+      "category": "Time",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "the 1M",
+      "label": "the 1M",
+      "category": "Other",
+      "confidence": 0.7,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "551 seconds",
+      "label": "551 seconds",
+      "category": "Time",
+      "confidence": 0.9,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "Broader Impact and Community Adoption",
+      "label": "Broader Impact and Community Adoption",
+      "category": "Organization",
+      "confidence": 0.8,
+      "source": "spacy_ner"
+    },
+    {
+      "id": "We",
+      "label": "We",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "novel generator",
+      "label": "novel generator",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "we",
+      "label": "we",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "first benchmark",
+      "label": "first benchmark",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "with",
+      "label": "with",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comparable retrieval accuracy",
+      "label": "comparable retrieval accuracy",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "our graphs",
+      "label": "our graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "concise entities",
+      "label": "concise entities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "lack",
+      "label": "lack",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "serious challenge",
+      "label": "serious challenge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Several synthetic extractors",
+      "label": "Several synthetic extractors",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "address",
+      "label": "address",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "This",
+      "label": "This",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "graphs",
+      "label": "graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "it",
+      "label": "it",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "novel iterative clustering algorithm",
+      "label": "novel iterative clustering algorithm",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extracting",
+      "label": "extracting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "nodes",
+      "label": "nodes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "nascent field",
+      "label": "nascent field",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "benchmarks",
+      "label": "benchmarks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge retrieval capabilities",
+      "label": "knowledge retrieval capabilities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scaling properties",
+      "label": "scaling properties",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "respect",
+      "label": "respect",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "source package",
+      "label": "source package",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KG extraction",
+      "label": "KG extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "significant advances",
+      "label": "significant advances",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based approaches",
+      "label": "based approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "last 15 years",
+      "label": "last 15 years",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "coded rules",
+      "label": "coded rules",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "development",
+      "label": "development",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "advanced approaches",
+      "label": "advanced approaches",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": ".",
+      "label": ".",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "logic inference",
+      "label": "logic inference",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "another seminal early approach",
+      "label": "another seminal early approach",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "estimation",
+      "label": "estimation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "method",
+      "label": "method",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Early evaluation methods",
+      "label": "Early evaluation methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "assessing",
+      "label": "assessing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "research",
+      "label": "research",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "late 2000s",
+      "label": "late 2000s",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "evaluations",
+      "label": "evaluations",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "expert annotations",
+      "label": "expert annotations",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "selecting",
+      "label": "selecting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "be",
+      "label": "be",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "accuracy approximation methods",
+      "label": "accuracy approximation methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "this",
+      "label": "this",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "more pressure",
+      "label": "more pressure",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "more evaluation metrics",
+      "label": "more evaluation metrics",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "characterize",
+      "label": "characterize",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "evaluation",
+      "label": "evaluation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their role",
+      "label": "their role",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "semantic coherence",
+      "label": "semantic coherence",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "key criteria",
+      "label": "key criteria",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LP Measure",
+      "label": "LP Measure",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "prediction tasks",
+      "label": "prediction tasks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "removing",
+      "label": "removing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KGTtm model",
+      "label": "KGTtm model",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "coherence",
+      "label": "coherence",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "other hand",
+      "label": "other hand",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "knowledge graph",
+      "label": "knowledge graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KGrEaT",
+      "label": "KGrEaT",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comprehensive ment",
+      "label": "comprehensive ment",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "evaluating",
+      "label": "evaluating",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "DiffQ",
+      "label": "DiffQ",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "embedding",
+      "label": "embedding",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "contrast",
+      "label": "contrast",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "two popular existing methods",
+      "label": "two popular existing methods",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "It",
+      "label": "It",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "dependency parse",
+      "label": "dependency parse",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "trained classifier",
+      "label": "trained classifier",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each edge",
+      "label": "each edge",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "decisions",
+      "label": "decisions",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "complex sentences",
+      "label": "complex sentences",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "shorter contained clauses",
+      "label": "shorter contained clauses",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "system",
+      "label": "system",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "tuples",
+      "label": "tuples",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "clauses",
+      "label": "clauses",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "text",
+      "label": "text",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "any format",
+      "label": "any format",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "3.2 GraphRAG GraphRAG",
+      "label": "3.2 GraphRAG GraphRAG",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "based knowledge retrieval",
+      "label": "based knowledge retrieval",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "functionality",
+      "label": "functionality",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "first step",
+      "label": "first step",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "graph",
+      "label": "graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "process",
+      "label": "process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "prompting",
+      "label": "prompting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "shot prompting",
+      "label": "shot prompting",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LM",
+      "label": "LM",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extraction",
+      "label": "extraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "examples",
+      "label": "examples",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "final graph",
+      "label": "final graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "multi - stage approach",
+      "label": "multi - stage approach",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "strong constraints",
+      "label": "strong constraints",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "multiple passes",
+      "label": "multiple passes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "our extracted edges",
+      "label": "our extracted edges",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "resolution",
+      "label": "resolution",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "formation",
+      "label": "formation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "exact prompts",
+      "label": "exact prompts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Appendix A",
+      "label": "Appendix A",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Google 2.0 Flash",
+      "label": "Google 2.0 Flash",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "language model",
+      "label": "language model",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "source text",
+      "label": "source text",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "second step",
+      "label": "second step",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "list",
+      "label": "list",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Each step",
+      "label": "Each step",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "DSPy signature",
+      "label": "DSPy signature",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unique entities",
+      "label": "unique entities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "All entities",
+      "label": "All entities",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "aggregation step",
+      "label": "aggregation step",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "redundancy",
+      "label": "redundancy",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "raw graph",
+      "label": "raw graph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Our resolution process",
+      "label": "Our resolution process",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "stage approach",
+      "label": "stage approach",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "semantic embeddings",
+      "label": "semantic embeddings",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "similar items",
+      "label": "similar items",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each item",
+      "label": "each item",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "identify",
+      "label": "identify",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "canonical representative",
+      "label": "canonical representative",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each set",
+      "label": "each set",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "item",
+      "label": "item",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "cluster",
+      "label": "cluster",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "approach",
+      "label": "approach",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "duplication",
+      "label": "duplication",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "even",
+      "label": "even",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Measure",
+      "label": "Measure",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "remedy",
+      "label": "remedy",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "second measures",
+      "label": "second measures",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "tasks",
+      "label": "tasks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Retention MINE-1",
+      "label": "Retention MINE-1",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "fraction",
+      "label": "fraction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "MINE-1",
+      "label": "MINE-1",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "100 articles",
+      "label": "100 articles",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "articles",
+      "label": "articles",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "mean length",
+      "label": "mean length",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "corresponding KG",
+      "label": "corresponding KG",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each article",
+      "label": "each article",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "15 facts",
+      "label": "15 facts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KG extractor",
+      "label": "KG extractor",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "verifier",
+      "label": "verifier",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "similar nodes",
+      "label": "similar nodes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each fact",
+      "label": "each fact",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "subgraph",
+      "label": "subgraph",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "its reliability",
+      "label": "its reliability",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scoring",
+      "label": "scoring",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "full evaluation pipeline",
+      "label": "full evaluation pipeline",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "5 Figure 2",
+      "label": "5 Figure 2",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Figure 2",
+      "label": "Figure 2",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "single KG",
+      "label": "single KG",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "top 10 relevant triples",
+      "label": "top 10 relevant triples",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each question",
+      "label": "each question",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "cosine similarity",
+      "label": "cosine similarity",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "relevance score",
+      "label": "relevance score",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "their associated text chunks",
+      "label": "their associated text chunks",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "LM responses",
+      "label": "LM responses",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "using",
+      "label": "using",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "included",
+      "label": "included",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comparison",
+      "label": "comparison",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "benchmark KGGen",
+      "label": "benchmark KGGen",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "leading",
+      "label": "leading",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "qualitative results",
+      "label": "qualitative results",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "providing",
+      "label": "providing",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "6.1 Evaluations",
+      "label": "6.1 Evaluations",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "accuracies",
+      "label": "accuracies",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "its performance",
+      "label": "its performance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Dotted vertical lines",
+      "label": "Dotted vertical lines",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "average performance",
+      "label": "average performance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "66.07 %",
+      "label": "66.07 %",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "average",
+      "label": "average",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KGGen extraction methodology",
+      "label": "KGGen extraction methodology",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "different foundation models",
+      "label": "different foundation models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "all tested models",
+      "label": "all tested models",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "reasonable extraction quality",
+      "label": "reasonable extraction quality",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "performance Figure 5",
+      "label": "performance Figure 5",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "comparable performance",
+      "label": "comparable performance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "experi- ments",
+      "label": "experi- ments",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "100 sentences",
+      "label": "100 sentences",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extract",
+      "label": "extract",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Our evaluation",
+      "label": "Our evaluation",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "extraction accuracy",
+      "label": "extraction accuracy",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "detailed entity descriptions",
+      "label": "detailed entity descriptions",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "to",
+      "label": "to",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "ambitious Eurasia exhibition",
+      "label": "ambitious Eurasia exhibition",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "example",
+      "label": "example",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "sentence",
+      "label": "sentence",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "idea",
+      "label": "idea",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "entities exhibition",
+      "label": "entities exhibition",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "fundamental quality",
+      "label": "fundamental quality",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "examining",
+      "label": "examining",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "100 triples",
+      "label": "100 triples",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each method",
+      "label": "each method",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "results",
+      "label": "results",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "structures",
+      "label": "structures",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "GraphRAG comparable performance",
+      "label": "GraphRAG comparable performance",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "few nodes",
+      "label": "few nodes",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Figure 6a",
+      "label": "Figure 6a",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "sections",
+      "label": "sections",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "compression",
+      "label": "compression",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Figure 6c",
+      "label": "Figure 6c",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "some",
+      "label": "some",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "unrelated concepts",
+      "label": "unrelated concepts",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "being",
+      "label": "being",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "three knowledge graphs",
+      "label": "three knowledge graphs",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "each an average",
+      "label": "each an average",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "its computational efficiency",
+      "label": "its computational efficiency",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scale extraction task",
+      "label": "scale extraction task",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Name",
+      "label": "Name",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "novel",
+      "label": "novel",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Table 2",
+      "label": "Table 2",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "KGGen de duplication effectiveness",
+      "label": "KGGen de duplication effectiveness",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "scale",
+      "label": "scale",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "9 % reduction",
+      "label": "9 % reduction",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "complete novel",
+      "label": "complete novel",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "analysis",
+      "label": "analysis",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "contribution",
+      "label": "contribution",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "nearly",
+      "label": "nearly",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    },
+    {
+      "id": "Our work",
+      "label": "Our work",
+      "category": "unknown",
+      "confidence": 0.5,
+      "source": "inferred"
+    }
+  ],
+  "edges": [
+    {
+      "source": "dependency_parse",
+      "target": "novel generator",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We present\nKGGen, a novel text-to-knowledge-graph generator that uses language models to\nextract high-quality graphs from plain text with a novel entity resolution approach\nthat clusters related entit"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "first benchmark",
+      "relation": "release",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Along with KGGen, we release\nMeasure of Information in Nodes and Edges (MINE), the first benchmark to test an\nextractor\u2019s ability to produce a useful KG from plain text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "with",
+      "relation": "release_Along",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "Along with KGGen, we release\nMeasure of Information in Nodes and Edges (MINE), the first benchmark to test an\nextractor\u2019s ability to produce a useful KG from plain text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comparable retrieval accuracy",
+      "relation": "achieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "We benchmark our new\ntool against leading existing generators such as Microsoft\u2019s GraphRAG; we achieve\ncomparable retrieval accuracy on the generated graphs and better information re-\ntention."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "concise entities",
+      "relation": "exhibit",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Moreover, our graphs exhibit more concise and generalizable entities and\nrelations."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "serious challenge",
+      "relation": "pose",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.85,
+      "sentence": "The lack of domain-specific and\nverified graph data poses a serious challenge for downstream tasks such as KG embeddings, graph\nRAG, and synthetic graph training data.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "address",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Several synthetic plain-text-to-KG extractors have been proposed to address KG scarcity, most\nprominently including OpenIE [Angeli et al., 2015] and Microsoft\u2019s GraphRAG"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "graphs",
+      "relation": "lead_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.8,
+      "sentence": "This leads to graphs with nearly\nas many unique relation types as edges, resulting in sparse, disconnected knowledge representations\nthat limit their utility for downstream tasks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KGGen",
+      "relation": "propose",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "To solve this problem, we propose KGGen, a text-\nto-knowledge-graph generator that leverages language models (LMs) and an algorithm for entity\nand edge resolution to extract high-quality, dense KGs fr"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "novel iterative clustering algorithm",
+      "relation": "apply",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "First, KGGen uses an LM-based\nextractor to read unstructured text and predict subject-predicate-object triples to capture entities and\nrelations; after extracting the triples, it applies a novel, iter"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extracting",
+      "relation": "apply_after",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "First, KGGen uses an LM-based\nextractor to read unstructured text and predict subject-predicate-object triples to capture entities and\nrelations; after extracting the triples, it applies a novel, iter"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "nodes",
+      "relation": "identify",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "Inspired by crowd-sourcing strategies for entity resolution [Wang et al., 2012], KGGen\nidentifies nodes that refer to the same underlying entities, and consolidates edges that have equivalent\nmeanings"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "benchmarks",
+      "relation": "lack",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "The nascent field of plain-text-to-knowledge graph extraction currently lacks benchmarks to measure\nthe fidelity of KG generation from text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "knowledge retrieval capabilities",
+      "relation": "measure",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "To close this gap, we provide two new benchmarks: the first\ncaptures information retention from short texts; the second, based on WikiQA, measures knowledge\nretrieval capabilities for graphs generated"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "GraphRAG",
+      "relation": "perform",
+      "relation_type": "direct_action",
+      "relation_subtype": "comparative",
+      "confidence": 0.85,
+      "sentence": "On these benchmarks, KGGen performs comparably to GraphRAG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "benchmarks",
+      "relation": "perform_On",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "On these benchmarks, KGGen performs comparably to GraphRAG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scaling properties",
+      "relation": "exhibit",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "However, KGGen exhibits far\nbetter scaling properties with respect to information compression and graph sparsity as the plain-text\ndatabase length increases.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "respect",
+      "relation": "exhibit_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "However, KGGen exhibits far\nbetter scaling properties with respect to information compression and graph sparsity as the plain-text\ndatabase length increases.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "source package",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We introduce KGGen, an open-source package that uses LMs to extract high-quality KGs\nfrom plain text."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "benchmarks",
+      "relation": "develop",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We develop benchmarks to drive improvements in plain-text-to-knowledge-graph extraction,\nand measure KGGen\u2019s performance on these benchmarks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "significant advances",
+      "relation": "see",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "KG\nextraction from unstructured text has seen significant advances through rule-based and LM-powered\napproaches in the last 15 years."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "based approaches",
+      "relation": "see_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "KG\nextraction from unstructured text has seen significant advances through rule-based and LM-powered\napproaches in the last 15 years."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "last 15 years",
+      "relation": "see_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.9,
+      "sentence": "KG\nextraction from unstructured text has seen significant advances through rule-based and LM-powered\napproaches in the last 15 years."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "development",
+      "relation": "cede_With",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "With the development of modern natural language processing, hard-coded\nrules generally ceded to more advanced approaches based on neural networks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "advanced approaches",
+      "relation": "cede_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "With the development of modern natural language processing, hard-coded\nrules generally ceded to more advanced approaches based on neural networks."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "logic inference",
+      "relation": "run",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "For instance, OpenIE\n[Angeli et al., 2015] provides a two-tiered extraction system: first, self-contained clauses are identified\nby a classifier; then, [Angeli et al., 2015] run natural logic inferenc"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "another seminal early approach",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "Stanford KBP [Angeli et al., 2013] presents another\nseminal early approach to using deep networks for entity extraction.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "estimation",
+      "relation": "cause",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.8,
+      "sentence": "This causes the\nestimation of embeddings to be under-specified."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "method",
+      "relation": "develop",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "We develop a method for automatic KG extraction\nfrom plain text that clusters similar nodes and edges to prevent this under-specification."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "assessing",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Early evaluation methods focused primarily on directly assessing aspects\nsuch as completeness and connectivity or using rule-based statistical methods, while recent approaches\nemphasize usability in d"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "late 2000s",
+      "relation": "focus_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "In the late 2000s, research focused on assessing the correctness and consistency of KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "assessing",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "In the late 2000s, research focused on assessing the correctness and consistency of KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "expert annotations",
+      "relation": "rely_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "The\nevaluations relied on expert annotations by selecting random facts from the generated KG and then\ncalculating the accuracy of those facts."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "selecting",
+      "relation": "rely_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.6,
+      "sentence": "The\nevaluations relied on expert annotations by selecting random facts from the generated KG and then\ncalculating the accuracy of those facts."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "be",
+      "relation": "prove",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "This proved to be laborious and\nprone to errors."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "accuracy approximation methods",
+      "relation": "lead_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "causal",
+      "confidence": 0.8,
+      "sentence": "This led to accuracy approximation methods like KGEval [Ojha and Talukdar, 2017]\nand Two-State Weight Clustering Sampling(TWCS)"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "more pressure",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.8,
+      "sentence": "As the KGs became larger\n2\nand more diverse, particularly with the rise of automated extraction techniques from web data, this\ngenerated more pressure on annotators, leading to methods like Monte-Carl"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "characterize",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "Furthermore, because accuracy alone did not\nfully capture the complexity of the knowledge graph, more evaluation metrics like completeness were\nused to characterize the quality of knowledge graphs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": ".",
+      "relation": "focus",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "In recent years, the evaluation of knowledge graphs (KGs) has increasingly focused on their role\nin downstream AI applications, such as augmenting language models [Schneider et al., 2022] and\nrecommen"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "recent years",
+      "relation": "focus_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.9,
+      "sentence": "In recent years, the evaluation of knowledge graphs (KGs) has increasingly focused on their role\nin downstream AI applications, such as augmenting language models [Schneider et al., 2022] and\nrecommen"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "their role",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "In recent years, the evaluation of knowledge graphs (KGs) has increasingly focused on their role\nin downstream AI applications, such as augmenting language models [Schneider et al., 2022] and\nrecommen"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "key criteria",
+      "relation": "become",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "As a result, semantic coherence and usability have become\nkey criteria for assessing the quality of extracted knowledge graphs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "result",
+      "relation": "become_As",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "As a result, semantic coherence and usability have become\nkey criteria for assessing the quality of extracted knowledge graphs.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": ".",
+      "relation": "assess",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "LP-Measure assesses the quality of a KG through link prediction tasks,\neliminating the need for human labor or a gold standard [Zhu et al., 2023]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "prediction tasks",
+      "relation": "assess_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "LP-Measure assesses the quality of a KG through link prediction tasks,\neliminating the need for human labor or a gold standard [Zhu et al., 2023]."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KGs",
+      "relation": "evaluate",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "This method evaluates\nKGs based on their consistency and redundancy by removing a portion of the graph and testing\nwhether the removed triples can be recovered through link prediction tools."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "removing",
+      "relation": "evaluate_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "This method evaluates\nKGs based on their consistency and redundancy by removing a portion of the graph and testing\nwhether the removed triples can be recovered through link prediction tools."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "coherence",
+      "relation": "evaluate",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "The KGTtm\nmodel, on the other hand, evaluates the coherence of triples within a knowledge graph Jia et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "other hand",
+      "relation": "evaluate_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "The KGTtm\nmodel, on the other hand, evaluates the coherence of triples within a knowledge graph Jia et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "knowledge graph",
+      "relation": "evaluate_within",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "The KGTtm\nmodel, on the other hand, evaluates the coherence of triples within a knowledge graph Jia et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comprehensive ment",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "KGrEaT provides a comprehensive assess-\nment of KGs by evaluating their performance on downstream tasks such as classification, clustering,\nand recommendation [Heist et al., 2023] rather than focusing"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "evaluating",
+      "relation": "provide_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "KGrEaT provides a comprehensive assess-\nment of KGs by evaluating their performance on downstream tasks such as classification, clustering,\nand recommendation [Heist et al., 2023] rather than focusing"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "embedding",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "In contrast, DiffQ uses embedding models to evaluate the KG\u2019s quality and assign a DiffQ Score,\nresulting in improved KG quality assessment Tan et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contrast",
+      "relation": "use_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.7,
+      "sentence": "In contrast, DiffQ uses embedding models to evaluate the KG\u2019s quality and assign a DiffQ Score,\nresulting in improved KG quality assessment Tan et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "two popular existing methods",
+      "relation": "explain",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "3\nExisting Methods\nBefore describing KGGen, we explain two popular existing methods for extracting KGs from plain\ntext, which will serve as a basis for comparison throughout the rest of this paper.\n3."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "dependency parse",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "It first generates a \u201cdependency parse\" for each sentence using the Stanford CoreNLP\npipeline."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each edge",
+      "relation": "traverse",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "A trained classifier then traverses each edge in the dependency parse, deciding whether to\ncreate, continue, or stop processing a clause."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "dependency parse",
+      "relation": "traverse_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "A trained classifier then traverses each edge in the dependency parse, deciding whether to\ncreate, continue, or stop processing a clause."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "complex sentences",
+      "relation": "split",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "These decisions split complex sentences into shorter,\nself-contained clauses."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "shorter contained clauses",
+      "relation": "split_into",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "These decisions split complex sentences into shorter,\nself-contained clauses."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "tuples",
+      "relation": "produce",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "From these clauses, the system produces (subject, relation, object) tuples,\neach accompanied by a confidence score."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "clauses",
+      "relation": "produce_From",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "From these clauses, the system produces (subject, relation, object) tuples,\neach accompanied by a confidence score."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "text",
+      "relation": "handle",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Because OpenIE does not require its input text to have a\nspecific structure, OpenIE can handle text in any format.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "any format",
+      "relation": "handle_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "Because OpenIE does not require its input text to have a\nspecific structure, OpenIE can handle text in any format.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "based knowledge retrieval",
+      "relation": "integrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "3.2\nGraphRAG\nGraphRAG, developed by Microsoft in 2024, integrates graph-based knowledge retrieval with\nlanguage models (LMs)"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "functionality",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "As a first step, GraphRAG provides functionality\nfor generating KGs from plain text, which serve as its database for retrieval."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "first step",
+      "relation": "provide_As",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "As a first step, GraphRAG provides functionality\nfor generating KGs from plain text, which serve as its database for retrieval."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "graph",
+      "relation": "create",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "In this process,\nGraphRAG creates a graph by prompting LMs to extract node-entities and relationships between\nthese entities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "process",
+      "relation": "create_In",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "In this process,\nGraphRAG creates a graph by prompting LMs to extract node-entities and relationships between\nthese entities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "prompting",
+      "relation": "create_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "In this process,\nGraphRAG creates a graph by prompting LMs to extract node-entities and relationships between\nthese entities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "LM",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Throughout this extraction, few-shot prompting provides the LM with examples of\ndesireable extractions."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extraction",
+      "relation": "provide_Throughout",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.7,
+      "sentence": "Throughout this extraction, few-shot prompting provides the LM with examples of\ndesireable extractions."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "examples",
+      "relation": "provide_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "Throughout this extraction, few-shot prompting provides the LM with examples of\ndesireable extractions."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "nodes",
+      "relation": "consist_of",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "The final graph consists of the nodes and their relationships along\nwith communities their summaries.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "multi - stage approach",
+      "relation": "rely_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "4\nKGGen: Knowledge Graphs From Plain Text\nUnlike most previous methods of LLM-based KG extraction, we rely on a multi-stage approach\n(1) extract entity and relations from each source text using an LLM"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "strong constraints",
+      "relation": "impose",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "3\nWe impose strong constraints on the LLM via prompting to prevent it from incorrectly grouping\ntogether entities or edges that are similar in meaning but not actually the same - for example, conflati"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "prompting",
+      "relation": "impose_via",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "3\nWe impose strong constraints on the LLM via prompting to prevent it from incorrectly grouping\ntogether entities or edges that are similar in meaning but not actually the same - for example, conflati"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "multiple passes",
+      "relation": "introduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We introduce multiple passes through our extracted edges and edges to resolve similar entities and\nconsolidate the number of edge types."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "our extracted edges",
+      "relation": "introduce_through",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "We introduce multiple passes through our extracted edges and edges to resolve similar entities and\nconsolidate the number of edge types."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "formation",
+      "relation": "prevent",
+      "relation_type": "direct_action",
+      "relation_subtype": "causal",
+      "confidence": 0.9,
+      "sentence": "Entity and edge resolution prevents the formation of sparse\nKGs, which may produce meaningless KG embeddings under standard algorithms such as TransE.\nOur extraction method involves several steps, whi"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Appendix A",
+      "relation": "find_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "The exact prompts for each\nstep can be found in Appendix A, and the process is illustrated in Figure 1.\n4.1\nEntity and Relation Extraction\nThe first stage takes unstructured text as input and produces"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Google 2.0 Flash",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We use Google\u2019s Gemini 2.0 Flash as the language model to provide structured output via\nDSPy signatures."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "language model",
+      "relation": "use_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "We use Google\u2019s Gemini 2.0 Flash as the language model to provide structured output via\nDSPy signatures."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "source text",
+      "relation": "take",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "The first step takes in source text and extracts a list of entities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "list",
+      "relation": "output",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Given the source\ntext and entities list, the second step outputs a list of subject-predicate-object relations."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "list",
+      "relation": "output_Given",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "Given the source\ntext and entities list, the second step outputs a list of subject-predicate-object relations."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "DSPy signature",
+      "relation": "correspond_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "Each step\ncorresponds to a DSPy signature that specifies instructions for the LLM to follow in its docstring."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "unique entities",
+      "relation": "collect",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We\nfind this 2-step approach works better to ensure consistency between entities.\n4.2\nAggregation\nAfter extracting triples from each source text, we collect all the unique entities and edges across al"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "be",
+      "relation": "normalize",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "All entities and edges are normalized to be in\nlowercase letters only."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "redundancy",
+      "relation": "reduce",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "The aggregation step reduces redundancy in the KG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KG",
+      "relation": "reduce_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "The aggregation step reduces redundancy in the KG."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "raw graph",
+      "relation": "have",
+      "relation_type": "direct_action",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "Note that the aggregation\nstep does not require an LLM.\n4.3\nEntity and Edge Resolution\nAfter extraction and aggregation, we typically have a raw graph containing duplicate or synonymous\nentities and p"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "stage approach",
+      "relation": "employ",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "Our\nresolution process employs a two-stage approach combining embedding-based clustering with LLM-\nbased de-duplication to efficiently handle large knowledge graphs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "semantic embeddings",
+      "relation": "get",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We get the semantic embeddings of every item using\nS-BERT and cluster using k-means into clusters of 128 items.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "similar items",
+      "relation": "retrieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "For each item in a cluster, we retrieve the top-k most semantically similar items, where\nk=16, using a fused BM25 and semantic embedding approach.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each item",
+      "relation": "retrieve_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "For each item in a cluster, we retrieve the top-k most semantically similar items, where\nk=16, using a fused BM25 and semantic embedding approach.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "identify",
+      "relation": "prompt",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Then, the LLM is prompted to identify exact duplicates from this set, considering variations\nin tense, plurality, case, abbreviations, and shorthand forms.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "canonical representative",
+      "relation": "select",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "For each set of duplicates, the LLM selects a canonical representative that best captures the\nshared meaning, similar to aliases that Wikidata uses."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each set",
+      "relation": "select_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "For each set of duplicates, the LLM selects a canonical representative that best captures the\nshared meaning, similar to aliases that Wikidata uses."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "cluster",
+      "relation": "remove_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "The item and its duplicates are removed from the cluster and steps 1-3 repeat until no items\nremain in the cluster.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "duplication",
+      "relation": "enable",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "This approach enables effective de-duplication even for very large knowledge graphs by processing\nsemantic clusters in parallel."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "even",
+      "relation": "enable_for",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "This approach enables effective de-duplication even for very large knowledge graphs by processing\nsemantic clusters in parallel."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Measure",
+      "relation": "produce",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "As a remedy, we produce the\nMeasure of Information in Nodes and Edges (MINE), the first benchmark that directly measures a\n4\nFigure 1: KGGen extraction method\nknowledge-graph extractor\u2019s ability to ca"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "remedy",
+      "relation": "produce_As",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "As a remedy, we produce the\nMeasure of Information in Nodes and Edges (MINE), the first benchmark that directly measures a\n4\nFigure 1: KGGen extraction method\nknowledge-graph extractor\u2019s ability to ca"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "second measures",
+      "relation": "assess",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.8,
+      "sentence": "MINE contains two\ntasks: the first assesses how well a KG extractor captures the information in short, page-length text;\nthe second measures downstream RAG performance on multi-million token datasets."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "tasks",
+      "relation": "call",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We call these\ntasks MINE-1 and MINE-2 respectively."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "fraction",
+      "relation": "approximate",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.85,
+      "sentence": "5.1\nMINE-1: Knowledge Retention\nMINE-1 approximates the fraction of information a KG extractor is able to capture from an article\nwithout relying on downstream tasks, which can obscure whether perform"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "100 articles",
+      "relation": "consist_of",
+      "relation_type": "prepositional",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "MINE-1 consists of 100 articles, each accompanied by 15 facts that are known to be present in the\narticle."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "mean length",
+      "relation": "have",
+      "relation_type": "direct_action",
+      "relation_subtype": "definitional",
+      "confidence": 0.9,
+      "sentence": "The dataset has the following characteristics: articles have a mean length of 592 words (std.\n85 words, range: 440-976 words) and cover diverse topics including Arts, Culture & Society (24\narticles), "
+    },
+    {
+      "source": "dependency_parse",
+      "target": "corresponding KG",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "procedural",
+      "confidence": 0.9,
+      "sentence": "For each article, MINE-1 generates a corresponding KG using the\nextractor being evaluated.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each article",
+      "relation": "generate_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "For each article, MINE-1 generates a corresponding KG using the\nextractor being evaluated.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "15 facts",
+      "relation": "extract",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "To assess the quality of these KGs, we extract 15 facts from each article using an LLM-based\nextraction prompt found in Appendix B."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KG",
+      "relation": "extract",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "To measure performance on MINE-1, the KG extractor first extracts a KG\nfrom each article."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "similar nodes",
+      "relation": "retrieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "For each fact, the verifier retrieves\nthe top-k most semantically similar nodes in the KG, then expands the result to include all nodes\nwithin two relations of those top-k nodes, reflecting the fact t"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each fact",
+      "relation": "retrieve_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "For each fact, the verifier retrieves\nthe top-k most semantically similar nodes in the KG, then expands the result to include all nodes\nwithin two relations of those top-k nodes, reflecting the fact t"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "LLM",
+      "relation": "pass_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "The subgraph induced by these nodes is passed to an LLM, which is prompted to\noutput a binary score: 1 if the fact can be inferred from the retrieved nodes and relations alone, and 0\notherwise."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "its reliability",
+      "relation": "validate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "While LLM-based evaluation\nintroduces potential biases, we validated its reliability by manually scoring 60 randomly selected\nfact-KG pairs and comparing them to LLM judgments, achieving 90.2% agreeme"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scoring",
+      "relation": "validate_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "While LLM-based evaluation\nintroduces potential biases, we validated its reliability by manually scoring 60 randomly selected\nfact-KG pairs and comparing them to LLM judgments, achieving 90.2% agreeme"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "5 Figure 2",
+      "relation": "illustrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "The full evaluation pipeline is illustrated in Figure 2.\n5\nFigure 2: Evaluation process used in MINE-1\n5.2\nMINE-2: KG-Assisted RAG Description\nThe RAG evaluation is based on the WikiQA dataset Yang et"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Figure 2",
+      "relation": "illustrate_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "The full evaluation pipeline is illustrated in Figure 2.\n5\nFigure 2: Evaluation process used in MINE-1\n5.2\nMINE-2: KG-Assisted RAG Description\nThe RAG evaluation is based on the WikiQA dataset Yang et"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "single KG",
+      "relation": "construct",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Using the method under evaluation, we construct a\nsingle KG that aggregates information from all articles referenced in WikiQA."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "top 10 relevant triples",
+      "relation": "retrieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "For each question in\nthe dataset, we retrieve the top 10 most relevant triples by embedding both the question and all KG\ntriples using the all-MiniLM-L6-v2 model from SentenceTransformers."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each question",
+      "relation": "retrieve_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "For each question in\nthe dataset, we retrieve the top 10 most relevant triples by embedding both the question and all KG\ntriples using the all-MiniLM-L6-v2 model from SentenceTransformers."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "embedding",
+      "relation": "retrieve_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "For each question in\nthe dataset, we retrieve the top 10 most relevant triples by embedding both the question and all KG\ntriples using the all-MiniLM-L6-v2 model from SentenceTransformers."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "cosine similarity",
+      "relation": "compute",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We then compute the cosine\nsimilarity between the question and each triple, alongside a relevance score produced by BM25."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "relevance score",
+      "relation": "compute_alongside",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "We then compute the cosine\nsimilarity between the question and each triple, alongside a relevance score produced by BM25."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "their associated text chunks",
+      "relation": "provide",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Since each relation is linked to a source text chunk during generation by KGGen and GraphRAG, we\nprovide the full set of 20 retrieved triples, their associated text chunks, and the original question t"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "using",
+      "relation": "evaluate",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "The complete prompt used can be found in\nAppendix B. Finally, the LM responses are evaluated using LLM-as-a-Judge to determine whether\nthey contain the correct answer to the question."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comparison",
+      "relation": "exclude_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "The prompt used for this final verification step is also\nincluded in Appendix B. OpenIE is excluded from this comparison, as it cannot produce KGs that\nlink relations to the original text chunks.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "OpenIE",
+      "relation": "use",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "6\nResults\nWe use MINE to benchmark KGGen against leading existing methods of plain-text-to-KG extraction:\nOpenIE Angeli et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "benchmark KGGen",
+      "relation": "use_to",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "6\nResults\nWe use MINE to benchmark KGGen against leading existing methods of plain-text-to-KG extraction:\nOpenIE Angeli et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "leading",
+      "relation": "use_against",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "6\nResults\nWe use MINE to benchmark KGGen against leading existing methods of plain-text-to-KG extraction:\nOpenIE Angeli et al."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "qualitative results",
+      "relation": "present",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "After providing this quantitative\ncomparison of extraction fidelity, we present qualitative results that demonstrate the advantages of\nKGGen over past methods.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "providing",
+      "relation": "present_After",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "After providing this quantitative\ncomparison of extraction fidelity, we present qualitative results that demonstrate the advantages of\nKGGen over past methods.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "accuracies",
+      "relation": "display",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "6.1\nEvaluations on MINE-1\nFigure 3 displays accuracies from KGGen, OpenIE, and GraphRAG on MINE."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "its performance",
+      "relation": "test",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Figure 4 shows an example query from MINE-1 and relevant\nrelations extracted by KGGen, OpenIE, and GraphRAG.\n6.1.1\nGeneralization Across Language Models\nTo evaluate KGGen\u2019s robustness across different"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "average performance",
+      "relation": "show",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Dotted vertical lines show average performance."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "66.07 %",
+      "relation": "score",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "KGGen scored 66.07% on average, significantly\noutperforming GraphRag 47.80% and OpenIE 29.84%.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "average",
+      "relation": "score_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "KGGen scored 66.07% on average, significantly\noutperforming GraphRag 47.80% and OpenIE 29.84%.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "different foundation models",
+      "relation": "generalize_across",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.85,
+      "sentence": "OpenIE\n55/100 (55%)\nKGGen\u2019s extraction methodology generalizes well across different foundation models."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "reasonable extraction quality",
+      "relation": "maintain",
+      "relation_type": "direct_action",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "Although\nClaude Sonnet 3.5 achieves the highest score of 73%, all tested models maintain reasonable extraction\nquality, making KGGen adaptable to users\u2019 preferred LLM providers.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "comparable performance",
+      "relation": "show",
+      "relation_type": "direct_action",
+      "relation_subtype": "comparative",
+      "confidence": 0.85,
+      "sentence": "7\n6.2\nEvaluations on MINE-2: RAG performance\nFigure 5 shows comparable performance between KGGen and GraphRag on MINE-2.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "MINE-2",
+      "relation": "show_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "7\n6.2\nEvaluations on MINE-2: RAG performance\nFigure 5 shows comparable performance between KGGen and GraphRag on MINE-2.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "experi- ments",
+      "relation": "conduct",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "The two methods perform\ncomparably.\n6.3\nEvaluation on Human-Annotated Data: SemEval-2010\nTo evaluate KGGen\u2019s extraction quality against human-annotated ground truth, we conducted experi-\nments using t"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "100 sentences",
+      "relation": "select",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We randomly selected 100 sentences from the dataset,\neach containing two manually labeled target entities."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extract",
+      "relation": "apply",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "After removing entity markup tags to ensure\nunbiased extraction, we applied KGGen to extract entities and relationships from each sentence.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "removing",
+      "relation": "apply_After",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "After removing entity markup tags to ensure\nunbiased extraction, we applied KGGen to extract entities and relationships from each sentence.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "extraction accuracy",
+      "relation": "focus_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.5,
+      "sentence": "Our evaluation focused on entity extraction accuracy, as the dataset\u2019s relation labels consist of only 5\nbroad categorical types rather than specific semantic relations."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "detailed entity descriptions",
+      "relation": "extract",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "The\nmethod consistently extracted more detailed entity descriptions compared to human annotations,\noften identifying additional relevant entities in longer sentences."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "to",
+      "relation": "extract_compared",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "The\nmethod consistently extracted more detailed entity descriptions compared to human annotations,\noften identifying additional relevant entities in longer sentences."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "example",
+      "relation": "arise_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "For example, given the sentence\n\u201cThe ambitious Eurasia exhibition arose from an idea by Achille Bonito Oliva,\u201d with target entities\n\u2018exhibition\u2019 and \u2018idea\u2019, KGGen extracted [\u2018Eurasia exhibition\u2019, \u2018ide"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "sentence",
+      "relation": "arise_given",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "For example, given the sentence\n\u201cThe ambitious Eurasia exhibition arose from an idea by Achille Bonito Oliva,\u201d with target entities\n\u2018exhibition\u2019 and \u2018idea\u2019, KGGen extracted [\u2018Eurasia exhibition\u2019, \u2018ide"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "idea",
+      "relation": "arise_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.9,
+      "sentence": "For example, given the sentence\n\u201cThe ambitious Eurasia exhibition arose from an idea by Achille Bonito Oliva,\u201d with target entities\n\u2018exhibition\u2019 and \u2018idea\u2019, KGGen extracted [\u2018Eurasia exhibition\u2019, \u2018ide"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "entities exhibition",
+      "relation": "arise_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "For example, given the sentence\n\u201cThe ambitious Eurasia exhibition arose from an idea by Achille Bonito Oliva,\u201d with target entities\n\u2018exhibition\u2019 and \u2018idea\u2019, KGGen extracted [\u2018Eurasia exhibition\u2019, \u2018ide"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "fundamental quality",
+      "relation": "evaluate",
+      "relation_type": "direct_action",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "6.4\nQualitative Results\nWe first evaluated the fundamental quality of extracted knowledge graphs by examining whether\nthe extracted triples conform to the basic definition of a knowledge graph: subjec"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "examining",
+      "relation": "evaluate_by",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "6.4\nQualitative Results\nWe first evaluated the fundamental quality of extracted knowledge graphs by examining whether\nthe extracted triples conform to the basic definition of a knowledge graph: subjec"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "100 triples",
+      "relation": "select",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We\nrandomly selected 100 triples from each method and manually evaluated their validity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each method",
+      "relation": "select_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.85,
+      "sentence": "We\nrandomly selected 100 triples from each method and manually evaluated their validity."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Table 1",
+      "relation": "show_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "The results\nare shown in Table 1.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "structures",
+      "relation": "extract",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "Despite GraphRAG\u2019s comparable performance on downstream tasks, it does not extract structures\nthat closely resemble traditional knowledge graphs, which is a major strength of KGGen."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "GraphRAG comparable performance",
+      "relation": "extract_Despite",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.75,
+      "sentence": "Despite GraphRAG\u2019s comparable performance on downstream tasks, it does not extract structures\nthat closely resemble traditional knowledge graphs, which is a major strength of KGGen."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "few nodes",
+      "relation": "extract",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "As seen in\nFigures 6b and 6e, GraphRAG often extracts very few nodes and connections for an entire article.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "sections",
+      "relation": "illustrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "For compression,\nFigure 6a and 6d illustrate sections of the KGs generated by KGGen for the same articles."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "compression",
+      "relation": "illustrate_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.8,
+      "sentence": "For compression,\nFigure 6a and 6d illustrate sections of the KGs generated by KGGen for the same articles."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "one",
+      "relation": "illustrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "Figure 6c\nillustrates one of many issues in OpenIE\u2019s KGs."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "to",
+      "relation": "end_Due",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Due to their frequency, these nodes,\nwhich contain no useful information, often end up as some of the most well-connected nodes in the\ngraph."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "some",
+      "relation": "end_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.7,
+      "sentence": "Due to their frequency, these nodes,\nwhich contain no useful information, often end up as some of the most well-connected nodes in the\ngraph."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "being",
+      "relation": "end",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "Consequently, unrelated concepts end up being just two hops apart, linked by paths through\nnodes like \u201cit\" or \u201care\"."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KGs",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "By contrast, KGGen consistently generates KGs that are informative and\ncoherent, effectively capturing critical relationships and information from the articles.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contrast",
+      "relation": "generate_By",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.75,
+      "sentence": "By contrast, KGGen consistently generates KGs that are informative and\ncoherent, effectively capturing critical relationships and information from the articles.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "three knowledge graphs",
+      "relation": "generate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "To test the re-usability of our\nrelations, we generate three knowledge graphs from text of different sizes: 10 000 characters, 100 000\ncharacters, and 1 000 000 characters and plot the number of edges"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "each an average",
+      "relation": "reuse",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "As one can see from Figure 7, KGGen reuses each relation-type an average of 10 times,\nand the average number of occurrences of each relation-type increases with the size of the corpus.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contrast",
+      "relation": "reuse_By",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.75,
+      "sentence": "By contrast, GraphRAG reuses each relation type an average of 2 times regardless of the size of the\ngraph."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "its computational efficiency",
+      "relation": "analyze",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "This suggests that the relations in GraphRAG do not generalize as the corpus grows.\n6.6\nEfficiency and Cost Analysis\nTo evaluate the practical applicability of KGGen, we analyzed its computational eff"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scale extraction task",
+      "relation": "analyze_on",
+      "relation_type": "prepositional",
+      "relation_subtype": "procedural",
+      "confidence": 0.8,
+      "sentence": "This suggests that the relations in GraphRAG do not generalize as the corpus grows.\n6.6\nEfficiency and Cost Analysis\nTo evaluate the practical applicability of KGGen, we analyzed its computational eff"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Name",
+      "relation": "extract",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "We extracted a KG from the novel The Name of the Wind by Patrick\nRothfuss, processing text corpora of increasing sizes."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "novel",
+      "relation": "extract_from",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.85,
+      "sentence": "We extracted a KG from the novel The Name of the Wind by Patrick\nRothfuss, processing text corpora of increasing sizes."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KGGen de duplication effectiveness",
+      "relation": "demonstrate",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "Table 2 demonstrates KGGen\u2019s de-duplication\neffectiveness across different scales.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "scale",
+      "relation": "improve_with",
+      "relation_type": "prepositional",
+      "relation_subtype": "temporal",
+      "confidence": 0.8,
+      "sentence": "Table 2: KGGen scaling characteristics showing entity and relation de-duplication\nCorpus Size\nPre-\nPost-\nEntity\nPre-\nPost-\nRelation\nPre-\nPost-\nEdge\n(chars)\nEntities\nEntities\nDe-dup Ratio\nRelations\nRel"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "9 % reduction",
+      "relation": "achieve",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "For the complete novel (1M characters), KGGen achieved a 22.4% reduction in entities\n9\nand 23% reduction in edges through intelligent consolidation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "complete novel",
+      "relation": "achieve_For",
+      "relation_type": "prepositional",
+      "relation_subtype": "attributional",
+      "confidence": 0.8,
+      "sentence": "For the complete novel (1M characters), KGGen achieved a 22.4% reduction in entities\n9\nand 23% reduction in edges through intelligent consolidation."
+    },
+    {
+      "source": "dependency_parse",
+      "target": "contribution",
+      "relation": "highlight",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "This analysis highlights the contribution\nof each module: the extraction phase (Steps 1-2) captures comprehensive information from text, while\nthe resolution phase (Step 3) significantly reduces redun"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "Table 4",
+      "relation": "find_in",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.9,
+      "sentence": "Table 3\npresents the computational cost breakdown for processing the entire novel:\nTable 3: KGGen cost and throughput analysis for 1M character corpus\nStep\nPrompt\nCompletion\nTotal\nTime\nThroughput\nCost"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "2,319 seconds",
+      "relation": "require",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.85,
+      "sentence": "The complete\nextraction time comparison reveals a significant difference: GraphRAG requires 2,319 seconds for\nthe extraction phase alone on the 1M character corpus, compared to KGGen\u2019s total processin"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "to",
+      "relation": "require_compared",
+      "relation_type": "prepositional",
+      "relation_subtype": "comparative",
+      "confidence": 0.8,
+      "sentence": "The complete\nextraction time comparison reveals a significant difference: GraphRAG requires 2,319 seconds for\nthe extraction phase alone on the 1M character corpus, compared to KGGen\u2019s total processin"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "nearly",
+      "relation": "produce_as",
+      "relation_type": "prepositional",
+      "relation_subtype": "other",
+      "confidence": 0.75,
+      "sentence": "Additionally, GraphRAG produces nearly as\nmany relation types (966) as edges (981), indicating minimal relation reuse and poor generalization\ncompared to KGGen\u2019s efficient consolidation.\n"
+    },
+    {
+      "source": "dependency_parse",
+      "target": "KG",
+      "relation": "produce",
+      "relation_type": "direct_action",
+      "relation_subtype": "direct_action",
+      "confidence": 0.9,
+      "sentence": "7\nBroader Impact and Community Adoption\nOur work produces a KG-from-plain-text extractor that helps to solve"
+    },
+    {
+      "source": "llm_inferred",
+      "target": "KGGen",
+      "relation": "lead_to",
+      "relation_type": "leads_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "first benchmark",
+      "relation": "exemplifies",
+      "relation_type": "exemplifies",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "comparable retrieval accuracy",
+      "relation": "contributes_to",
+      "relation_type": "contributes_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.8,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "our graphs",
+      "relation": "part_of",
+      "relation_type": "part_of",
+      "relation_subtype": "inferred",
+      "confidence": 0.8,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "concise entities",
+      "relation": "specializes",
+      "relation_type": "specializes",
+      "relation_subtype": "inferred",
+      "confidence": 0.8,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "first benchmark",
+      "relation": "follows",
+      "relation_type": "follows",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "graphs",
+      "relation": "leads_to",
+      "relation_type": "leads_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "scaling properties",
+      "relation": "contributes_to",
+      "relation_type": "contributes_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.8,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "benchmarks",
+      "relation": "part_of",
+      "relation_type": "part_of",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "method",
+      "relation": "exemplifies",
+      "relation_type": "exemplifies",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "knowledge retrieval capabilities",
+      "relation": "leads_to",
+      "relation_type": "leads_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.8,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "significant advances",
+      "relation": "specializes",
+      "relation_type": "specializes",
+      "relation_subtype": "inferred",
+      "confidence": 0.85,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "based approaches",
+      "relation": "follows",
+      "relation_type": "follows",
+      "relation_subtype": "inferred",
+      "confidence": 0.7,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "accuracy approximation methods",
+      "relation": "leads_to",
+      "relation_type": "leads_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.8,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "semantic coherence",
+      "relation": "contributes_to",
+      "relation_type": "contributes_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "text",
+      "relation": "specializes",
+      "relation_type": "specializes",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    },
+    {
+      "source": "llm_inferred",
+      "target": "KGs",
+      "relation": "leads_to",
+      "relation_type": "leads_to",
+      "relation_subtype": "inferred",
+      "confidence": 0.9,
+      "sentence": ""
+    }
+  ],
+  "metadata": {
+    "node_count": 477,
+    "edge_count": 204,
+    "source": "hybrid_kg"
+  }
+}
