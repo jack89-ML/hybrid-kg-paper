@@ -2,6 +2,14 @@
 
 A hybrid framework for knowledge graph (KG) extraction from scientific text that combines the **reproducibility of deterministic NLP** with the **semantic richness of large language models**.
 
+> **Companion to [Arachne-Scholar](https://github.com/jack89-ML/Arachne-Scholar).**
+> This repository is the research companion of the Arachne engine: it shares the same
+> deterministic SVO backbone (spaCy dependency parsing) and quantifies what LLM
+> enrichment adds on top of it. Arachne-Scholar is the production engine (local-first,
+> OCR, HUD, Gephi export); this repo is the controlled experiment behind the method —
+> see the [Arachne README](https://github.com/jack89-ML/Arachne-Scholar) for the
+> deterministic-manifesto context.
+
 ## Key Results
 
 | Metric | Value |
